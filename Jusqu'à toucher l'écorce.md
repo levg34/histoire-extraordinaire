@@ -749,7 +749,7 @@ Alba prit la main de Lucien.
 
 ### Chapitre 28 : Dans lequel Alba franchit le seuil du village
 
-Ils mirent une éternité à redescendre. Le chemin était traître, la neige effaçait les repères, et Alba, malgré sa connaissance intime de la forêt, semblait désorientée par la violence des éléments. Lucien guidait, la main ferme, la lanterne brandie devant eux. Le Rouquin suivait, le museau dans leurs traces.
+Ils mirent une éternité à remonter jusqu'au village. Le chemin était traître, la neige effaçait les repères, et Alba, malgré sa connaissance intime de la forêt, semblait désorientée par la violence des éléments. Lucien guidait, la main ferme, la lanterne brandie devant eux. Le Rouquin suivait, le museau dans leurs traces.
 
 Quand les premières maisons du village apparurent, silhouettes trapues coiffées de blanc, Alba ralentit. Lucien sentit sa main se crisper légèrement.
 
