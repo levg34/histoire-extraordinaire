@@ -2441,6 +2441,28 @@ Le Rouquin les accueillit à la lisière, la queue frétillante. Il avait senti 
 
 Le village les attendait. La forêt aussi. Et désormais, ils savaient qu'ils pouvaient aller de l'un à l'autre, sans jamais se perdre.
 
+### Épilogue : Ce que le Sage ne dit pas
+
+_(Point de vue du vieil homme itinérant, sur un sentier anonyme.)_
+
+Il marche. Il a toujours marché. Ses pieds nus connaissent la caresse de la mousse, la morsure des cailloux, la fraîcheur des sources cachées. Il ne sait plus très bien depuis combien de temps il marche. Les saisons passent, et lui avec elles, comme une feuille sur le courant.
+
+Parfois, il croise quelqu'un. Un jeune forgeron qui cherche du bois et qui s'est perdu. Un homme mûr, assis seul devant sa maison, qui regarde la forêt sans oser y entrer. Une enfant aux yeux gris qui fuit la ville et qui n'a jamais vu d'arbres.
+
+Il leur dit quelques mots. Jamais les mêmes. Il ne prépare rien ; les mots viennent, comme l'eau à la source. Il ne sait pas s'ils servent à quelque chose. Il les pose, simplement, et reprend sa marche.
+
+Il ne revient jamais en arrière. Il ne vérifie pas si la graine a germé. Ce n'est pas son rôle. Son rôle, c'est de marcher, et de parler quand on lui parle, et de se taire le reste du temps.
+
+Parfois, la nuit, sous un hêtre ou un chêne, il se souvient de visages. Le jeune forgeron, devenu vieux, a-t-il trouvé ce qu'il ne savait pas chercher ? L'homme inquiet, a-t-il a fini par franchir la lisière ? L'enfant aux yeux gris, devenue femme, a-t-elle trouvé sa forêt ?
+
+Il sourit, dans le noir. Il se dit que les arbres poussent sans qu'on leur dise comment, et que les humains, peut-être, ne sont pas si différents.
+
+Puis il s'endort, et le lendemain, il marche encore.
+
+---
+
+Fin
+
 ---
 
 ### Interlude (à insérer après « Et la ville les avala. » — Chapitre 54)
@@ -2508,26 +2530,6 @@ Alors aujourd'hui, il restera. Il dormira près de l'âtre de la maison aux murs
 Quand ils reviendront — et ils reviendront —, il sera là, assis à la lisière, la queue enroulée autour des pattes. Il n'aura pas compté les jours. Il saura juste, à l'odeur du vent, que les siens rentrent.
 
 Et il trottinera à leur rencontre, comme il l'a toujours fait.
-
----
-
-### Fragment : Ce que le Sage ne dit pas
-
-_(Point de vue du vieil homme itinérant, sur un sentier anonyme.)_
-
-Il marche. Il a toujours marché. Ses pieds nus connaissent la caresse de la mousse, la morsure des cailloux, la fraîcheur des sources cachées. Il ne sait plus très bien depuis combien de temps il marche. Les saisons passent, et lui avec elles, comme une feuille sur le courant.
-
-Parfois, il croise quelqu'un. Un jeune forgeron qui cherche du bois et qui s'est perdu. Un homme mûr, assis seul devant sa maison, qui regarde la forêt sans oser y entrer. Une enfant aux yeux gris qui fuit la ville et qui n'a jamais vu d'arbres.
-
-Il leur dit quelques mots. Jamais les mêmes. Il ne prépare rien ; les mots viennent, comme l'eau à la source. Il ne sait pas s'ils servent à quelque chose. Il les pose, simplement, et reprend sa marche.
-
-Il ne revient jamais en arrière. Il ne vérifie pas si la graine a germé. Ce n'est pas son rôle. Son rôle, c'est de marcher, et de parler quand on lui parle, et de se taire le reste du temps.
-
-Parfois, la nuit, sous un hêtre ou un chêne, il se souvient de visages. Le jeune forgeron, devenu vieux, qui fume sa pipe sur un banc. L'homme inquiet, qui a fini par franchir la lisière. L'enfant aux yeux gris, devenue femme, qui a trouvé sa forêt.
-
-Il sourit, dans le noir. Il ne sait pas s'il y est pour quelque chose. Il se dit que les arbres poussent sans qu'on leur dise comment, et que les humains, peut-être, ne sont pas si différents.
-
-Puis il s'endort, et le lendemain, il marche encore.
 
 ---
 
