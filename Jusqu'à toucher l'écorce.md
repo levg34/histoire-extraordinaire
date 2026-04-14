@@ -2533,40 +2533,6 @@ Puis il s'endort, et le lendemain, il marche encore.
 
 à remplacer :
 
-**Placement :** Juste après le **chapitre 25**
-
-### Interlude : Celle qui tresse l'avoine
-
-Son nom n'avait pas d'importance. Les bêtes de la forêt ne l'appelaient pas. Elles savaient simplement qu'elle était là, qu'elle faisait partie du paysage, au même titre que le vieil if ou la source cachée sous les fougères.
-
-Elle vivait dans un creux de rocher, loin du sanctuaire mais jamais tout à fait ailleurs. L'hiver, elle y dormait beaucoup, enroulée dans des peaux de bêtes. L'été, elle marchait pieds nus sur la mousse, et ses cheveux gris se mêlaient aux lichens des branches basses.
-
-Elle ne priait pas. Elle saluait. Chaque changement de saison, elle venait au sanctuaire déposer ce que la forêt lui donnait en trop : une poignée de glands doux, une couronne d'avoine sauvage, une pierre polie par le ruisseau. Elle les glissait dans les anfractuosités de l'écorce, là où d'autres mains, avant elle, avaient fait de même. Elle ne savait pas qui. Elle savait juste que le geste était juste.
-
-Quand elle avait vu les deux jeunes solitaires pour la première fois — la fille aux gestes lents et le garçon au regard inquiet —, elle n'avait pas été surprise. La forêt attire ceux qui lui ressemblent. Elle les avait observés de loin, derrière un fourré de noisetiers. Ils étaient respectueux. Ils ne parlaient pas trop fort. Ils ne touchaient pas aux offrandes sans y ajouter les leurs. Et un renard roux trottinait devant eux, comme un guide minuscule.
-
-Elle avait reconnu cela. La justesse des silences. La patience des gestes.
-
-Alors elle avait décidé de leur laisser un signe. Pas pour les effrayer, non. Pour leur dire : _« Je vous vois. Vous êtes ici chez vous, vous aussi. »_
-
-Elle modela une petite figurine d'argile, un soir d'automne. Un renard, aux oreilles dressées. Elle la déposa sur la pierre aux gravures, à côté des anciennes spirales, et attendit.
-
-Ils la trouvèrent. Ils n'y touchèrent pas. Ils ajoutèrent une offrande à côté.
-
-C'était bien. C'étaient des gens du bon côté du silence.
-
-Quand la neige vint, elle traça un dessin dans la terre gelée, près de la même pierre. Un cercle. Une spirale. Un point. La plus vieille langue du monde. Elle voulait leur dire que le sanctuaire était un chemin, et qu'ils y avaient leur place.
-
-Elle ne savait pas si elle leur parlerait un jour. Les mots étaient des outils fragiles, souvent maladroits. Elle préférait les glands et les couronnes d'avoine. Mais elle sentait que le garçon, surtout, avait besoin de temps. Il était comme un jeune arbre transplanté, encore incertain de ses racines. La fille, elle, était déjà de la forêt. Elle le savait depuis le premier regard. Peut-être même avant.
-
-Parfois, la nuit, des images lui revenaient. Pas des souvenirs précis. Plutôt des sensations. Une lumière rouge. Une odeur âcre. Le bruit de quelque chose qui s'effondre. Mais elle secouait la tête, et les images retournaient dans l'ombre où elles dormaient.
-
-Elle préférait le présent. Le bruit du vent dans l'if. Le poids d'une couronne d'avoine entre ses doigts. Et l'idée que, quelque part au-delà des arbres, un vieil homme sur un banc fumait sa pipe en regardant les nuages.
-
-Elle n'y allait jamais. Mais elle savait qu'il était là.
-
-Cela suffisait.
-
 **Placement :** Juste après le **chapitre 52**
 
 ### Interlude : Celle qui se souvient du feu
