@@ -807,7 +807,7 @@ Elle resta silencieuse. Puis :
 
 Lucien réfléchit.
 
-— Y a un petit chemin derrière la maison. Il monte vers le bois, à l'écart des regards. Tu peux partir par là, si tu veux. Personne te verra.
+— Y a un petit chemin derrière la maison. Il descend vers le bois, à l'écart des regards. Tu peux partir par là, si tu veux. Personne te verra.
 
 Alba tourna la tête, surprise par l'absence d'insistance. Lucien lui tendit une tranche de pain grillé.
 
