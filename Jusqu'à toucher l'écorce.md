@@ -481,7 +481,7 @@ Le Rouquin ouvrit la marche pour le retour, trottinant avec l'assurance d'un gui
 
 ### Chapitre 19 : Dans lequel le silence parle plus fort que les mots
 
-Sur le chemin du retour, Alba marchait un peu plus près d'Lucien que d'habitude. Pas beaucoup. Juste la distance d'une main tendue. Il ne fit aucun commentaire, mais il le remarqua.
+Sur le chemin du retour, Alba marchait un peu plus près de Lucien que d'habitude. Pas beaucoup. Juste la distance d'une main tendue. Il ne fit aucun commentaire, mais il le remarqua.
 
 Avant de bifurquer vers son abri, elle s'arrêta et dit, sans le regarder :
 
@@ -657,7 +657,7 @@ L'hiver fut doux, cette année-là. La neige tomba juste ce qu'il fallait pour b
 
 Le sanctuaire dormait sous son manteau blanc, mais ils savaient qu'il était toujours là, patient, et que la femme aux cheveux gris y viendrait peut-être encore, déposer une poignée de baies séchées ou un dessin dans la neige.
 
-Un soir, alors qu'ils étaient assis dans l'abri de branchages d'Alba — agrandi et renforcé pour l'hiver avec l'aide silencieuse d'Lucien —, elle dit soudain :
+Un soir, alors qu'ils étaient assis dans l'abri de branchages d'Alba — agrandi et renforcé pour l'hiver avec l'aide silencieuse de Lucien —, elle dit soudain :
 
 — Je crois que la femme du sanctuaire, c'est un peu comme nous. Une solitaire qui a trouvé sa place. Mais elle, elle a peut-être toujours été là. Peut-être qu'elle est née dans la forêt, ou qu'elle y est venue il y a si longtemps qu'elle ne se souvient plus du mur gris.
 
@@ -743,7 +743,7 @@ Il ne dit rien. Il tendit la main.
 
 Elle le regarda longtemps. Le vent redoublait. La neige s'infiltrait partout. Le Rouquin gémit doucement.
 
-Alba prit la main d'Lucien.
+Alba prit la main de Lucien.
 
 ---
 
@@ -757,7 +757,7 @@ Quand les premières maisons du village apparurent, silhouettes trapues coiffée
 
 Elle hocha la tête, sans un mot, et ils reprirent leur marche.
 
-La porte de la maison d'Lucien s'ouvrit sur une bouffée de chaleur. Le feu couvait encore dans l'âtre, rougeoyant dans la pénombre. Lucien guida Alba jusqu'au fauteuil, jeta une couverture sur ses épaules, ranima les flammes. Le Rouquin, après une brève hésitation, se glissa près de l'âtre et s'effondra en boule, les yeux déjà mi-clos.
+La porte de la maison de Lucien s'ouvrit sur une bouffée de chaleur. Le feu couvait encore dans l'âtre, rougeoyant dans la pénombre. Lucien guida Alba jusqu'au fauteuil, jeta une couverture sur ses épaules, ranima les flammes. Le Rouquin, après une brève hésitation, se glissa près de l'âtre et s'effondra en boule, les yeux déjà mi-clos.
 
 Lucien prépara une infusion de verveine séchée, y ajouta une cuillerée de miel. Il tendit le bol fumant à Alba sans rien dire. Elle le prit à deux mains, but une gorgée, et ferma les yeux.
 
@@ -993,7 +993,7 @@ Elles y restèrent jusqu'à ce qu'elles fanent.
 
 ### Chapitre 37 : Dans lequel la forêt et le village commencent à dialoguer
 
-Le printemps avançait. Les jours rallongeaient encore, et avec eux, les visites d'Alba au village se firent un peu plus fréquentes. Pas beaucoup plus. Mais assez pour que le petit chemin derrière la maison d'Lucien commence à se marquer légèrement, comme un sentier de gibier.
+Le printemps avançait. Les jours rallongeaient encore, et avec eux, les visites d'Alba au village se firent un peu plus fréquentes. Pas beaucoup plus. Mais assez pour que le petit chemin derrière la maison de Lucien commence à se marquer légèrement, comme un sentier de gibier.
 
 Un matin, elle arriva avec un panier de morilles. Les premières de l'année.
 
@@ -1031,7 +1031,7 @@ La mère Brémond sourit, de ce sourire des vieilles personnes qui ont tout vu e
 
 — Regarde, ma fille. Regarde et apprends. La cuisine, c'est comme la forêt : faut du temps, de l'attention, et pas trop de gestes.
 
-Ce fut le premier repas d'Alba dans une maison qui n'était pas celle d'Lucien. Elle parla peu, mais elle écouta la mère Brémond raconter ses souvenirs de cueillettes, ses recettes oubliées, ses secrets de cuisson. Et en partant, elle emporta un petit bouquet de romarin, qu'elle glissa dans sa besace.
+Ce fut le premier repas d'Alba dans une maison qui n'était pas celle de Lucien. Elle parla peu, mais elle écouta la mère Brémond raconter ses souvenirs de cueillettes, ses recettes oubliées, ses secrets de cuisson. Et en partant, elle emporta un petit bouquet de romarin, qu'elle glissa dans sa besace.
 
 Sur le chemin du retour, elle dit à Lucien :
 
@@ -1197,7 +1197,7 @@ Le Rouquin, qui avait observé la scène avec attention, renifla les offrandes, 
 
 ### Chapitre 42 : Dans lequel l'amour est une chose qui se tisse à plusieurs fils
 
-Le soir tombait quand ils quittèrent le sanctuaire. Alba marchait près d'Lucien, et leurs épaules se frôlaient parfois, sans qu'ils y prennent garde.
+Le soir tombait quand ils quittèrent le sanctuaire. Alba marchait près de Lucien, et leurs épaules se frôlaient parfois, sans qu'ils y prennent garde.
 
 — Lucien, dit-elle soudain.
 
@@ -1227,7 +1227,7 @@ Alba sourit — un vrai sourire, cette fois, qui plissa le coin de ses yeux.
 
 — Les fougères, c'est très beau, dit Lucien doucement. Et c'est plus ancien que les arbres. Ça existait avant, les fougères. Avant tout.
 
-Alba ne répondit pas. Mais sa main, en marchant, effleura celle d'Lucien. Juste un instant. Juste assez pour que leurs doigts se reconnaissent.
+Alba ne répondit pas. Mais sa main, en marchant, effleura celle de Lucien. Juste un instant. Juste assez pour que leurs doigts se reconnaissent.
 
 Ils continuèrent à marcher, côte à côte, dans le soir qui descendait sur la forêt.
 
@@ -1293,7 +1293,7 @@ Elle resta ainsi, immobile, et Lucien vit quelque chose briller sur sa joue. Une
 
 Au bout d'un très long moment, elle se pencha, ramassa une pierre plate, et la posa délicatement sur le dessin, comme on scelle une promesse. Puis elle reprit son panier et s'éloigna, sans un mot, dans la direction du village.
 
-Alba serra doucement le bras d'Lucien.
+Alba serra doucement le bras de Lucien.
 
 — Elle a compris. Elle y va.
 
@@ -1359,7 +1359,7 @@ Lucien et Alba n'avaient pas suivi la femme aux cheveux gris jusqu'au village. I
 
 Ils virent la silhouette grise s'approcher. Ils virent Gustave se lever et s'éloigner. Ils virent les deux têtes grises côte à côte, immobiles, comme deux vieux arbres qu'on aurait plantés ensemble.
 
-Alba glissa sa main dans celle d'Lucien. Il la serra doucement.
+Alba glissa sa main dans celle de Lucien. Il la serra doucement.
 
 — Ils sont heureux, murmura-t-elle.
 
@@ -1407,7 +1407,7 @@ C'est un colporteur qui apporta la première graine. Il montait de la vallée av
 
 Lucien, qui d'ordinaire évitait ces attroupements, se retrouva là presque malgré lui, poussé par une curiosité nouvelle. Alba n'était pas avec lui — elle avait préféré rester en lisière, là où l'air sentait encore la résine et non la foule.
 
-Le colporteur parlait d'une grande sécheresse qui frappait les campagnes au sud, de troubles dans les cités marchandes, et d'un nouveau gouverneur qui avait fait paver la place centrale de la grande ville. Mais ce n'est pas cela qui retint l'attention d'Lucien.
+Le colporteur parlait d'une grande sécheresse qui frappait les campagnes au sud, de troubles dans les cités marchandes, et d'un nouveau gouverneur qui avait fait paver la place centrale de la grande ville. Mais ce n'est pas cela qui retint l'attention de Lucien.
 
 — Ah, et puis j'ai entendu une histoire, dit le colporteur en baissant la voix, comme on partage un secret. Paraît qu'on a retrouvé des vieux manuscrits, tout en bas, dans les caves du temple ancien. Des parchemins couverts de signes qu'on n'arrive pas à lire. Des dessins de forêts, d'arbres géants, de bêtes à cornes. Les savants disent que ça viendrait des collines, d'un culte oublié. Ils cherchent des gens qui connaissent les vieilles pierres.
 
@@ -1497,7 +1497,7 @@ Alba, elle, observait tout cela avec un étonnement doux. Elle n'était plus tou
 
 ### Chapitre 51 : Dans lequel le Rouquin fait un choix
 
-Un matin, alors qu'ils faisaient leurs derniers préparatifs, le Rouquin se planta devant la porte de la maison d'Lucien et refusa de bouger.
+Un matin, alors qu'ils faisaient leurs derniers préparatifs, le Rouquin se planta devant la porte de la maison de Lucien et refusa de bouger.
 
 Lucien le regarda, perplexe.
 
@@ -1533,7 +1533,7 @@ Ils reprirent la marche. En fin d'après-midi, la forêt s'ouvrit soudain sur un
 
 Lucien sentit son cœur se serrer. C'était plus grand, plus dense, plus... vivant que tout ce qu'il avait imaginé.
 
-Alba, à côté de lui, était très pâle. Mais elle ne recula pas. Elle regarda la ville longtemps, puis elle prit la main d'Lucien.
+Alba, à côté de lui, était très pâle. Mais elle ne recula pas. Elle regarda la ville longtemps, puis elle prit la main de Lucien.
 
 — On n'y va pas ce soir, dit-elle. Trop tard. Trop loin. On campera ici, à la lisière. Et demain... demain, on entrera.
 
@@ -1875,7 +1875,7 @@ Alba lut l'inscription et ses yeux s'emplirent de larmes.
 
 — Ils savaient. Les gens de la ville savaient, quelque part, qu'il y avait eu un hameau. Et ils ont planté un arbre pour ne pas oublier.
 
-Elle s'assit à côté d'Lucien. Leurs épaules se touchaient.
+Elle s'assit à côté de Lucien. Leurs épaules se touchaient.
 
 — C'est pour ça qu'on est venus, dit-elle doucement. Pas seulement pour les manuscrits. Pour se souvenir. Pour relier ce qui était séparé.
 
@@ -2049,7 +2049,7 @@ Alba, elle, regardait tout cela avec des yeux écarquillés. Elle n'avait jamais
 
 ## Chapitre 70 : La question du toit
 
-Le soir venu, ils se retrouvèrent dans la petite maison d'Lucien. Le feu crépitait dans l'âtre, et le Rouquin, couché devant les flammes, ronflait doucement, épuisé par l'excitation du retour.
+Le soir venu, ils se retrouvèrent dans la petite maison de Lucien. Le feu crépitait dans l'âtre, et le Rouquin, couché devant les flammes, ronflait doucement, épuisé par l'excitation du retour.
 
 Alba regardait autour d'elle. Les murs de pierre, les poutres sombres, la petite fenêtre donnant sur la colline. Ce lieu, qu'elle avait d'abord perçu comme une prison tiède, lui semblait maintenant un refuge. Un chez-elle possible.
 
@@ -2225,7 +2225,7 @@ Le soir tombait quand ils s'assirent sur une pierre moussue, à l'orée des ruin
 
 — Oui. Et peut-être qu'elle voudra venir. Voir par elle-même. Ou peut-être que non. Peut-être que c'est trop tôt, ou trop tard.
 
-Alba posa sa tête sur l'épaule d'Lucien.
+Alba posa sa tête sur l'épaule de Lucien.
 
 — On lui proposera. On proposera aussi à Anselme. Et on verra ce qu'ils décident. Rien ne presse.
 
