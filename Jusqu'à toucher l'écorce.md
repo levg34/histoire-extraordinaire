@@ -2375,9 +2375,27 @@ La descente fut plus rapide que la première fois. Ils connaissaient le chemin, 
 
 ---
 
-### Interlude : La porte entrouverte
+### Interlude : Ce que le Rouquin sait
 
-Quelques mois plus tard, Gaspard vit revenir le couple. Le même homme, la même femme, mais leurs regards avaient changé. Ils semblaient moins perdus, plus pleins. Le renard n'était pas avec eux cette fois. Gaspard se surprit à le regretter.
+Il sait qu'il ne les accompagnera pas. Il le sait avant eux, avant même qu'ils ne nouent leurs besaces et ne vérifient le contenu de leurs outres. Il le sait à la façon dont la lumière du matin pèse sur ses pattes, plus lourde qu'autrefois.
+
+La ville, il s'en souvient. Les pierres dures sous les coussinets, les odeurs mêlées qui brûlent le nez, le bruit qui empêche d'entendre les mulots sous la terre. Il y est allé une fois, par fidélité. Il n'a pas besoin d'y retourner. Sa place est ici, entre la lisière et le village, entre le sanctuaire et le banc du vieil homme qui sent la pipe et la patience.
+
+Il les regarde s'agiter, les deux humains. La femelle aux mains de mousse, le mâle au cœur de bois lent. Ils ont fini par se toucher, pense-t-il. Il a fallu du temps. Chez les renards, c'est plus simple : on se flaire, on se suit, on chasse ensemble ou pas. Mais les humains ont besoin de mots, et les mots sont des branches tordues qui cachent le tronc.
+
+Lui n'a jamais eu besoin de mots. Il a déposé des os, des plumes, une fois un vieux mulot. Il a dit : _Vous êtes ici chez vous_. Ils ont compris. Ils ont posé du pain, du miel, des caresses derrière les oreilles. Ils ont dit : _Tu es des nôtres_. Il a compris.
+
+Alors aujourd'hui, il restera. Il dormira près de l'âtre de la maison aux murs de pierre, sous la garde de la vieille femme qui sent le romarin et la cendre douce. Il attendra. Il sait attendre. La forêt lui a appris.
+
+Quand ils reviendront — et ils reviendront —, il sera là, assis à la lisière, la queue enroulée autour des pattes. Il n'aura pas compté les jours. Il saura juste, à l'odeur du vent, que les siens rentrent.
+
+Et il trottinera à leur rencontre, comme il l'a toujours fait.
+
+---
+
+### Interlude 2 : La porte entrouverte
+
+Quelques années plus tard, Gaspard vit revenir le couple. Le même homme, la même femme, mais leurs regards avaient changé. Ils semblaient moins perdus, plus pleins. Le renard n'était pas avec eux cette fois. Gaspard se surprit à le regretter.
 
 Ils passèrent la porte sans hâte. La femme portait une besace d'où dépassait un rouleau de toile cirée. L'homme avait au doigt une alliance simple en argent. Gaspard les salua d'un signe de tête.
 
@@ -2514,26 +2532,6 @@ Puis il s'endort, et le lendemain, il marche encore.
 ---
 
 Fin
-
----
-
-### Interlude : Ce que le Rouquin sait
-
-_(Point de vue du renard, au moment où Lucien et Agathe se préparent à redescendre vers la ville sans lui.)_
-
-Il sait qu'il ne les accompagnera pas. Il le sait avant eux, avant même qu'ils ne nouent leurs besaces et ne vérifient le contenu de leurs outres. Il le sait à la façon dont la lumière du matin pèse sur ses pattes, plus lourde qu'autrefois.
-
-La ville, il s'en souvient. Les pierres dures sous les coussinets, les odeurs mêlées qui brûlent le nez, le bruit qui empêche d'entendre les mulots sous la terre. Il y est allé une fois, par fidélité. Il n'a pas besoin d'y retourner. Sa place est ici, entre la lisière et le village, entre le sanctuaire et le banc du vieil homme qui sent la pipe et la patience.
-
-Il les regarde s'agiter, les deux humains. La femelle aux mains de mousse, le mâle au cœur de bois lent. Ils ont fini par se toucher, pense-t-il. Il a fallu du temps. Chez les renards, c'est plus simple : on se flaire, on se suit, on chasse ensemble ou pas. Mais les humains ont besoin de mots, et les mots sont des branches tordues qui cachent le tronc.
-
-Lui n'a jamais eu besoin de mots. Il a déposé des os, des plumes, une fois un vieux mulot. Il a dit : _Vous êtes ici chez vous_. Ils ont compris. Ils ont posé du pain, du miel, des caresses derrière les oreilles. Ils ont dit : _Tu es des nôtres_. Il a compris.
-
-Alors aujourd'hui, il restera. Il dormira près de l'âtre de la maison aux murs de pierre, sous la garde de la vieille femme qui sent le romarin et la cendre douce. Il attendra. Il sait attendre. La forêt lui a appris.
-
-Quand ils reviendront — et ils reviendront —, il sera là, assis à la lisière, la queue enroulée autour des pattes. Il n'aura pas compté les jours. Il saura juste, à l'odeur du vent, que les siens rentrent.
-
-Et il trottinera à leur rencontre, comme il l'a toujours fait.
 
 ---
 
