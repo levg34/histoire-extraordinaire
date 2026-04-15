@@ -52,7 +52,7 @@ Lucien prit le morceau d'écorce. En se relevant, il ne lui demanda pas comment 
 
 Il fit un pas, puis s'arrêta.
 
-— Au fait, dit-elle sans lever les yeux de son écorce, moi c'est Agathe.
+— Au fait, dit-elle sans lever les yeux, moi c'est Agathe.
 
 Lucien se retourna. Elle ne l'avait pas regardé, mais il sentit que c'était une invitation, pas une information.
 
