@@ -52,7 +52,7 @@ Lucien prit le morceau d'écorce. En se relevant, il ne lui demanda pas comment 
 
 Il fit un pas, puis s'arrêta.
 
-— Au fait, dit-elle sans lever les yeux de son écorce, moi c'est Alba.
+— Au fait, dit-elle sans lever les yeux de son écorce, moi c'est Agathe.
 
 Lucien se retourna. Elle ne l'avait pas regardé, mais il sentit que c'était une invitation, pas une information.
 
@@ -68,7 +68,7 @@ Il savait déjà qu'il reviendrait sûrement. Pas pour elle, non. Ou peut-être 
 
 Ce soir-là, Lucien retrouva sa maisonnette du village avec le cœur étrangement encombré. Ce n'était pas désagréable. Juste... encombré.
 
-Il posa le plan des myrtilles sur la table de la cuisine. Il le regarda longuement. Le trait ocre du ruisseau était tracé d'une main sûre, sans hésitation. Cette fille, Alba — ce nom tourbillonnait dans sa tête sans cesse — savait où elle allait. Lui, il avait passé l'après-midi à se demander s'il devait saluer la boulangère ce matin ou se contenter d'un signe de tête.
+Il posa le plan des myrtilles sur la table de la cuisine. Il le regarda longuement. Le trait ocre du ruisseau était tracé d'une main sûre, sans hésitation. Cette fille, Agathe — ce nom tourbillonnait dans sa tête sans cesse — savait où elle allait. Lui, il avait passé l'après-midi à se demander s'il devait saluer la boulangère ce matin ou se contenter d'un signe de tête.
 
 Il déposa soigneusement le morceau d'écorce dans la poche intérieure de sa cape, celle qu'il n'utilisait jamais.
 
@@ -102,7 +102,7 @@ Elle était là. Pas assise cette fois, mais accroupie près d'une souche, en tr
 
 — Le scarabée de tout à l'heure était plus intéressant, dit Lucien pour dire quelque chose.
 Silence.
-Puis Alba se releva et se tourna à moitié.
+Puis Agathe se releva et se tourna à moitié.
 — Celui avec les reflets cuivrés sur les élytres ?
 Lucien cligna des yeux. Il ne savait même pas ce qu'était un élytre.
 — Oui, mentit-il.
@@ -110,7 +110,7 @@ Lucien cligna des yeux. Il ne savait même pas ce qu'était un élytre.
 
 Il y eut un nouveau silence. Mais un silence différent. Un silence où l'on apprend des choses sans les avoir demandées.
 
-Alba désigna le sol.
+Agathe désigna le sol.
 — Les girolles sont là. Comme prévu.
 
 Lucien regarda. Une petite colonie de champignons d'un orange pâle poussait effectivement au pied d'un arbre. Il n'en avait jamais vu en vrai. Il se pencha, sortit son couteau de poche — un vieux couteau qui n'avait jamais rien coupé d'autre que de la ficelle — et en préleva deux ou trois, avec une délicatesse exagérée.
@@ -121,7 +121,7 @@ Lucien regarda. Une petite colonie de champignons d'un orange pâle poussait eff
 Lucien resta interdit. C'était une excellente question.
 — Pour... la carte. L'autre jour.
 
-Alba haussa les épaules et retourna à son observation de la mousse.
+Agathe haussa les épaules et retourna à son observation de la mousse.
 — Tu reviendras quand tu seras prêt.
 
 Sur ces mots énigmatiques, elle s'enfonça entre les arbres sans se retourner, le laissant seul avec son panier, trois girolles, et une phrase qui allait lui trotter dans la tête pendant trois jours.
@@ -133,7 +133,7 @@ Prêt à quoi ?
 
 Une semaine passa. Ou peut-être dix jours. Lucien ne comptait pas très bien, et le village ne l'aidait pas : le forgeron frappait le fer aux mêmes heures, les poules caquetaient avec la même régularité indifférente. Rien ne pressait.
 
-Mais les girolles, elles, avaient été mangées. Il les avait fait revenir doucement dans un peu de beurre avec une pincée de sel, et en les dégustant seul devant sa petite fenêtre, il avait eu une pensée étrange : _"C'est la forêt qui les fait."_ Alba avait raison. Il avait remercié la forêt en silence, un peu gêné de parler à son assiette.
+Mais les girolles, elles, avaient été mangées. Il les avait fait revenir doucement dans un peu de beurre avec une pincée de sel, et en les dégustant seul devant sa petite fenêtre, il avait eu une pensée étrange : _"C'est la forêt qui les fait."_ Agathe avait raison. Il avait remercié la forêt en silence, un peu gêné de parler à son assiette.
 
 La phrase continuait de trotter : _"Tu reviendras quand tu seras prêt."_
 
@@ -157,7 +157,7 @@ C'est en mâchant qu'il remarqua le signe.
 
 Sur l'écorce du châtaignier, à hauteur d'yeux, un petit dessin avait été gravé à la pointe d'un couteau. Un trait simple, presque enfantin : une ligne courbe pour le ruisseau, une croix pour l'emplacement des myrtilles — il reconnut le plan de l'autre jour — et, plus bas, un nouvel ajout : un petit cercle entouré de points, avec une flèche qui pointait vers le nord-ouest. Sous le cercle, deux lettres grattées dans l'écorce : **A. B.**
 
-Alba ? Sans doute. Et B... B ? Quel était la signification de ce B ?
+Agathe ? Sans doute. Et B... B ? Quel était la signification de ce B ?
 
 Il sourit malgré lui. Elle lui avait laissé une nouvelle carte. Sans un mot, sans une présence. Juste une indication gravée dans la peau de l'arbre, comme un message de contrebandier.
 
@@ -175,9 +175,9 @@ Et au pied du rocher, poussant en petites touffes discrètes, il vit ce qu'il é
 
 Il en cueillit quelques-uns, avec respect. Puis il s'assit près du cercle de pierres et sortit à nouveau le pain. Cette fois, il en rompit un second morceau et le posa délicatement sur la pierre la plus plate, au centre du foyer éteint.
 
-Ce n'était pas pour Alba. Pas exactement. C'était pour la clairière. Pour la forêt. Pour dire _merci_, d'une façon ou d'une autre.
+Ce n'était pas pour Agathe. Pas exactement. C'était pour la clairière. Pour la forêt. Pour dire _merci_, d'une façon ou d'une autre.
 
-Il resta là jusqu'à ce que l'ombre des arbres s'allonge et que l'air fraîchisse. Alba ne vint pas. Il ne l'attendait pas vraiment. Il se sentait simplement... prêt à rester un peu plus longtemps.
+Il resta là jusqu'à ce que l'ombre des arbres s'allonge et que l'air fraîchisse. Agathe ne vint pas. Il ne l'attendait pas vraiment. Il se sentait simplement... prêt à rester un peu plus longtemps.
 
 Quand il se leva pour repartir, il vit que quelqu'un — ou quelque chose — avait déplacé le morceau de pain. Il n'était plus sur la pierre plate. Il était posé sur une racine, à l'entrée de l'abri de branchages.
 
@@ -187,13 +187,13 @@ Lucien sourit, rangea les bolets dans sa besace, et reprit le chemin du village.
 
 Cela faisait maintenant trois semaines qu'Lucien fréquentait la forêt. Pas tous les jours, non. Il n'était pas devenu un sauvage du jour au lendemain. Mais il avait pris l'habitude d'y aller un matin sur deux, parfois un soir quand la lumière rasante dorait les troncs. Il connaissait désormais le chemin du gros châtaignier comme celui de sa propre cuisine.
 
-Alba, il l'avait revue quatre fois. Toujours brièvement. Toujours sans heurt. Une fois, elle lui avait montré comment reconnaître le chant du pouillot véloce — un nom bien trop emprunt de rapidité pour un oiseau si petit. Une autre fois, elle avait simplement marché à côté de lui pendant un quart d'heure, sans but apparent, avant de bifurquer soudain vers une zone de framboisiers sauvages et de disparaître derrière les ronces. Lucien avait compris que c'était sa façon de dire _"tu peux venir par ici, il y a de quoi manger"_ sans avoir à prononcer une invitation qui l'aurait engagée socialement. Il respectait cela.
+Agathe, il l'avait revue quatre fois. Toujours brièvement. Toujours sans heurt. Une fois, elle lui avait montré comment reconnaître le chant du pouillot véloce — un nom bien trop emprunt de rapidité pour un oiseau si petit. Une autre fois, elle avait simplement marché à côté de lui pendant un quart d'heure, sans but apparent, avant de bifurquer soudain vers une zone de framboisiers sauvages et de disparaître derrière les ronces. Lucien avait compris que c'était sa façon de dire _"tu peux venir par ici, il y a de quoi manger"_ sans avoir à prononcer une invitation qui l'aurait engagée socialement. Il respectait cela.
 
-Un matin, il arriva à la clairière au cercle de pierres. Alba n'y était pas. Mais quelque chose avait changé.
+Un matin, il arriva à la clairière au cercle de pierres. Agathe n'y était pas. Mais quelque chose avait changé.
 
 Sur la pierre plate où il avait posé le pain l'autre jour, un petit tas d'ossements était disposé avec soin. Des os minuscules, blanchis par le soleil et la pluie. Un crâne de mulot, des côtes fines comme des aiguilles, quelques vertèbres alignées comme des perles.
 
-Lucien se figea. Ce n'était pas l'œuvre d'Alba. Trop petit. Trop... animal.
+Lucien se figea. Ce n'était pas l'œuvre d'Agathe. Trop petit. Trop... animal.
 
 Il regarda autour de lui. La forêt était silencieuse, mais d'un silence attentif. Le genre de silence où l'on se sent observé.
 
@@ -221,7 +221,7 @@ Lucien sourit, malgré lui. Il avait l'impression d'avoir passé une épreuve do
 
 ### Chapitre 9 : Dans lequel Lucien raconte maladroitement
 
-Deux jours plus tard, il croisa Alba près du ruisseau. Elle lavait des racines dans l'eau claire, agenouillée sur une pierre moussue. Sans relever la tête, elle dit :
+Deux jours plus tard, il croisa Agathe près du ruisseau. Elle lavait des racines dans l'eau claire, agenouillée sur une pierre moussue. Sans relever la tête, elle dit :
 
 — T'as vu le Rouquin.
 
@@ -230,7 +230,7 @@ Ce n'était pas une question.
 Lucien s'assit sur la berge.
 — Il... il a mangé mon pain.
 
-Alba hocha la tête, comme si cela confirmait une hypothèse.
+Agathe hocha la tête, comme si cela confirmait une hypothèse.
 — Il laisse des os. Parfois des plumes. Jamais sur la même pierre. Il choisit.
 
 — Pourquoi ?
@@ -242,7 +242,7 @@ Lucien resta silencieux. L'idée qu'un renard sauvage puisse avoir des rituels d
 
 — Il t'a déjà suivi ? demanda-t-il.
 
-Alba sortit une racine de l'eau et l'examina.
+Agathe sortit une racine de l'eau et l'examina.
 — Il m'a suivi depuis que je suis partie, répondit-elle doucement. Il connaît mes pas mieux que moi.
 
 Elle tourna enfin la tête vers Lucien. Dans son regard, il y eut cette lueur d'amusement, mais teintée d'une fierté tranquille.
@@ -267,11 +267,11 @@ Le Rouquin avait décidé qu'Lucien était du genre à rester.
 
 Les semaines glissèrent comme l'eau du ruisseau. Le printemps s'était installé sans fracas, dépliant une à une les feuilles des hêtres, réveillant des tapis de jacinthes dans les sous-bois. Lucien n'avait jamais prêté attention au printemps, auparavant. Il remarquait juste que les jours rallongeaient et qu'il fallait tailler un peu moins de bois pour la cheminée.
 
-Mais maintenant, il voyait. Il voyait parce qu'Alba, sans jamais rien expliquer, s'arrêtait parfois devant une fleur minuscule et restait là, silencieuse, le regard posé comme on pose un baiser. Lucien avait pris l'habitude de s'arrêter aussi, même quand il ne savait pas ce qu'il était censé regarder. C'est ainsi qu'il apprit à connaître la petite centaurée, l'aspérule odorante, et le fraisier sauvage avant même qu'il ne donne ses fruits.
+Mais maintenant, il voyait. Il voyait parce qu'Agathe, sans jamais rien expliquer, s'arrêtait parfois devant une fleur minuscule et restait là, silencieuse, le regard posé comme on pose un baiser. Lucien avait pris l'habitude de s'arrêter aussi, même quand il ne savait pas ce qu'il était censé regarder. C'est ainsi qu'il apprit à connaître la petite centaurée, l'aspérule odorante, et le fraisier sauvage avant même qu'il ne donne ses fruits.
 
-Un midi, il arriva à la clairière avec du pain (pour le Rouquin), des noix (pour lui), et une poignée de cerises sauvages cueillies en chemin (pour personne en particulier). Alba était adossée à son rocher, les yeux mi-clos, un brin d'herbe entre les lèvres. Le Rouquin était couché en boule à un mètre d'elle, le museau posé sur ses pattes avant. Ils ne faisaient rien. Ils étaient juste là, ensemble, dans un silence que même les oiseaux respectaient.
+Un midi, il arriva à la clairière avec du pain (pour le Rouquin), des noix (pour lui), et une poignée de cerises sauvages cueillies en chemin (pour personne en particulier). Agathe était adossée à son rocher, les yeux mi-clos, un brin d'herbe entre les lèvres. Le Rouquin était couché en boule à un mètre d'elle, le museau posé sur ses pattes avant. Ils ne faisaient rien. Ils étaient juste là, ensemble, dans un silence que même les oiseaux respectaient.
 
-Lucien s'assit à distance habituelle — ni trop près, ni trop loin, la distance d'un ami d'ermite. Il sortit les cerises et les posa sur une feuille de bardane entre eux trois. Personne ne bougea. Puis, lentement, Alba tendit la main et en prit une. Le Rouquin ouvrit un œil, renifla, et referma l'œil. Les cerises ne l'intéressaient pas.
+Lucien s'assit à distance habituelle — ni trop près, ni trop loin, la distance d'un ami d'ermite. Il sortit les cerises et les posa sur une feuille de bardane entre eux trois. Personne ne bougea. Puis, lentement, Agathe tendit la main et en prit une. Le Rouquin ouvrit un œil, renifla, et referma l'œil. Les cerises ne l'intéressaient pas.
 
 C'est à ce moment précis qu'Lucien comprit une chose essentielle : ils étaient en train de devenir un petit groupe. Pas une meute, non. Plutôt un assemblage hétéroclite de solitudes qui avaient trouvé un espace où se chevaucher sans se heurter. Il en ressentit une chaleur discrète, comme une braise sous la cendre.
 
@@ -289,15 +289,15 @@ Il s'agenouilla et gratta doucement la terre avec son couteau. L'objet se dégag
 
 Lucien la tint dans sa paume. Elle était glacée, mais il sentait une chaleur d'un autre genre : celle d'un objet qui a appartenu à quelqu'un, il y a très, très longtemps. Quelqu'un qui marchait peut-être dans cette même forêt, bien avant le village, bien avant la ville en contrebas.
 
-Il pensa à Alba. Il pensa au Rouquin. Et il sut que cet objet n'était pas fait pour rester dans sa poche à lui.
+Il pensa à Agathe. Il pensa au Rouquin. Et il sut que cet objet n'était pas fait pour rester dans sa poche à lui.
 
 ---
 
 ### Chapitre 13 : Dans lequel Lucien fait son premier vrai cadeau
 
-Ce soir-là, au lieu de rentrer directement au village, il fit un détour par la clairière au cercle de pierres. Ni Alba ni le Rouquin n'étaient visibles. Il s'avança vers le rocher qui abritait le refuge de branchages.
+Ce soir-là, au lieu de rentrer directement au village, il fit un détour par la clairière au cercle de pierres. Ni Agathe ni le Rouquin n'étaient visibles. Il s'avança vers le rocher qui abritait le refuge de branchages.
 
-Sur une étagère naturelle, une anfractuosité de la pierre, il avait remarqué qu'Alba déposait parfois de petits objets trouvés : une coquille d'escargot vide, une plume de pic épeiche, une racine à la forme amusante. Un petit musée personnel, sans commentaire.
+Sur une étagère naturelle, une anfractuosité de la pierre, il avait remarqué qu'Agathe déposait parfois de petits objets trouvés : une coquille d'escargot vide, une plume de pic épeiche, une racine à la forme amusante. Un petit musée personnel, sans commentaire.
 
 Il y déposa la fibule.
 
@@ -313,7 +313,7 @@ Et en dessous, sur une pierre, trois petites noix de galle — ces excroissances
 
 Lucien resta un long moment immobile. Puis il sourit, de ce sourire qui n'appartient qu'aux gens qui reçoivent une réponse sans qu'on leur ait posé de question.
 
-Alba avait vu. Alba avait compris. Et Alba avait répondu, avec l'aide du Rouquin, d'une façon qui ne demandait aucun mot.
+Agathe avait vu. Agathe avait compris. Et Agathe avait répondu, avec l'aide du Rouquin, d'une façon qui ne demandait aucun mot.
 
 ---
 
@@ -321,7 +321,7 @@ Alba avait vu. Alba avait compris. Et Alba avait répondu, avec l'aide du Rouqui
 
 Les semaines qui suivirent virent s'installer une routine tacite. Lucien venait presque chaque jour, désormais. Il n'y avait plus de gêne à arriver, plus de peur de déranger. Il avait sa place, comme le renard, comme les champignons, comme les pierres.
 
-Parfois, Alba disparaissait plusieurs jours. Lucien savait qu'elle partait explorer d'autres coins de la forêt, ou peut-être simplement s'enfoncer dans une solitude plus profonde. Il ne s'inquiétait pas. Elle revenait toujours, avec une nouvelle connaissance muette — l'emplacement d'une source cachée, le nid d'un loriot, le moment précis où les fougères déroulent leurs crosses.
+Parfois, Agathe disparaissait plusieurs jours. Lucien savait qu'elle partait explorer d'autres coins de la forêt, ou peut-être simplement s'enfoncer dans une solitude plus profonde. Il ne s'inquiétait pas. Elle revenait toujours, avec une nouvelle connaissance muette — l'emplacement d'une source cachée, le nid d'un loriot, le moment précis où les fougères déroulent leurs crosses.
 
 Un matin, alors qu'ils marchaient côte à côte sur un sentier à peine visible, elle dit soudain :
 
@@ -333,23 +333,23 @@ Lucien réfléchit un instant.
 
 — Je suis d'ici, répondit-il simplement.
 
-Et c'était vrai. La forêt ne lui faisait plus peur. Elle était devenue une extension de son propre silence intérieur. Et Alba, avec ses phrases rares et son regard qui voyait tout, était devenue le repère le plus stable de ce nouveau territoire.
+Et c'était vrai. La forêt ne lui faisait plus peur. Elle était devenue une extension de son propre silence intérieur. Et Agathe, avec ses phrases rares et son regard qui voyait tout, était devenue le repère le plus stable de ce nouveau territoire.
 
 Le Rouquin, qui trottinait devant eux, s'arrêta net, les oreilles dressées. Il regarda en direction du sud-est — vers la ville invisible, par-delà les crêtes. Puis il éternua, secoua la tête, et reprit sa marche.
 
-Lucien et Alba échangèrent un regard. Ni l'un ni l'autre ne parla de la ville. Pas encore. Mais quelque chose avait frémi. Un tout petit frémissement, comme une feuille qui se souvient du vent avant même qu'il ne se lève.
+Lucien et Agathe échangèrent un regard. Ni l'un ni l'autre ne parla de la ville. Pas encore. Mais quelque chose avait frémi. Un tout petit frémissement, comme une feuille qui se souvient du vent avant même qu'il ne se lève.
 
 ### Chapitre 16 : Dans lequel la lumière déclinante délie un peu la langue
 
-L'été avait installé sa chaleur lourde. Même la forêt, d'ordinaire fraîche, retenait une moiteur tranquille. Lucien et Alba s'étaient donné rendez-vous sans se le dire au bord du ruisseau, là où l'eau courait encore un peu. Le Rouquin, plus sage que jamais, dormait en boule sur une pierre plate chauffée par le soleil de l'après-midi.
+L'été avait installé sa chaleur lourde. Même la forêt, d'ordinaire fraîche, retenait une moiteur tranquille. Lucien et Agathe s'étaient donné rendez-vous sans se le dire au bord du ruisseau, là où l'eau courait encore un peu. Le Rouquin, plus sage que jamais, dormait en boule sur une pierre plate chauffée par le soleil de l'après-midi.
 
-Lucien trempait ses pieds nus dans l'eau. Alba, adossée à un saule, tressait machinalement des joncs. Elle ne fabriquait rien de précis, juste un entrelacs souple que ses doigts formaient et déformaient, encore et encore.
+Lucien trempait ses pieds nus dans l'eau. Agathe, adossée à un saule, tressait machinalement des joncs. Elle ne fabriquait rien de précis, juste un entrelacs souple que ses doigts formaient et déformaient, encore et encore.
 
 Il faisait ce genre de silence épais où l'on entend une mouche bourdonner à dix pas. Puis, sans vraiment l'avoir prémédité, Lucien parla.
 
 — La première fois que je t'ai vue, je me suis demandé comment on pouvait vivre comme ça. Sans village, sans maison... sans personne.
 
-Alba ne répondit pas tout de suite. Ses doigts continuèrent leur danse lente sur les joncs. Puis, sans le regarder :
+Agathe ne répondit pas tout de suite. Ses doigts continuèrent leur danse lente sur les joncs. Puis, sans le regarder :
 
 — Et maintenant ?
 
@@ -357,7 +357,7 @@ Lucien réfléchit. Il regarda ses propres pieds dans l'eau claire, les petits p
 
 — Maintenant, je me demande comment on peut vivre autrement.
 
-Alba eut un petit bruit, une expiration par le nez qui ressemblait presque à un rire étouffé. Elle laissa tomber les joncs sur ses genoux et regarda enfin vers lui, ou plutôt vers un point vague au-dessus de son épaule.
+Agathe eut un petit bruit, une expiration par le nez qui ressemblait presque à un rire étouffé. Elle laissa tomber les joncs sur ses genoux et regarda enfin vers lui, ou plutôt vers un point vague au-dessus de son épaule.
 
 — J'ai grandi en bas, dit-elle simplement. Tu le sais déjà.
 
@@ -385,7 +385,7 @@ Lucien osa une question :
 
 — Et le village ? Juste à côté ? Tu n'as jamais eu envie d'y aller ?
 
-Alba secoua doucement la tête.
+Agathe secoua doucement la tête.
 
 — Trop près du bruit. Trop près des regards. Je voulais... juste le silence. Juste la mousse. Juste les bêtes qui savent se taire.
 
@@ -407,7 +407,7 @@ Lucien se leva aussi. Il ne savait pas quoi dire, alors il dit la seule chose qu
 
 — Merci.
 
-Alba haussa une épaule, ce geste qui signifiait _"y a pas de quoi"_ ou _"c'est rien"_ ou peut-être _"tu en aurais fait autant"_. Puis elle s'enfonça entre les arbres, le Rouquin sur ses talons.
+Agathe haussa une épaule, ce geste qui signifiait _"y a pas de quoi"_ ou _"c'est rien"_ ou peut-être _"tu en aurais fait autant"_. Puis elle s'enfonça entre les arbres, le Rouquin sur ses talons.
 
 Lucien resta un moment au bord du ruisseau. Il regarda l'eau couler. Il pensa au mur gris. Il pensa à la miche de pain, à la couverture, à la route qui monte. Et pour la première fois, il eut une pensée étrange : _"Moi aussi, un jour, je pourrais avoir envie de voir ce qu'il y a derrière le mur."_
 
@@ -439,11 +439,11 @@ Ils débouchèrent soudain dans un lieu qu'Lucien n'avait jamais vu. La forêt s
 
 Au centre, un arbre immense, un if plusieurs fois centenaire, poussait droit à travers ce qui avait dû être une construction humaine. Ses racines enlaçaient des blocs de granit taillé, comme s'il avait lentement digéré un bâtiment oublié.
 
-Lucien s'arrêta net. Alba aussi. Le Rouquin, lui, alla s'asseoir au pied de l'if, la queue enroulée, l'air de dire : _"Vous voyez ? Je vous l'avais bien dit."_
+Lucien s'arrêta net. Agathe aussi. Le Rouquin, lui, alla s'asseoir au pied de l'if, la queue enroulée, l'air de dire : _"Vous voyez ? Je vous l'avais bien dit."_
 
 — Qu'est-ce que c'est ? murmura Lucien.
 
-Alba s'avança lentement, effleurant du bout des doigts une pierre dressée couverte de lichen jaune.
+Agathe s'avança lentement, effleurant du bout des doigts une pierre dressée couverte de lichen jaune.
 
 — Un ancien sanctuaire, je crois. Ou une maison. Quelque chose de très vieux.
 
@@ -451,7 +451,7 @@ Elle s'accroupit pour observer une série de petits trous creusés dans la pierr
 
 — Comment tu sais que c'est un sanctuaire ? demanda-t-il.
 
-— Je ne sais pas, répondit Alba. Je le sens. Regarde.
+— Je ne sais pas, répondit Agathe. Je le sens. Regarde.
 
 Elle désigna le tronc de l'if. Incrustés dans l'écorce sombre, à différentes hauteurs, des petits objets étaient fichés dans les crevasses : un ruban décoloré par les pluies, une piécette de cuivre vert-de-grisée, une petite figurine d'osier tressé, presque désagrégée. Des offrandes. Certaines semblaient récentes — une tresse de crin de cheval, une pierre bleue polie. D'autres étaient si anciennes que l'arbre avait commencé à les absorber, les engloutissant dans sa croissance lente.
 
@@ -465,7 +465,7 @@ Lucien regarda autour de lui. Le soleil couchant traversait les branches de l'if
 
 — On dirait que cet endroit... attend quelque chose, dit-il.
 
-Alba hocha la tête. Elle s'assit sur une pierre, sortit de sa besace un petit quignon de pain sec, et le posa délicatement dans une anfractuosité de l'écorce, à côté d'une plume de geai.
+Agathe hocha la tête. Elle s'assit sur une pierre, sortit de sa besace un petit quignon de pain sec, et le posa délicatement dans une anfractuosité de l'écorce, à côté d'une plume de geai.
 
 — C'est poli, dit-elle simplement. Quand on entre chez quelqu'un.
 
@@ -481,7 +481,7 @@ Le Rouquin ouvrit la marche pour le retour, trottinant avec l'assurance d'un gui
 
 ### Chapitre 19 : Dans lequel le silence parle plus fort que les mots
 
-Sur le chemin du retour, Alba marchait un peu plus près de Lucien que d'habitude. Pas beaucoup. Juste la distance d'une main tendue. Il ne fit aucun commentaire, mais il le remarqua.
+Sur le chemin du retour, Agathe marchait un peu plus près de Lucien que d'habitude. Pas beaucoup. Juste la distance d'une main tendue. Il ne fit aucun commentaire, mais il le remarqua.
 
 Avant de bifurquer vers son abri, elle s'arrêta et dit, sans le regarder :
 
@@ -489,7 +489,7 @@ Avant de bifurquer vers son abri, elle s'arrêta et dit, sans le regarder :
 
 Puis elle disparut entre les arbres, le Rouquin sur ses talons.
 
-Lucien resta seul dans la pénombre, les mots d'Alba tournant doucement dans sa tête. Il pensa à l'if, aux offrandes, à cette sensation de seuil franchi. Il pensa aussi à la main tendue qui n'avait pas été tendue, mais qui aurait pu l'être.
+Lucien resta seul dans la pénombre, les mots d'Agathe tournant doucement dans sa tête. Il pensa à l'if, aux offrandes, à cette sensation de seuil franchi. Il pensa aussi à la main tendue qui n'avait pas été tendue, mais qui aurait pu l'être.
 
 Et il rentra au village avec, dans la poitrine, une petite braise qui ne demandait qu'à durer.
 
@@ -507,7 +507,7 @@ Il s'agenouilla et passa doucement la main sur la pierre, dégageant un peu de m
 
 Lucien sentit un frisson familier — celui des choses anciennes qui vous reconnaissent.
 
-Il resta là, accroupi, à suivre du doigt les contours d'un cerf aux bois ramifiés, quand un bruit léger lui fit lever la tête. Alba se tenait à la lisière de la clairière, une besace en bandoulière, le Rouquin à ses pieds.
+Il resta là, accroupi, à suivre du doigt les contours d'un cerf aux bois ramifiés, quand un bruit léger lui fit lever la tête. Agathe se tenait à la lisière de la clairière, une besace en bandoulière, le Rouquin à ses pieds.
 
 — Toi aussi, dit-elle simplement. (Ce n'était pas une question.)
 
@@ -515,7 +515,7 @@ Lucien hocha la tête. Il désigna les gravures.
 
 — Tu avais vu ?
 
-Alba s'approcha et s'accroupit à son tour. Elle regarda longuement la pierre, ses yeux suivant les spirales.
+Agathe s'approcha et s'accroupit à son tour. Elle regarda longuement la pierre, ses yeux suivant les spirales.
 
 — Oui. La première fois. Mais je voulais pas en parler tout de suite. Des fois, les vieilles choses, faut les laisser venir à toi.
 
@@ -527,7 +527,7 @@ Lucien plissa les yeux. Au centre des cercles concentriques, là où les lignes 
 
 — L'arbre qui danse, murmura-t-il sans réfléchir.
 
-Alba tourna la tête vers lui, un sourcil levé.
+Agathe tourna la tête vers lui, un sourcil levé.
 
 — C'est joli, ça. L'arbre qui danse.
 
@@ -537,13 +537,13 @@ Ils restèrent silencieux un instant, absorbés par la pierre. Le Rouquin s'éta
 
 ### Chapitre 21 : Dans lequel une hypothèse est formulée à voix basse
 
-— Je crois que cet endroit est plus vieux que la ville d'en bas, dit Alba après un long silence. Plus vieux que le village, même. Peut-être que les gens venaient ici avant qu'il y ait des maisons.
+— Je crois que cet endroit est plus vieux que la ville d'en bas, dit Agathe après un long silence. Plus vieux que le village, même. Peut-être que les gens venaient ici avant qu'il y ait des maisons.
 
 Lucien acquiesça. Il pensait la même chose sans oser le formuler.
 
 — Mais qu'est-ce qu'ils faisaient ? demanda-t-il. Des offrandes, d'accord. Mais pourquoi ?
 
-Alba haussa les épaules, ce geste lent qui signifiait _"je ne sais pas, mais je sens que c'est important."_
+Agathe haussa les épaules, ce geste lent qui signifiait _"je ne sais pas, mais je sens que c'est important."_
 
 — Peut-être qu'ils demandaient quelque chose. La pluie. La fin de l'hiver. La guérison d'un enfant. Ou peut-être qu'ils remerciaient, tout simplement. Comme nous.
 
@@ -555,11 +555,11 @@ Lucien la regarda. Il y avait dans sa voix une gravité nouvelle, une couche sup
 
 — Écouter quoi ?
 
-Alba tourna son regard vers l'if immense.
+Agathe tourna son regard vers l'if immense.
 
 — L'arbre. La pierre. La forêt. Je sais pas. Quelque chose qui parle sans mots.
 
-Le Rouquin leva soudain la tête, les oreilles dressées. Il fixait un point entre les arbres, au-delà du sanctuaire. Lucien et Alba retinrent leur souffle. Mais rien ne vint. Juste le bruissement du vent dans les branches hautes.
+Le Rouquin leva soudain la tête, les oreilles dressées. Il fixait un point entre les arbres, au-delà du sanctuaire. Lucien et Agathe retinrent leur souffle. Mais rien ne vint. Juste le bruissement du vent dans les branches hautes.
 
 Le renard reposa la tête, apparemment satisfait. Mais Lucien avait vu ses yeux. Il y avait eu de l'attention, pas de la crainte. Comme s'il avait salué quelqu'un d'invisible.
 
@@ -567,17 +567,17 @@ Le renard reposa la tête, apparemment satisfait. Mais Lucien avait vu ses yeux.
 
 ### Chapitre 22 : Dans lequel une tradition discrète s'installe
 
-À partir de ce jour, Lucien et Alba prirent l'habitude de venir au sanctuaire une fois par semaine. Pas plus. Il fallait laisser le lieu respirer, ne pas l'user par une présence trop constante.
+À partir de ce jour, Lucien et Agathe prirent l'habitude de venir au sanctuaire une fois par semaine. Pas plus. Il fallait laisser le lieu respirer, ne pas l'user par une présence trop constante.
 
 Ils y venaient séparément, le plus souvent. Chacun à son rythme, à son heure. Mais parfois, sans se concerter, ils arrivaient en même temps. Ces jours-là, ils s'asseyaient côte à côte sans parler, ou échangeaient quelques mots rares, comme on pose des cailloux blancs sur un sentier.
 
 Le Rouquin, lui, semblait considérer le sanctuaire comme une extension naturelle de son territoire. Il y dormait souvent, roulé en boule au pied de l'if, ou y apportait de petits os qu'il disposait soigneusement près des offrandes humaines. Lucien se demanda s'il perpétuait une tradition renarde inconnue, ou s'il avait simplement compris que cet endroit était fait pour les dons.
 
-Un matin d'automne naissant, alors que les premières feuilles jaunissaient, Lucien trouva quelque chose de nouveau sur la pierre aux gravures. Une petite figurine d'argile grossière, séchée au soleil, représentant un animal à quatre pattes — peut-être un chien, ou un loup, ou un renard stylisé. Elle n'était pas là la veille. Et elle n'était pas de la main d'Alba, il le savait.
+Un matin d'automne naissant, alors que les premières feuilles jaunissaient, Lucien trouva quelque chose de nouveau sur la pierre aux gravures. Une petite figurine d'argile grossière, séchée au soleil, représentant un animal à quatre pattes — peut-être un chien, ou un loup, ou un renard stylisé. Elle n'était pas là la veille. Et elle n'était pas de la main d'Agathe, il le savait.
 
 Quelqu'un d'autre venait au sanctuaire. Quelqu'un qui connaissait les vieux gestes.
 
-Il n'en parla pas tout de suite à Alba. Il voulait d'abord observer, comprendre. Mais le soir même, alors qu'ils se croisaient près du ruisseau, elle dit simplement :
+Il n'en parla pas tout de suite à Agathe. Il voulait d'abord observer, comprendre. Mais le soir même, alors qu'ils se croisaient près du ruisseau, elle dit simplement :
 
 — Tu l'as vue, toi aussi. La figurine.
 
@@ -585,7 +585,7 @@ Lucien hocha la tête.
 
 — Quelqu'un d'autre connaît cet endroit. Quelqu'un qui fait des offrandes.
 
-Alba plissa les yeux, pensive.
+Agathe plissa les yeux, pensive.
 
 — Faudra qu'on soit discrets. Pas effrayer cette personne. Si elle vient depuis longtemps, c'est son sanctuaire autant que le nôtre.
 
@@ -595,7 +595,7 @@ Lucien acquiesça. Il respectait cette prudence. La forêt n'appartenait à pers
 
 ### Chapitre 23 : Dans lequel un visiteur furtif est aperçu
 
-Plusieurs semaines passèrent. L'automne s'installait, parant la forêt de roux et d'or. Les champignons abondaient, et Lucien était devenu assez savant pour reconnaître les cèpes, les chanterelles et les trompettes-de-la-mort sans l'aide d'Alba. Il en faisait sécher une partie pour l'hiver, dans sa petite maison du village.
+Plusieurs semaines passèrent. L'automne s'installait, parant la forêt de roux et d'or. Les champignons abondaient, et Lucien était devenu assez savant pour reconnaître les cèpes, les chanterelles et les trompettes-de-la-mort sans l'aide d'Agathe. Il en faisait sécher une partie pour l'hiver, dans sa petite maison du village.
 
 Un après-midi, alors qu'il approchait du sanctuaire par le chemin du nord, il aperçut une silhouette penchée sur la pierre aux gravures. Une femme, ou peut-être un homme très âgé, vêtu de brun et de vert, les cheveux gris noués en un chignon lâche. La personne déposait quelque chose — une poignée de glands, sembla-t-il — dans l'une des anfractuosités de l'if.
 
@@ -605,17 +605,17 @@ Quand il fut sûr qu'elle était partie, Lucien s'avança. Sur la pierre, à cô
 
 Il toucha la couronne du bout des doigts. Elle était légère, fragile, faite avec soin. Il sut qu'il tenait là un fil de plus dans le mystère du sanctuaire.
 
-Le soir, il raconta à Alba ce qu'il avait vu. Elle écouta sans l'interrompre, les yeux fixés sur les braises du petit feu qu'ils partageaient parfois, à la lisière de la clairière au cercle de pierres.
+Le soir, il raconta à Agathe ce qu'il avait vu. Elle écouta sans l'interrompre, les yeux fixés sur les braises du petit feu qu'ils partageaient parfois, à la lisière de la clairière au cercle de pierres.
 
 — Une femme aux cheveux gris, répéta-t-elle. Qui connaît les glands et tresse l'avoine. Elle est de la forêt, comme nous. Peut-être plus encore.
 
 — Tu crois qu'on devrait essayer de lui parler ?
 
-Alba réfléchit longuement.
+Agathe réfléchit longuement.
 
 — Non. Pas encore. Si elle veut nous parler, elle le fera. Sinon, on est juste des invités dans son sanctuaire.
 
-Lucien hocha la tête. Il faisait confiance à l'instinct d'Alba pour ces choses-là.
+Lucien hocha la tête. Il faisait confiance à l'instinct d'Agathe pour ces choses-là.
 
 Le Rouquin, couché près du feu, ouvrit un œil, fixa un point dans l'obscurité au-delà des flammes, puis le referma. Il savait, lui. Il savait depuis le début.
 
@@ -629,13 +629,13 @@ Un matin de givre, il y trouva un nouveau message. Pas une offrande cette fois, 
 
 Lucien regarda longuement le dessin. Un cercle avec une spirale et un point. Cela ressemblait à un œil. Ou à un soleil. Ou à une graine.
 
-Il entendit un froissement derrière lui. Alba arrivait, emmitouflée dans une cape de laine brute, les joues rougies par le froid. Elle s'arrêta à côté de lui, regarda le dessin.
+Il entendit un froissement derrière lui. Agathe arrivait, emmitouflée dans une cape de laine brute, les joues rougies par le froid. Elle s'arrêta à côté de lui, regarda le dessin.
 
 — C'est elle, dit-elle. La femme aux cheveux gris.
 
 — Qu'est-ce que ça veut dire ?
 
-Alba s'accroupit, toucha le dessin du bout de son gant.
+Agathe s'accroupit, toucha le dessin du bout de son gant.
 
 — Je crois que c'est une invitation. Le cercle, c'est le sanctuaire. La spirale, c'est le chemin qu'on fait en venant ici, encore et encore. Et le point... le point, c'est nous. Elle nous a vus. Elle sait qu'on vient. Et elle nous dit qu'on fait partie du dessin maintenant.
 
@@ -643,7 +643,7 @@ Lucien sentit une chaleur dans sa poitrine, malgré le froid. Il n'aurait su dir
 
 — Alors on continue ?
 
-Alba se releva et hocha la tête.
+Agathe se releva et hocha la tête.
 
 — On continue. Et un jour, peut-être, elle nous parlera.
 
@@ -653,11 +653,11 @@ Le Rouquin, qui était resté en retrait, s'approcha du dessin, le renifla consc
 
 ### Chapitre 25 : Dans lequel l'hiver s'installe et les liens se tissent
 
-L'hiver fut doux, cette année-là. La neige tomba juste ce qu'il fallait pour blanchir les branches sans bloquer les chemins. Lucien et Alba continuèrent de se voir, moins souvent mais avec une familiarité qui n'avait plus besoin de mots.
+L'hiver fut doux, cette année-là. La neige tomba juste ce qu'il fallait pour blanchir les branches sans bloquer les chemins. Lucien et Agathe continuèrent de se voir, moins souvent mais avec une familiarité qui n'avait plus besoin de mots.
 
 Le sanctuaire dormait sous son manteau blanc, mais ils savaient qu'il était toujours là, patient, et que la femme aux cheveux gris y viendrait peut-être encore, déposer une poignée de baies séchées ou un dessin dans la neige.
 
-Un soir, alors qu'ils étaient assis dans l'abri de branchages d'Alba — agrandi et renforcé pour l'hiver avec l'aide silencieuse de Lucien —, elle dit soudain :
+Un soir, alors qu'ils étaient assis dans l'abri de branchages d'Agathe — agrandi et renforcé pour l'hiver avec l'aide silencieuse de Lucien —, elle dit soudain :
 
 — Je crois que la femme du sanctuaire, c'est un peu comme nous. Une solitaire qui a trouvé sa place. Mais elle, elle a peut-être toujours été là. Peut-être qu'elle est née dans la forêt, ou qu'elle y est venue il y a si longtemps qu'elle ne se souvient plus du mur gris.
 
@@ -665,7 +665,7 @@ Lucien hocha la tête. Il regardait les flammes danser dans le petit foyer de pi
 
 — Peut-être qu'un jour, c'est nous qui laisserons des dessins dans la terre pour ceux qui viendront après.
 
-Alba tourna la tête vers lui. Il y avait dans ses yeux une lueur douce, une chose qu'elle n'avait jamais montrée auparavant.
+Agathe tourna la tête vers lui. Il y avait dans ses yeux une lueur douce, une chose qu'elle n'avait jamais montrée auparavant.
 
 — Tu crois qu'il y en aura, des après ?
 
@@ -713,13 +713,13 @@ L'hiver s'épaissit. Les jours étaient courts, la lumière pauvre, et la forêt
 
 Il aimait cette maison. Il ne se l'était jamais avoué aussi clairement, mais il l'aimait. Ses murs de pierre épaisse qui gardaient la chaleur, son toit de lauzes qui chantait sous la pluie, l'odeur du bois sec et de la cire ancienne. Il aimait la petite fenêtre qui donnait sur la colline, la table bancale où il mangeait seul, le fauteuil au coussin usé où il lisait parfois, à la lueur d'une chandelle.
 
-Un soir, alors qu'il était ainsi installé, un bol de soupe fumante entre les mains, il pensa à Alba. Il pensa à son abri de branchages, à la couverture râpée qu'elle partageait avec le Rouquin. Il pensa au vent glacé qui devait siffler entre les arbres. Et pour la première fois, une idée lui traversa l'esprit, une idée si simple qu'il s'étonna de ne pas l'avoir eue plus tôt.
+Un soir, alors qu'il était ainsi installé, un bol de soupe fumante entre les mains, il pensa à Agathe. Il pensa à son abri de branchages, à la couverture râpée qu'elle partageait avec le Rouquin. Il pensa au vent glacé qui devait siffler entre les arbres. Et pour la première fois, une idée lui traversa l'esprit, une idée si simple qu'il s'étonna de ne pas l'avoir eue plus tôt.
 
 _Et si elle venait ici ?_
 
 Pas pour toujours. Juste... pour une soupe chaude. Pour une nuit à l'abri du gel. Pour voir ce qu'était un toit de pierre et un feu de cheminée.
 
-Il repoussa l'idée. Elle était absurde. Alba ne voudrait jamais. Elle avait fui les murs, tous les murs. Elle ne supporterait pas de se sentir enfermée.
+Il repoussa l'idée. Elle était absurde. Agathe ne voudrait jamais. Elle avait fui les murs, tous les murs. Elle ne supporterait pas de se sentir enfermée.
 
 Mais l'idée revint, nuit après nuit, comme une braise qui refuse de s'éteindre.
 
@@ -731,41 +731,41 @@ Ce qui fit basculer le cours des choses ne fut pas une décision humaine. Ce fut
 
 Elle arriva un soir de janvier, brutale et sifflante, chargée de neige mouillée qui collait aux branches et faisait ployer les plus faibles. Le vent hurlait dans la cheminée, et Lucien, calfeutré chez lui, imaginait la forêt secouée, les arbres gémissant sous la charge.
 
-Il pensa à Alba. À son abri fragile. Au Rouquin, qui devait se terrer quelque part, le poil trempé.
+Il pensa à Agathe. À son abri fragile. Au Rouquin, qui devait se terrer quelque part, le poil trempé.
 
 Il hésita longtemps. Puis il enfila son manteau le plus épais, prit une lanterne sourde, et sortit dans la tourmente.
 
 C'était une folie. Il le savait. La neige lui fouettait le visage, la lueur de la lanterne ne portait pas à trois pas. Mais il connaissait le chemin de la clairière par cœur, même dans le noir, même sous la neige. Ses pieds retrouvaient les repères sans que sa tête ait à les chercher.
 
-Il arriva à l'abri de branchages au moment où une rafale plus forte que les autres faisait craquer dangereusement la structure. Alba était recroquevillée contre le rocher, le Rouquin serré contre elle. Elle ne dormait pas. Ses yeux brillaient dans l'obscurité, fixes et calmes, mais Lucien y lut quelque chose qu'il n'avait jamais vu : une lassitude.
+Il arriva à l'abri de branchages au moment où une rafale plus forte que les autres faisait craquer dangereusement la structure. Agathe était recroquevillée contre le rocher, le Rouquin serré contre elle. Elle ne dormait pas. Ses yeux brillaient dans l'obscurité, fixes et calmes, mais Lucien y lut quelque chose qu'il n'avait jamais vu : une lassitude.
 
 Il ne dit rien. Il tendit la main.
 
 Elle le regarda longtemps. Le vent redoublait. La neige s'infiltrait partout. Le Rouquin gémit doucement.
 
-Alba prit la main de Lucien.
+Agathe prit la main de Lucien.
 
 ---
 
-### Chapitre 28 : Dans lequel Alba franchit le seuil du village
+### Chapitre 28 : Dans lequel Agathe franchit le seuil du village
 
-Ils mirent une éternité à remonter jusqu'au village. Le chemin était traître, la neige effaçait les repères, et Alba, malgré sa connaissance intime de la forêt, semblait désorientée par la violence des éléments. Lucien guidait, la main ferme, la lanterne brandie devant eux. Le Rouquin suivait, le museau dans leurs traces.
+Ils mirent une éternité à remonter jusqu'au village. Le chemin était traître, la neige effaçait les repères, et Agathe, malgré sa connaissance intime de la forêt, semblait désorientée par la violence des éléments. Lucien guidait, la main ferme, la lanterne brandie devant eux. Le Rouquin suivait, le museau dans leurs traces.
 
-Quand les premières maisons du village apparurent, silhouettes trapues coiffées de blanc, Alba ralentit. Lucien sentit sa main se crisper légèrement.
+Quand les premières maisons du village apparurent, silhouettes trapues coiffées de blanc, Agathe ralentit. Lucien sentit sa main se crisper légèrement.
 
 — C'est juste mon seuil, murmura-t-il. Rien que mon seuil. Après, tu fais ce que tu veux.
 
 Elle hocha la tête, sans un mot, et ils reprirent leur marche.
 
-La porte de la maison de Lucien s'ouvrit sur une bouffée de chaleur. Le feu couvait encore dans l'âtre, rougeoyant dans la pénombre. Lucien guida Alba jusqu'au fauteuil, jeta une couverture sur ses épaules, ranima les flammes. Le Rouquin, après une brève hésitation, se glissa près de l'âtre et s'effondra en boule, les yeux déjà mi-clos.
+La porte de la maison de Lucien s'ouvrit sur une bouffée de chaleur. Le feu couvait encore dans l'âtre, rougeoyant dans la pénombre. Lucien guida Agathe jusqu'au fauteuil, jeta une couverture sur ses épaules, ranima les flammes. Le Rouquin, après une brève hésitation, se glissa près de l'âtre et s'effondra en boule, les yeux déjà mi-clos.
 
-Lucien prépara une infusion de verveine séchée, y ajouta une cuillerée de miel. Il tendit le bol fumant à Alba sans rien dire. Elle le prit à deux mains, but une gorgée, et ferma les yeux.
+Lucien prépara une infusion de verveine séchée, y ajouta une cuillerée de miel. Il tendit le bol fumant à Agathe sans rien dire. Elle le prit à deux mains, but une gorgée, et ferma les yeux.
 
 Elle ne parlait pas. Elle regardait autour d'elle — les murs de pierre, les poutres sombres, la petite fenêtre où la neige s'amoncelait. Elle respirait lentement, comme on goûte un aliment inconnu.
 
 Lucien s'assit sur un tabouret, à distance respectueuse, et attendit.
 
-Le silence dura longtemps. Puis Alba dit, d'une voix un peu rauque :
+Le silence dura longtemps. Puis Agathe dit, d'une voix un peu rauque :
 
 — C'est... pas comme je pensais.
 
@@ -781,7 +781,7 @@ Lucien sourit doucement.
 
 — C'est ma forêt à moi. Plus petite. Mais solide.
 
-Alba tourna la tête vers lui. Il y avait dans son regard une curiosité nouvelle, une petite lueur qui n'y était pas avant.
+Agathe tourna la tête vers lui. Il y avait dans son regard une curiosité nouvelle, une petite lueur qui n'y était pas avant.
 
 — Je crois que je comprends, dit-elle simplement.
 
@@ -795,7 +795,7 @@ Il sut que quelque chose avait changé. Pas en grand. Pas en bruyant. Juste un p
 
 Au matin, la tempête était passée. Le village s'éveillait sous un manteau blanc immaculé, et les bruits familiers reprenaient : un coq lointain, le grincement d'un volet qu'on ouvre, le raclement d'une pelle sur un seuil.
 
-Alba se tenait devant la petite fenêtre. Elle regardait la rue, ou plutôt le chemin de terre qui serpentait entre les maisons. Lucien préparait du pain grillé et du fromage.
+Agathe se tenait devant la petite fenêtre. Elle regardait la rue, ou plutôt le chemin de terre qui serpentait entre les maisons. Lucien préparait du pain grillé et du fromage.
 
 — Ils vont me voir, dit-elle, sans tourner la tête.
 
@@ -809,7 +809,7 @@ Lucien réfléchit.
 
 — Y a un petit chemin derrière la maison. Il descend vers le bois, à l'écart des regards. Tu peux partir par là, si tu veux. Personne te verra.
 
-Alba tourna la tête, surprise par l'absence d'insistance. Lucien lui tendit une tranche de pain grillé.
+Agathe tourna la tête, surprise par l'absence d'insistance. Lucien lui tendit une tranche de pain grillé.
 
 — Ici, c'est chez toi autant que chez moi, dit-il. T'entres, tu sors, tu fais comme tu sens. Je demanderai rien.
 
@@ -819,7 +819,7 @@ Elle prit le pain. Le mordit. Mâcha lentement.
 
 — C'est la boulangère du village. Elle est pas bavarde. Elle fait du bon pain, c'est tout.
 
-Alba hocha la tête, pensive. Quelque chose était en train de se fissurer, tout doucement, dans sa méfiance ancienne. Pas une brèche, non. Juste une petite fêlure par où entrait un filet de lumière tiède.
+Agathe hocha la tête, pensive. Quelque chose était en train de se fissurer, tout doucement, dans sa méfiance ancienne. Pas une brèche, non. Juste une petite fêlure par où entrait un filet de lumière tiède.
 
 Elle resta deux jours. Pas plus. Le temps que la neige fonde un peu, que la forêt redevienne praticable. Elle sortait peu, et toujours par le petit chemin derrière la maison. Mais elle observait. Le forgeron qui battait le fer en cadence. La vieille femme qui nourrissait ses poules en leur parlant doucement. Les enfants qui faisaient glisser des luges de fortune sur la pente douce, leurs rires clairs montant jusqu'à la fenêtre.
 
@@ -833,9 +833,9 @@ Lucien ne dit rien. Il se contenta d'ajouter une bûche dans le feu.
 
 ---
 
-### Chapitre 30 : Dans lequel Alba repart, mais pas tout à fait
+### Chapitre 30 : Dans lequel Agathe repart, mais pas tout à fait
 
-Le troisième matin, Alba annonça qu'elle retournait dans la forêt. Lucien hocha la tête, sans surprise.
+Le troisième matin, Agathe annonça qu'elle retournait dans la forêt. Lucien hocha la tête, sans surprise.
 
 — La tempête a peut-être abîmé l'abri. Faut que j'aille voir. Et le sanctuaire... faut voir si l'if a tenu.
 
@@ -853,7 +853,7 @@ Lucien sentit une chaleur douce dans sa poitrine.
 
 Le renard, qui semblait avoir compris, remua paresseusement la queue sans ouvrir les yeux.
 
-Alba hocha la tête, ajusta sa cape, et sortit par le petit chemin de derrière. Avant de disparaître entre les arbres, elle se retourna une dernière fois. Elle ne fit pas de signe. Elle regarda juste la maison, la fumée qui montait du toit, la lumière chaude derrière la vitre.
+Agathe hocha la tête, ajusta sa cape, et sortit par le petit chemin de derrière. Avant de disparaître entre les arbres, elle se retourna une dernière fois. Elle ne fit pas de signe. Elle regarda juste la maison, la fumée qui montait du toit, la lumière chaude derrière la vitre.
 
 Puis elle s'enfonça dans la forêt, suivie du Rouquin, et le blanc de la neige l'avala.
 
@@ -867,7 +867,7 @@ Il avait tout son temps. La forêt avait tout son temps. Et maintenant, le villa
 
 ### Chapitre 31 : Dans lequel un équilibre nouveau s'installe
 
-Les semaines qui suivirent virent naître une routine d'un genre nouveau. Alba venait au village une fois par semaine, parfois deux. Jamais plus. Elle arrivait par le petit chemin, frappait un coup discret à la porte de derrière, et entrait sans attendre de réponse.
+Les semaines qui suivirent virent naître une routine d'un genre nouveau. Agathe venait au village une fois par semaine, parfois deux. Jamais plus. Elle arrivait par le petit chemin, frappait un coup discret à la porte de derrière, et entrait sans attendre de réponse.
 
 Elle ne restait jamais longtemps. Quelques heures. Le temps de partager un repas, de se réchauffer, parfois d'écouter Lucien lui raconter une anecdote du village — la chèvre du père Anselme qui avait encore mangé son linge, la querelle des deux sœurs à propos d'une recette de tourte. Elle écoutait, amusée ou perplexe, et repartait sans se retourner.
 
@@ -887,7 +887,7 @@ D'abord, ce furent les perce-neige. Lucien les vit un matin, en lisière, petite
 
 La forêt changeait de peau. Les bourgeons gonflaient aux branches, d'un vert acide et fragile. La mousse, gorgée d'eau, reprenait sa couleur d'émeraude sombre. Le ruisseau, libéré des glaces, chantait plus fort, roulant des eaux vives sur les pierres polies.
 
-Lucien retrouva Alba près du sanctuaire. Elle était accroupie devant une petite fleur jaune qu'il ne connaissait pas — une primevère, peut-être, ou une ficaire. Elle ne bougeait pas, les mains posées sur les genoux, le regard absorbé.
+Lucien retrouva Agathe près du sanctuaire. Elle était accroupie devant une petite fleur jaune qu'il ne connaissait pas — une primevère, peut-être, ou une ficaire. Elle ne bougeait pas, les mains posées sur les genoux, le regard absorbé.
 
 — Ça fait du bien, dit-elle sans le regarder.
 
@@ -895,7 +895,7 @@ Lucien s'assit à côté d'elle. Il comprenait. Après le blanc et le gris de l'
 
 Le Rouquin, lui, semblait rajeuni. Il bondissait dans les feuilles mortes encore humides, débusquait des mulots imaginaires, et roulait parfois sur le dos dans une tache de soleil, les quatre pattes en l'air, avec un abandon peu digne d'un animal sauvage.
 
-— Il est ridicule, dit Alba, mais sa voix était tendre.
+— Il est ridicule, dit Agathe, mais sa voix était tendre.
 
 — Il est heureux, corrigea Lucien.
 
@@ -905,15 +905,15 @@ Ils restèrent longtemps sans parler, à regarder la lumière jouer dans les jeu
 
 ### Chapitre 33 : Dans lequel le printemps est aussi une saison de travail
 
-Le dégel révéla les traces de l'hiver. Au sanctuaire, une branche maîtresse de l'if avait cédé sous le poids de la neige. Elle gisait en travers des dalles, cassée net, sa sève encore odorante. Lucien et Alba la regardèrent longtemps, en silence. L'arbre semblait plus vieux, soudain, comme un sage qui aurait perdu un membre mais gardait toute sa dignité.
+Le dégel révéla les traces de l'hiver. Au sanctuaire, une branche maîtresse de l'if avait cédé sous le poids de la neige. Elle gisait en travers des dalles, cassée net, sa sève encore odorante. Lucien et Agathe la regardèrent longtemps, en silence. L'arbre semblait plus vieux, soudain, comme un sage qui aurait perdu un membre mais gardait toute sa dignité.
 
-— Faut la déplacer, dit Alba. Dégager les dalles.
+— Faut la déplacer, dit Agathe. Dégager les dalles.
 
 Ils s'y mirent ensemble, sans hâte. La branche était lourde, le bois dense et serré. Ils la traînèrent à l'écart, sous les fourrés, où elle finirait de se décomposer, rendant à la terre ce que la terre lui avait donné.
 
-Puis Alba entreprit de consolider son abri, que la tempête avait malmené. Lucien l'aidait sans qu'elle demande, apportant des branches souples de noisetier, de la mousse sèche pour calfater les interstices. Ils travaillaient côte à côte, en silence, dans cette entente muette qui était devenue leur langage le plus fluide.
+Puis Agathe entreprit de consolider son abri, que la tempête avait malmené. Lucien l'aidait sans qu'elle demande, apportant des branches souples de noisetier, de la mousse sèche pour calfater les interstices. Ils travaillaient côte à côte, en silence, dans cette entente muette qui était devenue leur langage le plus fluide.
 
-Parfois, Lucien levait les yeux et surprenait le regard d'Alba posé sur lui. Elle détournait vite la tête, et il faisait semblant de n'avoir rien vu. Mais quelque chose, dans ces brefs instants, vibrait comme une corde qu'on aurait effleurée sans la pincer vraiment.
+Parfois, Lucien levait les yeux et surprenait le regard d'Agathe posé sur lui. Elle détournait vite la tête, et il faisait semblant de n'avoir rien vu. Mais quelque chose, dans ces brefs instants, vibrait comme une corde qu'on aurait effleurée sans la pincer vraiment.
 
 ---
 
@@ -975,7 +975,7 @@ Il se leva avec lenteur, s'appuya sur son bâton, et s'éloigna vers sa maisonne
 
 À partir de ce jour, Lucien ne put s'empêcher de remarquer des choses qu'il avait toujours vues sans les voir.
 
-La façon dont Alba repoussait une mèche de cheveux derrière son oreille quand elle était concentrée. La façon dont ses doigts effleuraient l'écorce des arbres, comme une caresse distraite. La façon dont elle souriait — presque invisiblement — quand le Rouquin faisait une bêtise.
+La façon dont Agathe repoussait une mèche de cheveux derrière son oreille quand elle était concentrée. La façon dont ses doigts effleuraient l'écorce des arbres, comme une caresse distraite. La façon dont elle souriait — presque invisiblement — quand le Rouquin faisait une bêtise.
 
 Il remarqua aussi son propre cœur, qui battait un peu plus vite quand il approchait de la clairière. Et cette légère déception, au creux de la poitrine, les jours où elle n'était pas là.
 
@@ -993,7 +993,7 @@ Elles y restèrent jusqu'à ce qu'elles fanent.
 
 ### Chapitre 37 : Dans lequel la forêt et le village commencent à dialoguer
 
-Le printemps avançait. Les jours rallongeaient encore, et avec eux, les visites d'Alba au village se firent un peu plus fréquentes. Pas beaucoup plus. Mais assez pour que le petit chemin derrière la maison de Lucien commence à se marquer légèrement, comme un sentier de gibier.
+Le printemps avançait. Les jours rallongeaient encore, et avec eux, les visites d'Agathe au village se firent un peu plus fréquentes. Pas beaucoup plus. Mais assez pour que le petit chemin derrière la maison de Lucien commence à se marquer légèrement, comme un sentier de gibier.
 
 Un matin, elle arriva avec un panier de morilles. Les premières de l'année.
 
@@ -1005,25 +1005,25 @@ Lucien rit doucement.
 
 Il l'emmena chez la mère Brémond, une vieille femme qui vivait à l'orée du village, dans une maisonnette envahie de plantes aromatiques. La mère Brémond avait la réputation de savoir cuisiner tout ce que la terre donnait, des orties aux pissenlits, des champignons aux baies sauvages.
 
-Quand Alba franchit le seuil de la maisonnette, elle eut un mouvement de recul — trop de murs, trop de choses, trop d'odeurs mêlées. Mais la mère Brémond, sans un mot, lui mit dans les mains une branche de romarin frais.
+Quand Agathe franchit le seuil de la maisonnette, elle eut un mouvement de recul — trop de murs, trop de choses, trop d'odeurs mêlées. Mais la mère Brémond, sans un mot, lui mit dans les mains une branche de romarin frais.
 
 — Respire, dit-elle simplement.
 
-Alba respira. Le romarin sentait le soleil et la garrigue, une odeur propre et franche. Elle se détendit un peu.
+Agathe respira. Le romarin sentait le soleil et la garrigue, une odeur propre et franche. Elle se détendit un peu.
 
 La vieille femme examina les morilles avec des yeux brillants.
 
 — Belles, très belles. Vous les avez trouvées où ?
 
-— Sous les frênes, près du ruisseau qui chante, dit Alba.
+— Sous les frênes, près du ruisseau qui chante, dit Agathe.
 
 La mère Brémond hocha la tête, appréciant la précision.
 
 — Je vous les prépare, si vous voulez. À la crème, avec un peu de vin blanc. Mais vous restez manger. Ça se partage, les morilles.
 
-Lucien regarda Alba, inquiet. C'était trop de nouveauté d'un coup : une maison inconnue, une proposition de repas, une présence humaine supplémentaire.
+Lucien regarda Agathe, inquiet. C'était trop de nouveauté d'un coup : une maison inconnue, une proposition de repas, une présence humaine supplémentaire.
 
-Mais Alba, contre toute attente, hocha la tête.
+Mais Agathe, contre toute attente, hocha la tête.
 
 — D'accord. Mais je veux bien regarder comment vous faites.
 
@@ -1031,7 +1031,7 @@ La mère Brémond sourit, de ce sourire des vieilles personnes qui ont tout vu e
 
 — Regarde, ma fille. Regarde et apprends. La cuisine, c'est comme la forêt : faut du temps, de l'attention, et pas trop de gestes.
 
-Ce fut le premier repas d'Alba dans une maison qui n'était pas celle de Lucien. Elle parla peu, mais elle écouta la mère Brémond raconter ses souvenirs de cueillettes, ses recettes oubliées, ses secrets de cuisson. Et en partant, elle emporta un petit bouquet de romarin, qu'elle glissa dans sa besace.
+Ce fut le premier repas d'Agathe dans une maison qui n'était pas celle de Lucien. Elle parla peu, mais elle écouta la mère Brémond raconter ses souvenirs de cueillettes, ses recettes oubliées, ses secrets de cuisson. Et en partant, elle emporta un petit bouquet de romarin, qu'elle glissa dans sa besace.
 
 Sur le chemin du retour, elle dit à Lucien :
 
@@ -1041,13 +1041,13 @@ Lucien hocha la tête.
 
 — Le village est plein de gens comme ça. Faut juste leur laisser le temps de se montrer.
 
-Alba ne répondit pas. Mais elle regarda les maisons du village avec des yeux un peu moins méfiants, un peu plus curieux.
+Agathe ne répondit pas. Mais elle regarda les maisons du village avec des yeux un peu moins méfiants, un peu plus curieux.
 
 ### Chapitre 38 : Dans lequel le marché devient un lieu possible
 
 Le marché du village se tenait tous les quinze jours, sur la petite place devant l'église. Rien d'extraordinaire : quelques étals de légumes, un fromager, la boulangère qui sortait une table, un rémouleur qui aiguisait les couteaux en chantonnant. Mais pour Lucien, qui l'avait toujours traversé vite, tête baissée, c'était un territoire étranger.
 
-Ce matin-là, il avait proposé à Alba de l'accompagner. Elle avait hésité longtemps, les yeux fixés sur la fumée qui montait du toit de la mère Brémond.
+Ce matin-là, il avait proposé à Agathe de l'accompagner. Elle avait hésité longtemps, les yeux fixés sur la fumée qui montait du toit de la mère Brémond.
 
 — Il y aura beaucoup de monde ? avait-elle demandé.
 
@@ -1055,25 +1055,25 @@ Ce matin-là, il avait proposé à Alba de l'accompagner. Elle avait hésité lo
 
 Elle avait fini par hocher la tête, et ils étaient descendus ensemble par le petit chemin, le Rouquin trottinant devant eux comme un éclaireur.
 
-À l'entrée du marché, Alba s'était arrêtée net. L'agitation lui paraissait sans doute immense, même si elle était infime comparée à la grande ville d'en bas. Les voix, les rires, le bruit des sabots sur les pavés, le tintement des piécettes. Elle respirait vite, les doigts crispés sur la lanière de sa besace.
+À l'entrée du marché, Agathe s'était arrêtée net. L'agitation lui paraissait sans doute immense, même si elle était infime comparée à la grande ville d'en bas. Les voix, les rires, le bruit des sabots sur les pavés, le tintement des piécettes. Elle respirait vite, les doigts crispés sur la lanière de sa besace.
 
 Lucien ne dit rien. Il attendit, les mains dans les poches, le regard posé sur les toits familiers. Il avait appris que l'attente silencieuse était la meilleure des invitations.
 
-Au bout d'un long moment, Alba fit un pas. Puis un autre. Elle longea les étals sans rien regarder vraiment, les yeux fixés droit devant elle. Lucien la suivait à distance, comme on suit un chevreuil qui s'aventure en lisière.
+Au bout d'un long moment, Agathe fit un pas. Puis un autre. Elle longea les étals sans rien regarder vraiment, les yeux fixés droit devant elle. Lucien la suivait à distance, comme on suit un chevreuil qui s'aventure en lisière.
 
-Ce fut la mère Brémond qui brisa la glace, sans le vouloir. Elle était en train de choisir des fromages de chèvre, et en se retournant, elle vit Alba.
+Ce fut la mère Brémond qui brisa la glace, sans le vouloir. Elle était en train de choisir des fromages de chèvre, et en se retournant, elle vit Agathe.
 
 — Ah, te voilà, la fille des bois ! s'exclama-t-elle avec son franc-parler habituel. Viens goûter celui-ci, il est à la ciboulette. Tu m'en diras des nouvelles.
 
-Alba s'arrêta, décontenancée. Mais la mère Brémond lui tendait déjà un petit morceau de fromage sur la pointe de son couteau. Alba le prit, le goûta du bout des lèvres, puis le mangea tout entier.
+Agathe s'arrêta, décontenancée. Mais la mère Brémond lui tendait déjà un petit morceau de fromage sur la pointe de son couteau. Agathe le prit, le goûta du bout des lèvres, puis le mangea tout entier.
 
 — C'est bon, dit-elle, presque surprise.
 
 — Bien sûr que c'est bon. C'est la Berthe qui le fait, avec le lait de ses biquettes. Elle est pas causante, la Berthe, mais ses fromages, ils parlent pour elle.
 
-La fromagère, une femme trapue au visage rougeaud, hocha la tête en guise de salut. Elle ne dit rien, en effet. Mais elle coupa un second morceau et le tendit à Alba, sans commentaire.
+La fromagère, une femme trapue au visage rougeaud, hocha la tête en guise de salut. Elle ne dit rien, en effet. Mais elle coupa un second morceau et le tendit à Agathe, sans commentaire.
 
-Ce fut ainsi, par petites bouchées, qu'Alba fit connaissance avec le marché.
+Ce fut ainsi, par petites bouchées, qu'Agathe fit connaissance avec le marché.
 
 ---
 
@@ -1093,13 +1093,13 @@ Le vannier sourit sans se moquer.
 
 Lucien paya sans discuter, le panier sous le bras. Il ne savait pas encore s'il oserait l'offrir, ni comment. Mais il le tenait, et cela lui faisait une contenance.
 
-Quand il rejoignit Alba, elle avait un petit morceau de fromage dans une main, une tranche de pain de seigle dans l'autre, et elle écoutait la mère Brémond lui expliquer comment reconnaître le bon miel.
+Quand il rejoignit Agathe, elle avait un petit morceau de fromage dans une main, une tranche de pain de seigle dans l'autre, et elle écoutait la mère Brémond lui expliquer comment reconnaître le bon miel.
 
 — Faut qu'il soit épais, mais pas trop. Qu'il coule lentement, comme de l'or paresseux. Et l'odeur, surtout. Un bon miel, ça sent la fleur dont il vient, pas que le sucre.
 
-Alba hochait la tête, attentive. Elle n'avait plus cet air traqué du début. Ses épaules étaient un peu moins hautes, sa respiration plus lente.
+Agathe hochait la tête, attentive. Elle n'avait plus cet air traqué du début. Ses épaules étaient un peu moins hautes, sa respiration plus lente.
 
-Lucien s'approcha, le panier à la main. Alba le vit et ses yeux s'arrêtèrent sur l'objet.
+Lucien s'approcha, le panier à la main. Agathe le vit et ses yeux s'arrêtèrent sur l'objet.
 
 — C'est pour toi, dit-il simplement. Pour les champignons.
 
@@ -1119,9 +1119,9 @@ Ils étaient sur le point de repartir quand une voix familière les héla.
 
 C'était le père Anselme, assis sur son banc habituel, la pipe au coin des lèvres. Il n'était pas seul. Deux autres anciens du village l'entouraient, occupés à regarder passer le monde avec cette lenteur studieuse des vieux qui ont tout leur temps.
 
-Lucien s'approcha, un peu gêné. Alba resta en retrait, près de l'étal de la Berthe, occupée à regarder les fromages avec une attention exagérée.
+Lucien s'approcha, un peu gêné. Agathe resta en retrait, près de l'étal de la Berthe, occupée à regarder les fromages avec une attention exagérée.
 
-— C'est Alba, dit Lucien sobrement. Une amie. De la forêt.
+— C'est Agathe, dit Lucien sobrement. Une amie. De la forêt.
 
 Le père Anselme tira sur sa pipe, les yeux plissés.
 
@@ -1135,7 +1135,7 @@ Il souffla un rond de fumée qui s'étira paresseusement dans l'air printanier. 
 
 Lucien sentit son cœur faire un bond. Des cheveux gris. Le sanctuaire. L'if. Les couronnes d'avoine.
 
-Il tourna la tête vers Alba, qui s'était rapprochée insensiblement et qui écoutait, elle aussi, le visage soudain très attentif.
+Il tourna la tête vers Agathe, qui s'était rapprochée insensiblement et qui écoutait, elle aussi, le visage soudain très attentif.
 
 — Et qu'est-ce qu'elle est devenue ? demanda Lucien, la gorge un peu serrée.
 
@@ -1153,7 +1153,7 @@ Il leva les yeux vers Lucien, et il y avait dans son regard une lueur étrange, 
 
 — Toi, le jeune, t'as l'air de connaître la forêt mieux que personne. Si jamais tu croises une vieille femme aux cheveux gris, qui tresse des couronnes d'avoine... tu lui diras qu'Anselme pense à elle. Tous les jours. Même quand il fait semblant de pas y penser.
 
-Lucien hocha la tête, incapable de parler. Il sentait la présence d'Alba à côté de lui, silencieuse et vibrante comme une corde tendue.
+Lucien hocha la tête, incapable de parler. Il sentait la présence d'Agathe à côté de lui, silencieuse et vibrante comme une corde tendue.
 
 ---
 
@@ -1161,7 +1161,7 @@ Lucien hocha la tête, incapable de parler. Il sentait la présence d'Alba à c�
 
 Sur le chemin du retour, ni l'un ni l'autre ne parla. Le Rouquin, sentant la gravité de l'instant, trottinait sans faire de bruit, la queue basse.
 
-Ce fut Alba qui brisa le silence, à mi-chemin du sanctuaire.
+Ce fut Agathe qui brisa le silence, à mi-chemin du sanctuaire.
 
 — C'est elle. La femme du sanctuaire. J'en suis sûre.
 
@@ -1169,21 +1169,21 @@ Ce fut Alba qui brisa le silence, à mi-chemin du sanctuaire.
 
 — Elle vient depuis trente ans. Peut-être plus. Et lui, il est resté au village. Il a continué à vivre, à forger, à fumer sa pipe. Mais il a jamais oublié.
 
-Nouveau silence. Puis Alba ajouta, d'une voix plus basse :
+Nouveau silence. Puis Agathe ajouta, d'une voix plus basse :
 
 — Ils ont choisi des chemins différents. Et ils ont continué à s'aimer, quand même. À distance. En silence.
 
-Lucien ne répondit pas. Il pensait au panier d'osier qu'Alba portait encore au bras, au miel qu'il avait acheté sans savoir pourquoi, aux violettes dans la coquille de noix.
+Lucien ne répondit pas. Il pensait au panier d'osier qu'Agathe portait encore au bras, au miel qu'il avait acheté sans savoir pourquoi, aux violettes dans la coquille de noix.
 
 — C'est possible, ça ? demanda-t-il enfin. Aimer sans être ensemble ?
 
-Alba marcha quelques pas avant de répondre.
+Agathe marcha quelques pas avant de répondre.
 
 — Je sais pas. Mais eux, ils l'ont fait. Et peut-être que c'est pour ça qu'elle dépose encore des glands et des couronnes. Pas pour le sanctuaire. Pour lui. Pour qu'il sache qu'elle est toujours là, quelque part, de l'autre côté des arbres.
 
 Ils arrivèrent à la lisière du sanctuaire. La lumière de fin d'après-midi dorait les vieilles pierres. L'if centenaire se dressait, immuable, gardien de secrets plus anciens que tous les villages et toutes les villes.
 
-Alba posa le panier au pied de l'arbre. Puis, sans un mot, elle sortit de sa besace un petit morceau de fromage de la Berthe et le déposa délicatement dans une anfractuosité de l'écorce, à côté d'une plume de geai.
+Agathe posa le panier au pied de l'arbre. Puis, sans un mot, elle sortit de sa besace un petit morceau de fromage de la Berthe et le déposa délicatement dans une anfractuosité de l'écorce, à côté d'une plume de geai.
 
 — Pour elle, dit-elle. Pour qu'elle sache qu'on sait.
 
@@ -1197,7 +1197,7 @@ Le Rouquin, qui avait observé la scène avec attention, renifla les offrandes, 
 
 ### Chapitre 42 : Dans lequel l'amour est une chose qui se tisse à plusieurs fils
 
-Le soir tombait quand ils quittèrent le sanctuaire. Alba marchait près de Lucien, et leurs épaules se frôlaient parfois, sans qu'ils y prennent garde.
+Le soir tombait quand ils quittèrent le sanctuaire. Agathe marchait près de Lucien, et leurs épaules se frôlaient parfois, sans qu'ils y prennent garde.
 
 — Lucien, dit-elle soudain.
 
@@ -1213,7 +1213,7 @@ Lucien rit doucement.
 
 — Et moi ? demanda Lucien, amusé.
 
-Alba réfléchit un instant.
+Agathe réfléchit un instant.
 
 — Toi, t'es un hêtre. Grand, calme, avec une écorce lisse et des feuilles qui filtrent la lumière. On est bien, sous un hêtre. On a envie d'y rester.
 
@@ -1221,13 +1221,13 @@ Lucien ne répondit pas tout de suite. Il sentait son cœur battre un peu trop f
 
 — Et toi ? demanda-t-il enfin. T'es quel arbre ?
 
-Alba sourit — un vrai sourire, cette fois, qui plissa le coin de ses yeux.
+Agathe sourit — un vrai sourire, cette fois, qui plissa le coin de ses yeux.
 
 — Je suis pas encore un arbre. Je suis une fougère. Je pousse dans l'ombre, je me déroule lentement, et je demande pas grand-chose. Juste un peu d'humidité et de patience.
 
 — Les fougères, c'est très beau, dit Lucien doucement. Et c'est plus ancien que les arbres. Ça existait avant, les fougères. Avant tout.
 
-Alba ne répondit pas. Mais sa main, en marchant, effleura celle de Lucien. Juste un instant. Juste assez pour que leurs doigts se reconnaissent.
+Agathe ne répondit pas. Mais sa main, en marchant, effleura celle de Lucien. Juste un instant. Juste assez pour que leurs doigts se reconnaissent.
 
 Ils continuèrent à marcher, côte à côte, dans le soir qui descendait sur la forêt.
 
@@ -1237,7 +1237,7 @@ Lucien ne dormit pas bien cette nuit-là. L'image du père Anselme, seul sur son
 
 Au petit matin, il se leva avec une résolution. Il irait au sanctuaire, et il y resterait jusqu'à ce que la femme aux cheveux gris apparaisse. Il lui parlerait. Il lui dirait ce que le vieux forgeron avait dit.
 
-Mais en chemin, il croisa Alba. Elle l'attendait à la lisière, assise sur une souche, le Rouquin à ses pieds.
+Mais en chemin, il croisa Agathe. Elle l'attendait à la lisière, assise sur une souche, le Rouquin à ses pieds.
 
 — Tu vas lui dire, dit-elle. (Ce n'était pas une question.)
 
@@ -1245,19 +1245,19 @@ Lucien hocha la tête.
 
 — Oui. Elle doit savoir.
 
-Alba réfléchit un instant.
+Agathe réfléchit un instant.
 
 — Laisse-moi faire. Les mots, des fois, ils pèsent trop lourd. Moi, je sais parler sans parler.
 
-Lucien hésita, puis accepta. Il faisait confiance à Alba pour ces choses-là.
+Lucien hésita, puis accepta. Il faisait confiance à Agathe pour ces choses-là.
 
 ---
 
-### Chapitre 44 : Dans lequel Alba laisse un message que seule une femme des bois peut lire
+### Chapitre 44 : Dans lequel Agathe laisse un message que seule une femme des bois peut lire
 
 Ils arrivèrent au sanctuaire dans la lumière douce du matin. L'if centenaire étendait son ombre fraîche sur les dalles moussues. Les offrandes de la veille — le fromage et le miel — avaient disparu. À la place, une nouvelle couronne d'avoine était accrochée à une branche basse, fraîchement tressée.
 
-Alba s'avança jusqu'à la pierre aux gravures. Elle sortit de sa besace un petit morceau de charbon et traça, à côté des spirales anciennes, un nouveau dessin. Simple. Une enclume. Et à côté de l'enclume, un banc. Et sur le banc, une silhouette grossière, coiffée d'un chapeau rond — le chapeau que portait toujours le père Anselme.
+Agathe s'avança jusqu'à la pierre aux gravures. Elle sortit de sa besace un petit morceau de charbon et traça, à côté des spirales anciennes, un nouveau dessin. Simple. Une enclume. Et à côté de l'enclume, un banc. Et sur le banc, une silhouette grossière, coiffée d'un chapeau rond — le chapeau que portait toujours le père Anselme.
 
 Puis elle se releva et recula.
 
@@ -1293,7 +1293,7 @@ Elle resta ainsi, immobile, et Lucien vit quelque chose briller sur sa joue. Une
 
 Au bout d'un très long moment, elle se pencha, ramassa une pierre plate, et la posa délicatement sur le dessin, comme on scelle une promesse. Puis elle reprit son panier et s'éloigna, sans un mot, dans la direction du village.
 
-Alba serra doucement le bras de Lucien.
+Agathe serra doucement le bras de Lucien.
 
 — Elle a compris. Elle y va.
 
@@ -1353,13 +1353,13 @@ Et c'est ainsi que, trente ans après, ils se retrouvèrent. Pas pour tout recom
 
 ---
 
-### Chapitre 47 : Dans lequel Lucien et Alba sont témoins, de loin
+### Chapitre 47 : Dans lequel Lucien et Agathe sont témoins, de loin
 
-Lucien et Alba n'avaient pas suivi la femme aux cheveux gris jusqu'au village. Ils étaient restés à la lisière, là où la forêt s'ouvre sur les premières maisons. De là, on voyait le banc du père Anselme, tout en bas de la rue principale.
+Lucien et Agathe n'avaient pas suivi la femme aux cheveux gris jusqu'au village. Ils étaient restés à la lisière, là où la forêt s'ouvre sur les premières maisons. De là, on voyait le banc du père Anselme, tout en bas de la rue principale.
 
 Ils virent la silhouette grise s'approcher. Ils virent Gustave se lever et s'éloigner. Ils virent les deux têtes grises côte à côte, immobiles, comme deux vieux arbres qu'on aurait plantés ensemble.
 
-Alba glissa sa main dans celle de Lucien. Il la serra doucement.
+Agathe glissa sa main dans celle de Lucien. Il la serra doucement.
 
 — Ils sont heureux, murmura-t-elle.
 
@@ -1367,7 +1367,7 @@ Alba glissa sa main dans celle de Lucien. Il la serra doucement.
 
 Ils restèrent là un long moment, à regarder le tableau paisible du village et des deux anciens amants réunis. Le Rouquin, qui s'était faufilé jusqu'à eux, s'assit et contempla la scène avec ce regard impénétrable des renards qui savent tout sans jamais rien dire.
 
-Puis Alba se tourna vers Lucien.
+Puis Agathe se tourna vers Lucien.
 
 — Un jour, faudra qu'on descende, nous aussi. Dans la grande ville. Voir ce qu'il y a derrière le mur gris.
 
@@ -1375,7 +1375,7 @@ Lucien sentit son cœur faire ce petit bond familier. Mais il n'eut pas peur. Pa
 
 — Un jour, oui. Quand on sera prêts.
 
-— Pas encore, dit Alba.
+— Pas encore, dit Agathe.
 
 — Non. Pas encore.
 
@@ -1391,21 +1391,21 @@ Un jour, la boulangère les vit et dit à Lucien :
 
 — L'amour, c'est comme le levain. Faut du temps, de la patience, et la bonne température. Mais quand ça prend, ça lève toujours.
 
-Lucien sourit. Il pensa à Alba, à leurs mains qui se frôlaient, à leurs silences partagés. Et il sut que la boulangère avait raison.
+Lucien sourit. Il pensa à Agathe, à leurs mains qui se frôlaient, à leurs silences partagés. Et il sut que la boulangère avait raison.
 
 La grande ville, en bas, attendait toujours. Mais elle pouvait attendre encore. La forêt était vaste, et l'été était doux. Le Rouquin dormait à l'ombre de l'if. Et quelque part, sur un banc de pierre, deux vieilles personnes regardaient passer les nuages, enfin réunies.
 
-Quant à Lucien et Alba, leur histoire continuait, lente et sûre, comme la croissance d'un arbre. Un jour, ils descendraient. Mais ce jour n'était pas encore venu.
+Quant à Lucien et Agathe, leur histoire continuait, lente et sûre, comme la croissance d'un arbre. Un jour, ils descendraient. Mais ce jour n'était pas encore venu.
 
 ## Arc II : Le chemin qui descend
 
 ### Chapitre 48 : Dans lequel une rumeur monte de la vallée
 
-L'été s'avançait, lourd et doré. Les foins coupés embaumaient les abords du village, et la forêt bruissait d'une vie ralentie par la chaleur. Lucien et Alba passaient de longues heures au sanctuaire, à l'ombre de l'if, ou près du ruisseau dont l'eau fraîche chantait plus bas.
+L'été s'avançait, lourd et doré. Les foins coupés embaumaient les abords du village, et la forêt bruissait d'une vie ralentie par la chaleur. Lucien et Agathe passaient de longues heures au sanctuaire, à l'ombre de l'if, ou près du ruisseau dont l'eau fraîche chantait plus bas.
 
 C'est un colporteur qui apporta la première graine. Il montait de la vallée avec son chariot brimbalant, chargé de tissus, d'épices et de nouvelles. Le village se rassembla autour de lui, comme chaque année, pour écouter ce qui se disait en bas.
 
-Lucien, qui d'ordinaire évitait ces attroupements, se retrouva là presque malgré lui, poussé par une curiosité nouvelle. Alba n'était pas avec lui — elle avait préféré rester en lisière, là où l'air sentait encore la résine et non la foule.
+Lucien, qui d'ordinaire évitait ces attroupements, se retrouva là presque malgré lui, poussé par une curiosité nouvelle. Agathe n'était pas avec lui — elle avait préféré rester en lisière, là où l'air sentait encore la résine et non la foule.
 
 Le colporteur parlait d'une grande sécheresse qui frappait les campagnes au sud, de troubles dans les cités marchandes, et d'un nouveau gouverneur qui avait fait paver la place centrale de la grande ville. Mais ce n'est pas cela qui retint l'attention de Lucien.
 
@@ -1413,15 +1413,15 @@ Le colporteur parlait d'une grande sécheresse qui frappait les campagnes au sud
 
 Lucien sentit son sang ralentir. _Les vieilles pierres._ Les gravures du sanctuaire. La femme aux cheveux gris et ses offrandes silencieuses. Était-ce cela que les gens d'en bas cherchaient ?
 
-Il n'en parla pas tout de suite à Alba. Il voulait d'abord digérer l'information, la tourner dans sa tête comme un galet poli par l'eau. Mais le soir venu, alors qu'ils étaient assis sous l'if, il rompit le silence.
+Il n'en parla pas tout de suite à Agathe. Il voulait d'abord digérer l'information, la tourner dans sa tête comme un galet poli par l'eau. Mais le soir venu, alors qu'ils étaient assis sous l'if, il rompit le silence.
 
-— Alba, il y a des gens, dans la grande ville, qui s'intéressent à des signes anciens. Des signes comme ceux qu'on voit ici.
+— Agathe, il y a des gens, dans la grande ville, qui s'intéressent à des signes anciens. Des signes comme ceux qu'on voit ici.
 
-Alba ne répondit pas immédiatement. Elle regardait le tronc de l'if, où les offrandes minuscules racontaient des siècles de piété silencieuse.
+Agathe ne répondit pas immédiatement. Elle regardait le tronc de l'if, où les offrandes minuscules racontaient des siècles de piété silencieuse.
 
 — Ils veulent savoir ce que ça veut dire, reprit Lucien. Et peut-être qu'ils cherchent des endroits comme le sanctuaire.
 
-— Ou des gens comme nous, murmura Alba.
+— Ou des gens comme nous, murmura Agathe.
 
 Le Rouquin, couché à leurs pieds, leva une oreille, comme s'il écoutait lui aussi.
 
@@ -1431,7 +1431,7 @@ Le Rouquin, couché à leurs pieds, leva une oreille, comme s'il écoutait lui a
 
 La rumeur du colporteur ne quitta plus Lucien. Il la portait en lui comme un petit caillou dans la chaussure — pas vraiment douloureux, mais présent, insistant. Que savait-on, en bas, des vieux cultes de la forêt ? La femme aux cheveux gris était-elle la dernière gardienne d'un savoir plus vaste ? Et s'ils descendaient, que trouveraient-ils ? Un temple oublié ? Des réponses ? Ou simplement plus de questions ?
 
-Alba, de son côté, semblait habitée par une réflexion parallèle. Un après-midi, alors qu'ils cueillaient des mûres sauvages le long de la lisière, elle dit soudain :
+Agathe, de son côté, semblait habitée par une réflexion parallèle. Un après-midi, alors qu'ils cueillaient des mûres sauvages le long de la lisière, elle dit soudain :
 
 — Mon mur gris. Je me demande s'il est toujours là.
 
@@ -1451,7 +1451,7 @@ Lucien hocha lentement la tête. L'idée faisait son chemin.
 
 — On pourrait descendre, dit-il prudemment. Pas pour longtemps. Juste pour voir. Pour comprendre.
 
-Alba le regarda, et dans ses yeux, il vit passer une émotion complexe — peur, curiosité, et une petite flamme qu'il ne connaissait pas encore.
+Agathe le regarda, et dans ses yeux, il vit passer une émotion complexe — peur, curiosité, et une petite flamme qu'il ne connaissait pas encore.
 
 — Oui, dit-elle enfin. Mais pas tout de suite. Faut préparer.
 
@@ -1491,7 +1491,7 @@ Enfin, ils parlèrent à la mère Brémond et à la Berthe. La première leur do
 
 Le village, peu à peu, apprenait leur départ. Et étrangement, cela créa un lien nouveau. Lucien, qui avait toujours vécu en marge, se découvrit une place dans ce petit monde. On le saluait, on lui demandait quand il partait, on lui donnait des conseils — souvent contradictoires, toujours bienveillants.
 
-Alba, elle, observait tout cela avec un étonnement doux. Elle n'était plus tout à fait une étrangère. Elle était « la fille des bois, celle qui va descendre avec Lucien ».
+Agathe, elle, observait tout cela avec un étonnement doux. Elle n'était plus tout à fait une étrangère. Elle était « la fille des bois, celle qui va descendre avec Lucien ».
 
 ---
 
@@ -1505,7 +1505,7 @@ Lucien le regarda, perplexe.
 
 Le renard le fixa de ses yeux dorés, puis s'assit, la queue enroulée autour des pattes. C'était un oui.
 
-Alba sourit.
+Agathe sourit.
 
 — Il a toujours su où on allait avant nous. S'il veut venir, c'est qu'il doit venir.
 
@@ -1517,11 +1517,11 @@ Ainsi fut décidé que le Rouquin serait du voyage. Il ne porterait rien, bien s
 
 Ils partirent un matin de fin d'été, quand la lumière est encore douce et que la rosée perle sur les herbes. Le village était calme ; seuls quelques anciens, sur le banc, levèrent la main en signe d'adieu. La femme aux cheveux gris n'était pas là, mais Lucien sut qu'elle les regardait depuis la lisière.
 
-Le chemin qui descendait vers la grande ville commençait derrière le sanctuaire, dissimulé par un enchevêtrement de ronces qu'Alba connaissait bien. C'était un sentier ancien, pavé par endroits de larges pierres disjointes, preuve que jadis, des gens l'empruntaient régulièrement.
+Le chemin qui descendait vers la grande ville commençait derrière le sanctuaire, dissimulé par un enchevêtrement de ronces qu'Agathe connaissait bien. C'était un sentier ancien, pavé par endroits de larges pierres disjointes, preuve que jadis, des gens l'empruntaient régulièrement.
 
 Ils marchèrent en silence, le Rouquin devant, le nez au vent. La forêt changeait insensiblement. Les grands hêtres laissaient place à des chênes plus clairsemés, puis à des taillis, puis à des buissons épineux. L'air lui-même se transformait — moins de résine, plus de poussière, et une odeur lointaine de fumée.
 
-À midi, ils firent une pause près d'une source. Lucien partagea le pain et le fromage. Alba but longuement, les yeux fixés sur la pente qui s'accentuait.
+À midi, ils firent une pause près d'une source. Lucien partagea le pain et le fromage. Agathe but longuement, les yeux fixés sur la pente qui s'accentuait.
 
 — On n'est jamais descendus si bas, dit-elle.
 
@@ -1533,7 +1533,7 @@ Ils reprirent la marche. En fin d'après-midi, la forêt s'ouvrit soudain sur un
 
 Lucien sentit son cœur se serrer. C'était plus grand, plus dense, plus... vivant que tout ce qu'il avait imaginé.
 
-Alba, à côté de lui, était très pâle. Mais elle ne recula pas. Elle regarda la ville longtemps, puis elle prit la main de Lucien.
+Agathe, à côté de lui, était très pâle. Mais elle ne recula pas. Elle regarda la ville longtemps, puis elle prit la main de Lucien.
 
 — On n'y va pas ce soir, dit-elle. Trop tard. Trop loin. On campera ici, à la lisière. Et demain... demain, on entrera.
 
@@ -1571,7 +1571,7 @@ Des années plus tard, en écoutant les colporteurs qui passaient parfois à la 
 
 Était-ce le jeune brigand repenti ? Un cousin éloigné ? Un imposteur ? Elle ne le saurait jamais. Mais elle comprit que descendre dans la ville, c'était risquer de croiser ce passé calciné, ces yeux qui l'avaient vue fuir, ces questions auxquelles elle n'avait pas de réponse. Le sanctuaire était son seul refuge, la forêt sa seule mémoire. Elle ne voulait pas que la ville souille cela.
 
-Alors elle resta. Elle devint la Gardienne sans le vouloir, par fidélité aux cendres et à l'if. Et quand elle vit Lucien et Alba, deux solitaires aux pieds légers, elle reconnut en eux ce qu'elle avait été : des êtres de lisière, capables d'aller et venir. Peut-être, se dit-elle, étaient-ils ceux qui pourraient descendre sans se perdre.
+Alors elle resta. Elle devint la Gardienne sans le vouloir, par fidélité aux cendres et à l'if. Et quand elle vit Lucien et Agathe, deux solitaires aux pieds légers, elle reconnut en eux ce qu'elle avait été : des êtres de lisière, capables d'aller et venir. Peut-être, se dit-elle, étaient-ils ceux qui pourraient descendre sans se perdre.
 
 Elle leur donna la pierre gravée. Elle leur sourit, en silence. Et elle retourna tresser ses couronnes d'avoine, pour Anselme, pour l'if, pour les douze feux éteints qui brûlaient encore dans sa mémoire.
 
@@ -1581,9 +1581,9 @@ Elle leur donna la pierre gravée. Elle leur sourit, en silence. Et elle retourn
 
 Le campement s'éveilla dans une lumière laiteuse, voilée par les brumes qui montaient de la vallée. Le Rouquin était déjà debout, assis face à la ville, les oreilles dressées. Il écoutait la rumeur lointaine comme on écoute une langue étrangère, avec attention et prudence.
 
-Lucien ranima les braises du feu. Alba s'étira, les yeux encore pleins de la nuit. Ils mangèrent un peu de pain et de fromage, burent l'eau fraîche de la source, et firent leurs sacs sans hâte.
+Lucien ranima les braises du feu. Agathe s'étira, les yeux encore pleins de la nuit. Ils mangèrent un peu de pain et de fromage, burent l'eau fraîche de la source, et firent leurs sacs sans hâte.
 
-Avant de quitter la lisière, Alba se tourna vers la forêt, là-haut, invisible derrière le rideau des arbres. Elle posa une main sur sa poitrine, là où battait son cœur, et murmura quelque chose que Lucien n'entendit pas. Peut-être un adieu. Peut-être une promesse.
+Avant de quitter la lisière, Agathe se tourna vers la forêt, là-haut, invisible derrière le rideau des arbres. Elle posa une main sur sa poitrine, là où battait son cœur, et murmura quelque chose que Lucien n'entendit pas. Peut-être un adieu. Peut-être une promesse.
 
 Puis ils s'engagèrent sur le chemin qui descendait, et la forêt se referma derrière eux, les confiant au monde d'en bas.
 
@@ -1599,7 +1599,7 @@ Au détour d'un lacet, la ville apparut tout entière, non plus comme un panoram
 
 Lucien s'arrêta. Son cœur battait à tout rompre. Il pensa au sage, à ses mots sur la forêt, et il se demanda s'il avait eu raison de quitter la colline.
 
-Alba posa une main sur son bras.
+Agathe posa une main sur son bras.
 
 — On y va ensemble. On reste ensemble. Quoi qu'on trouve.
 
@@ -1615,15 +1615,15 @@ Et la ville les avala.
 
 Le bruit, d'abord, fut une vague qui les submergea. Partout, des gens — plus de gens qu'ils n'en avaient jamais vus de leur vie. Des visages pressés, des épaules qui se frôlaient, des voix qui se croisaient sans s'écouter. Les maisons, hautes de trois ou quatre étages, penchaient sur les ruelles étroites, créant une pénombre perpétuelle trouée de rais de lumière.
 
-Alba marchait les yeux écarquillés, la main serrée sur la lanière de sa besace. Elle reconnaissait des choses — l'odeur du pain chaud, le cliquetis d'une forge — mais tout était plus dense, plus pressé, plus fort. Elle chercha du regard le mur gris de son enfance, mais tous les murs étaient gris, ici, et aucun ne ressemblait à son souvenir.
+Agathe marchait les yeux écarquillés, la main serrée sur la lanière de sa besace. Elle reconnaissait des choses — l'odeur du pain chaud, le cliquetis d'une forge — mais tout était plus dense, plus pressé, plus fort. Elle chercha du regard le mur gris de son enfance, mais tous les murs étaient gris, ici, et aucun ne ressemblait à son souvenir.
 
 Le Rouquin, contre toute attente, se coula dans les ombres avec une aisance retrouvée. Les villes ont aussi leurs renards, discrets et furtifs, et celui-ci avait compris qu'il fallait se faire oublier. Il trottinait dans les recoins, évitant les pieds des passants, le museau au vent.
 
-Lucien, lui, était perdu. Non pas géographiquement — la rue principale descendait tout droit vers le fleuve — mais intérieurement. Tout ce bruit, toute cette agitation, lui rappelaient pourquoi il avait toujours préféré la solitude. Et pourtant, il était là, avec Alba, et cela changeait tout.
+Lucien, lui, était perdu. Non pas géographiquement — la rue principale descendait tout droit vers le fleuve — mais intérieurement. Tout ce bruit, toute cette agitation, lui rappelaient pourquoi il avait toujours préféré la solitude. Et pourtant, il était là, avec Agathe, et cela changeait tout.
 
 Ils trouvèrent une petite place où une fontaine chantait, entourée de quelques bancs de pierre. Ils s'assirent, le temps de reprendre leur souffle.
 
-— On cherche d'abord les manuscrits, dit Alba. Le temple ancien. C'est pour ça qu'on est venus.
+— On cherche d'abord les manuscrits, dit Agathe. Le temple ancien. C'est pour ça qu'on est venus.
 
 — Et après ?
 
@@ -1645,11 +1645,11 @@ Lucien sentit un frisson le parcourir. Il pensa à la Gardienne, à l'homme aux 
 
 — Vous cherchez quelque chose ? demanda l'homme d'une voix douce, un peu lasse.
 
-Alba s'avança et sortit la pierre gravée de sa besace.
+Agathe s'avança et sortit la pierre gravée de sa besace.
 
 — On vient des collines. On a entendu parler des manuscrits. Ceux avec les signes anciens.
 
-L'homme regarda la pierre, puis Alba, puis Lucien. Un long moment. Puis il hocha lentement la tête.
+L'homme regarda la pierre, puis Agathe, puis Lucien. Un long moment. Puis il hocha lentement la tête.
 
 — Je m'appelle Elias, dit-il. Et je crois que vous avez beaucoup de choses à me raconter.
 
@@ -1659,7 +1659,7 @@ Elias les fit asseoir sur des tabourets bancals, dans un coin de la pièce où l
 
 — Cette spirale, dit-il enfin, je l'ai vue ailleurs. Sur des pierres, dans les collines, quand j'étais jeune. Et sur un document très ancien que nous avons retrouvé ici, dans les caves du temple.
 
-Il se leva, fouilla dans une pile de rouleaux, et en sortit un parchemin jauni, craquelé aux bords. Il le déroula avec précaution. Lucien et Alba virent des signes tracés à l'encre brune — des spirales, des cercles, des silhouettes animales — identiques à ceux du sanctuaire.
+Il se leva, fouilla dans une pile de rouleaux, et en sortit un parchemin jauni, craquelé aux bords. Il le déroula avec précaution. Lucien et Agathe virent des signes tracés à l'encre brune — des spirales, des cercles, des silhouettes animales — identiques à ceux du sanctuaire.
 
 — Ce document, reprit Elias, provient d'un lieu qu'on appelait le Hameau des Cendres. Un petit village de la colline, détruit il y a très longtemps par une bande de brigands. Les survivants se sont dispersés. Certains sont venus ici, dans la grande ville. D'autres... ont disparu dans la forêt.
 
@@ -1667,7 +1667,7 @@ Il marqua une pause, son regard bleu délavé se perdant vers la fenêtre.
 
 — J'ai connu l'un de ces survivants. Un homme qui avait fait partie de la bande de brigands. Très jeune, à l'époque. Il n'avait pas choisi cette vie ; il y avait été jeté par la misère. Il m'a raconté l'incendie du hameau, et une chose qui l'a hanté jusqu'à la fin de ses jours.
 
-Lucien et Alba écoutaient, immobiles. Le Rouquin, couché à leurs pieds, avait dressé les oreilles.
+Lucien et Agathe écoutaient, immobiles. Le Rouquin, couché à leurs pieds, avait dressé les oreilles.
 
 — Il m'a dit qu'au milieu des flammes, il avait vu une jeune fille s'enfuir dans les fougères. Une fille aux cheveux bruns, pieds nus, qui tenait une pierre comme celle-ci. Il ne l'a pas dénoncée. Il l'a laissée partir. Et il a toujours espéré qu'elle avait survécu.
 
@@ -1675,7 +1675,7 @@ Elias tourna la pierre entre ses doigts.
 
 — Cet homme, c'était mon père. Il est mort il y a dix ans, dans cette ville, en me demandant de chercher la fille aux cheveux bruns. Pour lui dire... qu'il était désolé. Qu'il n'avait pas pu empêcher le feu. Qu'il avait essayé, à sa manière, de réparer en la laissant vivre.
 
-Le silence s'étira dans la petite pièce. Alba regarda Lucien, et dans ses yeux il lut la même pensée que la sienne : la Gardienne. La femme aux cheveux gris du sanctuaire. La survivante.
+Le silence s'étira dans la petite pièce. Agathe regarda Lucien, et dans ses yeux il lut la même pensée que la sienne : la Gardienne. La femme aux cheveux gris du sanctuaire. La survivante.
 
 — Vous la connaissez, n'est-ce pas ? demanda Elias d'une voix douce.
 
@@ -1687,19 +1687,19 @@ Elias ferma les yeux un instant. Quand il les rouvrit, ils brillaient d'une humi
 
 — Alors mon père peut reposer en paix. Elle a survécu. Et elle a gardé la pierre.
 
-Il rendit l'objet à Alba avec un geste presque cérémonieux.
+Il rendit l'objet à Agathe avec un geste presque cérémonieux.
 
 — Gardez-la. Elle est à vous, maintenant. Ou plutôt, elle est à elle, et vous la lui rapporterez. Mais d'abord... voulez-vous voir les autres manuscrits ? Ils parlent du Hameau des Cendres, et de ce que ses habitants savaient. Des choses que la forêt seule n'a pas oubliées.
 
 ---
 
-### Chapitre 58 : Dans lequel Alba se souvient de son propre feu
+### Chapitre 58 : Dans lequel Agathe se souvient de son propre feu
 
 Ils passèrent le reste de la journée dans le temple ancien, penchés sur les parchemins. Elias leur montra des cartes approximatives, des listes de plantes rituelles, des fragments de prières adressées à « l'If-qui-écoute ». Rien qui expliquât tout, mais assez pour comprendre que le Hameau des Cendres était le dernier maillon d'une chaîne bien plus ancienne, reliant le sanctuaire à des cultes oubliés de la forêt.
 
 Le soir venu, ils prirent congé d'Elias en promettant de revenir. L'homme leur indiqua une petite auberge tenue par une veuve silencieuse, où ils pourraient dormir pour quelques piécettes. Le Rouquin, après une brève inspection des lieux, daigna s'installer près de l'âtre.
 
-Cette nuit-là, Alba ne dormit pas. Elle était assise sur le bord du lit étroit, les yeux ouverts dans l'obscurité. Lucien, qui partageait la chambre, respectait son silence.
+Cette nuit-là, Agathe ne dormit pas. Elle était assise sur le bord du lit étroit, les yeux ouverts dans l'obscurité. Lucien, qui partageait la chambre, respectait son silence.
 
 — J'ai pensé au feu, dit-elle soudain.
 
@@ -1719,7 +1719,7 @@ Lucien s'assit à côté d'elle, sans la toucher.
 
 — Demain, on ira le chercher. Ton mur. Si tu veux.
 
-Alba tourna la tête vers lui. Dans la pénombre, ses yeux brillaient comme ceux du Rouquin.
+Agathe tourna la tête vers lui. Dans la pénombre, ses yeux brillaient comme ceux du Rouquin.
 
 — Oui. Demain.
 
@@ -1729,17 +1729,17 @@ Alba tourna la tête vers lui. Dans la pénombre, ses yeux brillaient comme ceux
 
 Au matin, ils laissèrent le Rouquin à l'auberge — la ville était trop dense, trop dangereuse pour un renard sauvage. Il protesta par un bâillement et se rendormit près des cendres tièdes.
 
-Alba guida Lucien à travers les ruelles, sans hésiter. Ses pieds se souvenaient du chemin, même si sa tête avait tout effacé. Elle retrouva la rue des Tanneurs, l'odeur âcre des peaux traitées, la petite place au puits sculpté. Puis une venelle étroite, et enfin, une façade lépreuse, une porte basse.
+Agathe guida Lucien à travers les ruelles, sans hésiter. Ses pieds se souvenaient du chemin, même si sa tête avait tout effacé. Elle retrouva la rue des Tanneurs, l'odeur âcre des peaux traitées, la petite place au puits sculpté. Puis une venelle étroite, et enfin, une façade lépreuse, une porte basse.
 
 — C'est là, murmura-t-elle.
 
 La maison était toujours debout, mais elle semblait vide. Les volets de bois, disjoints, pendaient de guingois. Aucune fumée ne sortait de la cheminée.
 
-Alba poussa la porte, qui céda en grinçant. L'intérieur était sombre, poussiéreux, abandonné depuis des années. Dans un coin, un grabat défoncé. Sur le mur du fond, une petite fenêtre.
+Agathe poussa la porte, qui céda en grinçant. L'intérieur était sombre, poussiéreux, abandonné depuis des années. Dans un coin, un grabat défoncé. Sur le mur du fond, une petite fenêtre.
 
 Et derrière la vitre crasseuse, le mur gris.
 
-Il était toujours là. Haut, triste, exactement comme dans ses souvenirs. Alba le regarda longtemps, sans bouger. Lucien se tenait en retrait, témoin silencieux.
+Il était toujours là. Haut, triste, exactement comme dans ses souvenirs. Agathe le regarda longtemps, sans bouger. Lucien se tenait en retrait, témoin silencieux.
 
 Puis elle se retourna, et il vit qu'elle pleurait — sans bruit, sans sanglots, comme une pluie douce sur la mousse.
 
@@ -1757,7 +1757,7 @@ Elle prit une profonde inspiration, comme si elle buvait l'air vicié de la piè
 
 Ils rentrèrent à l'auberge alors que le soir tombait. Le Rouquin les accueillit avec un jappement discret, la queue frétillante. Il avait visiblement passé la journée à dormir et à surveiller les allées et venues de la veuve silencieuse, qui lui avait donné un reste de soupe.
 
-Lucien et Alba s'assirent près de l'âtre. Ils ne parlaient pas. Ils écoutaient le feu, comme ils écoutaient la forêt, là-haut.
+Lucien et Agathe s'assirent près de l'âtre. Ils ne parlaient pas. Ils écoutaient le feu, comme ils écoutaient la forêt, là-haut.
 
 — On n'est pas obligés de rester, dit enfin Lucien.
 
@@ -1777,7 +1777,7 @@ Elle sourit doucement, et ce sourire effaça les dernières traces de larmes sur
 
 — Demain, on retourne voir Elias. Et après... après, on décidera.
 
-Le Rouquin, sentant que la conversation touchait à sa fin, s'étira longuement et vint poser sa tête sur les genoux d'Alba. Elle gratta doucement l'arrière de ses oreilles, et le renard ferma les yeux de contentement.
+Le Rouquin, sentant que la conversation touchait à sa fin, s'étira longuement et vint poser sa tête sur les genoux d'Agathe. Elle gratta doucement l'arrière de ses oreilles, et le renard ferma les yeux de contentement.
 
 Dehors, la grande ville grondait toujours. Mais dans la petite auberge, près du feu, il y avait un îlot de silence. Un morceau de forêt au cœur de la pierre.
 
@@ -1787,13 +1787,13 @@ Le lendemain, ils retournèrent au temple ancien. Elias les attendait, assis à 
 
 — Voici la vallée, dit-il en pointant un tracé sinueux. Le fleuve, la grande ville en bas, et là, en remontant... le Hameau des Cendres. Ou du moins son emplacement présumé.
 
-Lucien et Alba se penchèrent. La carte indiquait des symboles qu'ils connaissaient bien : l'if, la spirale, le cerf aux bois ramifiés.
+Lucien et Agathe se penchèrent. La carte indiquait des symboles qu'ils connaissaient bien : l'if, la spirale, le cerf aux bois ramifiés.
 
 — Et ici, reprit Elias en désignant un point plus haut encore, au-delà du hameau disparu, un autre lieu. Une source, peut-être, ou un arbre remarquable. Les manuscrits l'appellent « le Cœur-qui-bat ». Je n'ai jamais compris ce que c'était.
 
-Alba et Lucien échangèrent un regard. Le sanctuaire. L'if centenaire. Le Cœur-qui-bat.
+Agathe et Lucien échangèrent un regard. Le sanctuaire. L'if centenaire. Le Cœur-qui-bat.
 
-— Nous savons où c'est, dit Alba doucement.
+— Nous savons où c'est, dit Agathe doucement.
 
 Elias ne posa pas de question. Il se contenta de hocher la tête, comme s'il s'y attendait.
 
@@ -1803,11 +1803,11 @@ Il sortit d'un coffret de bois un petit objet enveloppé de linge. C'était une 
 
 — Mon père l'a trouvée dans les décombres du Hameau des Cendres, le lendemain de l'incendie. Il l'a gardée toute sa vie. Il disait qu'elle portait chance, ou malédiction, il ne savait pas. Mais il ne s'en est jamais séparé.
 
-Il la tendit à Alba.
+Il la tendit à Agathe.
 
 — Elle doit retourner là-haut. Au Cœur-qui-bat. Avec la pierre. Pour que le cercle se ferme.
 
-Alba prit la statuette. Elle était légère, tiède, comme si elle avait absorbé la chaleur d'une main ancienne. Le Rouquin, qui était resté dehors, passa la tête par la porte entrouverte et fixa l'objet avec une intensité inhabituelle.
+Agathe prit la statuette. Elle était légère, tiède, comme si elle avait absorbé la chaleur d'une main ancienne. Le Rouquin, qui était resté dehors, passa la tête par la porte entrouverte et fixa l'objet avec une intensité inhabituelle.
 
 — Il sait, murmura Lucien. Il sait toujours.
 
@@ -1815,15 +1815,15 @@ Alba prit la statuette. Elle était légère, tiède, comme si elle avait absorb
 
 ## Chapitre 62 : Dans lequel la ville se fait moins étrangère
 
-Les jours qui suivirent, Lucien et Alba prirent l'habitude de parcourir la ville. Non plus comme des étrangers égarés, mais comme des explorateurs patients. Ils apprirent à reconnaître les quartiers : celui des tanneurs, âcre et bruyant ; celui des drapiers, plus calme, où les étoffes colorées séchaient aux fenêtres ; celui du port fluvial, où les bateaux déchargeaient des marchandises venues d'on ne sait où.
+Les jours qui suivirent, Lucien et Agathe prirent l'habitude de parcourir la ville. Non plus comme des étrangers égarés, mais comme des explorateurs patients. Ils apprirent à reconnaître les quartiers : celui des tanneurs, âcre et bruyant ; celui des drapiers, plus calme, où les étoffes colorées séchaient aux fenêtres ; celui du port fluvial, où les bateaux déchargeaient des marchandises venues d'on ne sait où.
 
-Ils découvrirent un marché aux herbes, tenu par des femmes qui connaissaient les noms des plantes et leurs vertus — certaines venaient des collines, et leurs yeux s'illuminèrent quand Alba mentionna l'aspérule odorante ou la petite centaurée.
+Ils découvrirent un marché aux herbes, tenu par des femmes qui connaissaient les noms des plantes et leurs vertus — certaines venaient des collines, et leurs yeux s'illuminèrent quand Agathe mentionna l'aspérule odorante ou la petite centaurée.
 
 Ils mangèrent des galettes de sarrasin sur une place ensoleillée, assis sur les marches d'une fontaine. Le Rouquin, devenu une silhouette familière des ruelles alentour, quémandait discrètement des miettes aux passants, et certains le gratifiaient d'une caresse prudente.
 
 Le soir, ils rentraient à l'auberge, fatigués mais riches d'images nouvelles. Et chaque soir, avant de s'endormir, ils parlaient un peu — de ce qu'ils avaient vu, de ce qu'ils comprenaient, de ce qu'ils ne comprenaient pas encore.
 
-Un soir, Alba dit :
+Un soir, Agathe dit :
 
 — Je croyais que la ville était un monstre. Un endroit où les âmes se perdent. Mais c'est faux. C'est juste... un autre genre de forêt. Avec ses propres arbres, ses propres animaux, ses propres sentiers cachés.
 
@@ -1853,7 +1853,7 @@ Elias marqua une pause.
 
 — Il ne l'a jamais trouvée. Mais moi, en vous écoutant, je crois qu'il était trop tard pour lui. La rédemption, elle n'est pas dans les livres. Elle est dans les gestes. Dans les pierres qu'on rapporte là où elles doivent être.
 
-Il regarda Alba, puis Lucien.
+Il regarda Agathe, puis Lucien.
 
 — Vous, vous pouvez faire ce qu'il n'a pas pu. Rapporter la statuette et la pierre au Cœur-qui-bat. Et peut-être que la femme aux cheveux gris — la Gardienne — pourra enfin savoir que quelqu'un, en bas, a pensé à elle. Pas pour lui demander pardon. Juste pour qu'elle sache.
 
@@ -1865,13 +1865,13 @@ Lucien hocha la tête. Il pensait à la Gardienne, à ses couronnes d'avoine, à
 
 La veille de leur départ prévu, alors qu'ils marchaient le long du fleuve, ils tombèrent sur un petit square oublié, coincé entre deux hauts murs. Au centre, un arbre unique — un tilleul — étendait ses branches au-dessus d'un banc de pierre moussu.
 
-Alba s'arrêta net.
+Agathe s'arrêta net.
 
 — C'est ici, dit-elle d'une voix étrange. Je me souviens. Avant de quitter la ville, je me suis assise sous cet arbre. J'ai regardé les feuilles, et je me suis dit que si je devais mourir de faim ou de froid dans la forêt, au moins j'aurais vu un vrai arbre avant.
 
 Lucien s'assit sur le banc. Il y avait une plaque de bronze, à demi effacée par le temps, qui disait : _« Planté en mémoire du Hameau des Cendres, par ceux qui se souviennent. »_
 
-Alba lut l'inscription et ses yeux s'emplirent de larmes.
+Agathe lut l'inscription et ses yeux s'emplirent de larmes.
 
 — Ils savaient. Les gens de la ville savaient, quelque part, qu'il y avait eu un hameau. Et ils ont planté un arbre pour ne pas oublier.
 
@@ -1891,7 +1891,7 @@ Le Rouquin, couché à leurs pieds, dormait paisiblement.
 
 Le soir tombait quand ils quittèrent le square. Ils marchaient lentement, sans hâte, dans les ruelles qui s'assombrissaient. Leurs mains s'étaient rejointes naturellement, et ni l'un ni l'autre ne songeait à les séparer.
 
-— Alba, dit Lucien.
+— Agathe, dit Lucien.
 
 — Oui ?
 
@@ -1899,7 +1899,7 @@ Il chercha ses mots, mais ils étaient là, simples et vrais.
 
 — Je crois que je t'aime. Depuis longtemps. Depuis le premier jour, peut-être, quand tu m'as donné la carte des myrtilles sans me demander mon nom.
 
-Alba s'arrêta. Elle se tourna vers lui, et dans la lumière dorée du couchant, son visage était à la fois grave et lumineux.
+Agathe s'arrêta. Elle se tourna vers lui, et dans la lumière dorée du couchant, son visage était à la fois grave et lumineux.
 
 — Moi aussi, dit-elle. Mais je ne savais pas comment le dire. Je ne savais pas si c'était possible. Si quelqu'un comme moi pouvait aimer quelqu'un comme toi.
 
@@ -1923,7 +1923,7 @@ Le lendemain matin, ils firent leurs adieux à Elias. Il leur offrit une copie d
 
 — Revenez, si vous voulez, dit-il. La ville aura toujours une place pour vous. Mais je sais que votre place est là-haut.
 
-Alba lui serra la main.
+Agathe lui serra la main.
 
 — Nous reviendrons. Un jour. Pour vous raconter la Gardienne, et pour que vous puissiez lui dire, à votre tour, ce que votre père n'a pas pu dire.
 
@@ -1935,7 +1935,7 @@ Ils quittèrent la grande ville par la même porte par laquelle ils étaient ent
 
 La montée fut longue, mais leurs cœurs étaient légers. Ils avaient vu la ville, affronté les souvenirs, découvert des secrets. Et surtout, ils s'étaient trouvés.
 
-À mi-chemin, ils firent une pause à la source où ils avaient campé à l'aller. Alba s'assit sur une pierre et regarda la pente qu'ils venaient de gravir.
+À mi-chemin, ils firent une pause à la source où ils avaient campé à l'aller. Agathe s'assit sur une pierre et regarda la pente qu'ils venaient de gravir.
 
 — Je ne suis plus la même, dit-elle. La ville ne me fait plus peur. Et la forêt... la forêt sera toujours ma maison. Mais maintenant, je sais que je peux aller et venir. Avec toi.
 
@@ -1955,7 +1955,7 @@ Quand ils atteignirent enfin le sanctuaire, l'if centenaire les accueillit de so
 
 Elle les vit arriver, et dans son regard gris, une lueur s'alluma — non pas de surprise, mais de reconnaissance.
 
-Alba s'avança et posa devant elle la pierre gravée et la statuette d'argile.
+Agathe s'avança et posa devant elle la pierre gravée et la statuette d'argile.
 
 — Nous sommes allés dans la grande ville, dit-elle. Nous avons rencontré un homme nommé Elias. Son père était là, la nuit de l'incendie. Il vous a vue fuir. Il ne vous a pas oubliée. Et son fils non plus.
 
@@ -1969,13 +1969,13 @@ La Gardienne ferma les yeux. Une larme coula sur sa joue ridée.
 
 — Je me souviens de ces yeux, murmura-t-elle. Ils m'ont regardée partir sans rien dire. Je me suis toujours demandé pourquoi.
 
-Elle rouvrit les yeux et regarda Lucien et Alba.
+Elle rouvrit les yeux et regarda Lucien et Agathe.
 
 — Merci. Vous avez fait ce que je n'ai jamais osé faire. Vous avez descendu, et vous êtes remontés. Et vous avez rapporté... la paix.
 
 Elle posa la statuette et la pierre au pied de l'if, parmi les autres offrandes. Puis elle reprit sa couronne d'avoine et se remit à tresser, doucement, un sourire très ancien flottant sur ses lèvres.
 
-Lucien et Alba s'assirent à leur tour, sous l'arbre. Le Rouquin s'allongea sur sa pierre chaude habituelle. Et le sanctuaire, une fois de plus, les enveloppa de son silence habité.
+Lucien et Agathe s'assirent à leur tour, sous l'arbre. Le Rouquin s'allongea sur sa pierre chaude habituelle. Et le sanctuaire, une fois de plus, les enveloppa de son silence habité.
 
 Ils étaient rentrés. Mais ils n'étaient plus tout à fait les mêmes. Et leur histoire, désormais, pouvait continuer — non plus comme deux lignes parallèles, mais comme deux racines qui, sous la terre, s'étaient enfin rejointes.
 
@@ -1983,9 +1983,9 @@ Ils étaient rentrés. Mais ils n'étaient plus tout à fait les mêmes. Et leur
 
 Ils quittèrent le sanctuaire au matin, alors que la rosée perlait encore sur les fougères. La Gardienne les regarda partir sans un mot, mais son sourire était une bénédiction. Le Rouquin, fidèle à son rôle de guide, ouvrait la marche sur le sentier qui serpentait vers le village.
 
-La forêt était calme, baignée d'une lumière dorée d'automne naissant. Les premières feuilles jaunies voletaient paresseusement, et l'air avait cette odeur de terre humide et de champignons qui annonce la fin de l'été. Lucien et Alba marchaient côte à côte, leurs mains se frôlant parfois, leurs silences pleins de tout ce qu'ils s'étaient dit dans la ville.
+La forêt était calme, baignée d'une lumière dorée d'automne naissant. Les premières feuilles jaunies voletaient paresseusement, et l'air avait cette odeur de terre humide et de champignons qui annonce la fin de l'été. Lucien et Agathe marchaient côte à côte, leurs mains se frôlant parfois, leurs silences pleins de tout ce qu'ils s'étaient dit dans la ville.
 
-— Tu crois qu'ils nous attendent ? demanda Alba.
+— Tu crois qu'ils nous attendent ? demanda Agathe.
 
 — Qui ?
 
@@ -1995,7 +1995,7 @@ Lucien sourit doucement.
 
 — Je crois qu'ils nous ont toujours attendus. Même avant qu'on parte.
 
-Alba hocha la tête, pensive. L'idée d'être attendue quelque part était nouvelle pour elle. Longtemps, elle n'avait été qu'une ombre entre les arbres, une présence que la forêt tolérait sans la réclamer. Et voilà que des visages, des voix, des gestes simples lui manquaient presque.
+Agathe hocha la tête, pensive. L'idée d'être attendue quelque part était nouvelle pour elle. Longtemps, elle n'avait été qu'une ombre entre les arbres, une présence que la forêt tolérait sans la réclamer. Et voilà que des visages, des voix, des gestes simples lui manquaient presque.
 
 Le Rouquin, comme s'il sentait l'approche du village, accéléra le pas et disparut entre les taillis. Il savait le chemin mieux que personne.
 
@@ -2003,11 +2003,11 @@ Le Rouquin, comme s'il sentait l'approche du village, accéléra le pas et dispa
 
 ## Chapitre 68 : Le banc du père Anselme
 
-Ils débouchèrent sur la place du village par le petit chemin de derrière, celui qu'Alba empruntait toujours. Le soleil de midi chauffait les pierres, et une odeur de pain frais flottait depuis la boulangerie.
+Ils débouchèrent sur la place du village par le petit chemin de derrière, celui qu'Agathe empruntait toujours. Le soleil de midi chauffait les pierres, et une odeur de pain frais flottait depuis la boulangerie.
 
 Sur le banc, face à la rue principale, le père Anselme fumait sa pipe. À côté de lui, une silhouette grise — la Gardienne, qui avait dû arriver par un autre sentier, plus direct. Ils ne parlaient pas. Ils regardaient passer les nuages, et leurs épaules se touchaient presque.
 
-Lucien et Alba s'approchèrent. Anselme tourna la tête et son visage ridé s'illumina.
+Lucien et Agathe s'approchèrent. Anselme tourna la tête et son visage ridé s'illumina.
 
 — Ah, les voilà, les voyageurs ! J'ai cru que la ville vous avait avalés.
 
@@ -2017,7 +2017,7 @@ La Gardienne leva les yeux vers eux, et dans son regard gris, il y avait une dou
 
 — Vous avez rapporté des choses, dit-elle simplement. Pas seulement des objets. Des histoires.
 
-Alba s'assit sur le bord du banc, à côté d'elle.
+Agathe s'assit sur le bord du banc, à côté d'elle.
 
 — Oui. Beaucoup d'histoires. On vous les racontera. Mais d'abord, on voulait vous dire... que la ville n'est pas un monstre. Il y a des gens, là-bas, qui se souviennent du Hameau des Cendres. Ils ont planté un tilleul, sur une petite place. Pour ne pas oublier.
 
@@ -2035,11 +2035,11 @@ La nouvelle de leur retour se répandit vite, portée par le vent léger de la c
 
 — Vous voilà, les enfants ! J'ai gardé du miel de lavande, vous m'en direz des nouvelles.
 
-La Berthe passa avec ses chèvres, et pour la première fois, elle adressa un signe de tête appuyé à Alba — un vrai salut, presque chaleureux. La boulangère, depuis le seuil de sa boutique, leva une miche de pain en signe de bienvenue.
+La Berthe passa avec ses chèvres, et pour la première fois, elle adressa un signe de tête appuyé à Agathe — un vrai salut, presque chaleureux. La boulangère, depuis le seuil de sa boutique, leva une miche de pain en signe de bienvenue.
 
-Lucien sentit une chaleur monter dans sa poitrine. Toute sa vie, il avait vécu ici sans vraiment y être. Il traversait les rues comme un étranger familier, salué par habitude, ignoré par indifférence. Et voilà que ce village, ce petit monde perché, l'accueillait comme l'un des siens. Mieux : il accueillait _eux_, Lucien et Alba, comme un couple, une entité nouvelle qui avait sa place au soleil.
+Lucien sentit une chaleur monter dans sa poitrine. Toute sa vie, il avait vécu ici sans vraiment y être. Il traversait les rues comme un étranger familier, salué par habitude, ignoré par indifférence. Et voilà que ce village, ce petit monde perché, l'accueillait comme l'un des siens. Mieux : il accueillait _eux_, Lucien et Agathe, comme un couple, une entité nouvelle qui avait sa place au soleil.
 
-Alba, elle, regardait tout cela avec des yeux écarquillés. Elle n'avait jamais appartenu à une communauté. La forêt l'avait abritée, mais pas adoptée. Le sanctuaire l'avait acceptée, mais en silence. Ici, des mains se tendaient, des voix l'appelaient par son nom, des regards la reconnaissaient.
+Agathe, elle, regardait tout cela avec des yeux écarquillés. Elle n'avait jamais appartenu à une communauté. La forêt l'avait abritée, mais pas adoptée. Le sanctuaire l'avait acceptée, mais en silence. Ici, des mains se tendaient, des voix l'appelaient par son nom, des regards la reconnaissaient.
 
 — Ils sont gentils, murmura-t-elle à Lucien.
 
@@ -2051,7 +2051,7 @@ Alba, elle, regardait tout cela avec des yeux écarquillés. Elle n'avait jamais
 
 Le soir venu, ils se retrouvèrent dans la petite maison de Lucien. Le feu crépitait dans l'âtre, et le Rouquin, couché devant les flammes, ronflait doucement, épuisé par l'excitation du retour.
 
-Alba regardait autour d'elle. Les murs de pierre, les poutres sombres, la petite fenêtre donnant sur la colline. Ce lieu, qu'elle avait d'abord perçu comme une prison tiède, lui semblait maintenant un refuge. Un chez-elle possible.
+Agathe regardait autour d'elle. Les murs de pierre, les poutres sombres, la petite fenêtre donnant sur la colline. Ce lieu, qu'elle avait d'abord perçu comme une prison tiède, lui semblait maintenant un refuge. Un chez-elle possible.
 
 — Lucien, dit-elle doucement.
 
@@ -2067,7 +2067,7 @@ Lucien sentit son cœur s'emballer, mais il garda une voix calme.
 
 Il se leva, s'approcha d'elle, et prit ses deux mains dans les siennes.
 
-— Alba, cette maison était vide. Elle n'attendait que toi. Depuis toujours, je crois.
+— Agathe, cette maison était vide. Elle n'attendait que toi. Depuis toujours, je crois.
 
 Elle sourit, et ce sourire était comme une porte qui s'ouvre sur un jardin oublié.
 
@@ -2085,19 +2085,19 @@ Dehors, le village s'endormait sous les étoiles, et la forêt, tout autour, vei
 
 ## Chapitre 71 : L'installation
 
-Les jours qui suivirent furent doux et pleins de petits gestes. Alba apporta de la forêt des branches de noisetier pour tresser des paniers, des herbes séchées à suspendre aux poutres, une pierre polie pour le rebord de la fenêtre. Lucien dégagea un coin de la table pour qu'elle puisse y poser son carnet de croquis — elle s'était mise à dessiner les plantes et les champignons, avec une précision patiente.
+Les jours qui suivirent furent doux et pleins de petits gestes. Agathe apporta de la forêt des branches de noisetier pour tresser des paniers, des herbes séchées à suspendre aux poutres, une pierre polie pour le rebord de la fenêtre. Lucien dégagea un coin de la table pour qu'elle puisse y poser son carnet de croquis — elle s'était mise à dessiner les plantes et les champignons, avec une précision patiente.
 
 La mère Brémond leur offrit un pot de confiture de mûres et un édredon de laine pour les nuits fraîches. La Berthe leur donna un petit fromage de chèvre, avec un sourire presque visible sous sa moustache. La boulangère, en leur tendant le pain quotidien, glissa un jour :
 
 — Faudra penser à agrandir la maison, si vous voulez des petits.
 
-Lucien rougit jusqu'aux oreilles, et Alba éclata de rire — un rire clair, libéré, qui surprit tout le monde et fit sourire jusqu'au Rouquin.
+Lucien rougit jusqu'aux oreilles, et Agathe éclata de rire — un rire clair, libéré, qui surprit tout le monde et fit sourire jusqu'au Rouquin.
 
 Le père Anselme, sur son banc, les regardait passer avec une lueur malicieuse dans l'œil.
 
 — Alors, la fille des bois, le village te plaît ?
 
-— Oui, répondit Alba. C'est une forêt avec des murs. Mais les murs sont chauds, et les gens sont comme des arbres qui parlent.
+— Oui, répondit Agathe. C'est une forêt avec des murs. Mais les murs sont chauds, et les gens sont comme des arbres qui parlent.
 
 Anselme hocha la tête, satisfait.
 
@@ -2107,13 +2107,13 @@ Anselme hocha la tête, satisfait.
 
 ## Chapitre 72 : Une vie nouvelle
 
-Le temps passa, comme il passe dans les villages perchés : lentement, au rythme des saisons et des travaux quotidiens. Lucien continuait de tailler ses rosiers, mais maintenant, Alba était là, assise sur le muret, à dessiner ou à trier des graines. Ils allaient ensemble au marché, où Alba avait pris l'habitude de s'arrêter à chaque étal, échangeant quelques mots avec les marchands.
+Le temps passa, comme il passe dans les villages perchés : lentement, au rythme des saisons et des travaux quotidiens. Lucien continuait de tailler ses rosiers, mais maintenant, Agathe était là, assise sur le muret, à dessiner ou à trier des graines. Ils allaient ensemble au marché, où Agathe avait pris l'habitude de s'arrêter à chaque étal, échangeant quelques mots avec les marchands.
 
 Ils retournaient régulièrement au sanctuaire, pour voir la Gardienne et déposer des offrandes. Parfois, le père Anselme les accompagnait, d'un pas lent mais déterminé. Il s'asseyait sous l'if, à côté de sa dame aux cheveux de mousse, et ils ne disaient rien, ou presque. Mais leurs silences étaient pleins, comme ceux de la forêt.
 
 Le Rouquin partageait sa vie entre la maison du village et les bois. Il avait trouvé un équilibre, lui aussi, entre la chaleur de l'âtre et les odeurs sauvages. Il vieillissait doucement, le museau un peu plus gris, mais les yeux toujours vifs.
 
-Un soir d'hiver, alors que la neige tombait dehors, Alba posa son carnet et regarda Lucien.
+Un soir d'hiver, alors que la neige tombait dehors, Agathe posa son carnet et regarda Lucien.
 
 — Je crois que je suis heureuse, dit-elle. Vraiment heureuse. Je ne savais pas que c'était possible.
 
@@ -2125,11 +2125,11 @@ Il se leva, alla chercher une petite chose enveloppée dans un linge, et la posa
 
 — Je l'ai trouvée chez Elias, dans la ville. Je voulais te la donner au bon moment.
 
-Alba déplia le linge. C'était une bague simple, en argent un peu terni, sertie d'une petite pierre verte — une émeraude brute, ou peut-être une malachite, polie par le temps.
+Agathe déplia le linge. C'était une bague simple, en argent un peu terni, sertie d'une petite pierre verte — une émeraude brute, ou peut-être une malachite, polie par le temps.
 
 — Elle vient du Hameau des Cendres, dit Lucien. Elias m'a dit qu'elle appartenait à une femme qui avait survécu à l'incendie. Peut-être la mère de la Gardienne. Je me suis dit qu'elle devait revenir ici. Et que tu pourrais la porter. Pour te souvenir que tu as traversé le feu, toi aussi, et que tu as trouvé ta clairière.
 
-Alba prit la bague, la passa à son doigt. Elle lui allait parfaitement.
+Agathe prit la bague, la passa à son doigt. Elle lui allait parfaitement.
 
 Elle ne dit rien. Elle se leva, entoura Lucien de ses bras, et posa sa tête contre sa poitrine. Dehors, la neige continuait de tomber, silencieuse et douce, enveloppant le village d'un manteau blanc.
 
@@ -2137,7 +2137,7 @@ Elle ne dit rien. Elle se leva, entoura Lucien de ses bras, et posa sa tête con
 
 ## Épilogue : Ce que deviennent les asymptotes
 
-Ainsi, cher lecteur, Lucien et Alba ne sont plus deux lignes qui se frôlent sans jamais se toucher. Ils sont devenus un arbre aux racines entremêlées, un hêtre et une fougère qui poussent côte à côte, se protégeant du vent et partageant la lumière.
+Ainsi, cher lecteur, Lucien et Agathe ne sont plus deux lignes qui se frôlent sans jamais se toucher. Ils sont devenus un arbre aux racines entremêlées, un hêtre et une fougère qui poussent côte à côte, se protégeant du vent et partageant la lumière.
 
 Le village les a adoptés, et ils ont adopté le village. La forêt reste leur refuge, leur sanctuaire, leur source. La grande ville, en bas, n'est plus une menace — c'est un souvenir, une leçon, un lieu où ils pourront redescendre un jour, s'ils le souhaitent.
 
@@ -2153,13 +2153,13 @@ Et l'histoire, bien sûr, ne s'arrête pas là. Elle continue, chaque jour, dans
 
 ### Chapitre 73 : L'idée des ruines
 
-Un matin d'automne, alors que les premières gelées blanchissaient l'herbe du jardin, Alba sortit de la maison et trouva Lucien assis sur le muret, le regard perdu vers la forêt.
+Un matin d'automne, alors que les premières gelées blanchissaient l'herbe du jardin, Agathe sortit de la maison et trouva Lucien assis sur le muret, le regard perdu vers la forêt.
 
 — À quoi tu penses ? demanda-t-elle en s'asseyant près de lui.
 
 — Au Hameau des Cendres. Elias nous a donné une carte approximative. Et la Gardienne... elle n'en parle jamais, mais je sens que cet endroit compte encore. Peut-être qu'il y a des choses là-bas qui pourraient l'aider. Ou nous aider à comprendre.
 
-Alba hocha la tête. L'idée avait germé en elle aussi, sans qu'elle ose la formuler.
+Agathe hocha la tête. L'idée avait germé en elle aussi, sans qu'elle ose la formuler.
 
 — On pourrait y aller, dit-elle doucement. Pas pour fouiller comme des pilleurs. Juste pour voir. Pour honorer, peut-être.
 
@@ -2167,7 +2167,7 @@ Le Rouquin, qui somnolait au soleil, ouvrit un œil comme s'il approuvait.
 
 — D'abord nous deux, reprit Lucien. Avec lui. Et plus tard, si on trouve quelque chose qui mérite d'être vu, on pourra y emmener la Gardienne. Et Anselme, s'il en a la force.
 
-Alba sourit.
+Agathe sourit.
 
 — Toujours aussi prudent, mon hêtre.
 
@@ -2187,9 +2187,9 @@ Au bout de deux heures de marche, la forêt s'ouvrit brusquement. Devant eux s'�
 
 C'était tout ce qui restait du Hameau des Cendres.
 
-Lucien et Alba s'arrêtèrent à la lisière, saisis par le silence. Ici, même les oiseaux semblaient plus discrets.
+Lucien et Agathe s'arrêtèrent à la lisière, saisis par le silence. Ici, même les oiseaux semblaient plus discrets.
 
-— Douze feux, murmura Alba. C'est ce qu'Elias a dit. Douze maisons, et un étang.
+— Douze feux, murmura Agathe. C'est ce qu'Elias a dit. Douze maisons, et un étang.
 
 Ils s'avancèrent lentement, écartant les herbes. Le Rouquin, contre son habitude, ne bondissait pas. Il marchait avec une gravité presque solennelle, comme s'il foulait un sol sacré.
 
@@ -2199,7 +2199,7 @@ Ils s'avancèrent lentement, écartant les herbes. Le Rouquin, contre son habitu
 
 Ils passèrent le reste de la journée à parcourir les ruines sans rien déranger. Ici, une base de mur en pierre sèche, à demi engloutie par la mousse. Là, ce qui avait dû être un foyer, reconnaissable à des pierres noircies. Plus loin, les vestiges d'un petit pont de bois sur un ruisseau aujourd'hui asséché.
 
-Alba s'agenouilla près de l'étang. L'eau était claire, peu profonde. Au fond, elle distingua des formes — des tessons de poterie, un morceau de métal tordu, et ce qui ressemblait à une petite figurine de pierre, presque identique à celle que la Gardienne leur avait montrée.
+Agathe s'agenouilla près de l'étang. L'eau était claire, peu profonde. Au fond, elle distingua des formes — des tessons de poterie, un morceau de métal tordu, et ce qui ressemblait à une petite figurine de pierre, presque identique à celle que la Gardienne leur avait montrée.
 
 Elle la ramassa avec précaution. C'était un animal stylisé — peut-être un loup, peut-être un renard. L'argile était grossière, cuite au soleil plutôt qu'au four.
 
@@ -2221,11 +2221,11 @@ Ils restèrent longtemps devant cette pierre, en silence. Le vent s'était levé
 
 Le soir tombait quand ils s'assirent sur une pierre moussue, à l'orée des ruines. Le Rouquin, couché à leurs pieds, semblait veiller.
 
-— On a trouvé des choses, dit Alba. Des petites choses. Mais assez pour montrer à la Gardienne que le Hameau existe encore, quelque part.
+— On a trouvé des choses, dit Agathe. Des petites choses. Mais assez pour montrer à la Gardienne que le Hameau existe encore, quelque part.
 
 — Oui. Et peut-être qu'elle voudra venir. Voir par elle-même. Ou peut-être que non. Peut-être que c'est trop tôt, ou trop tard.
 
-Alba posa sa tête sur l'épaule de Lucien.
+Agathe posa sa tête sur l'épaule de Lucien.
 
 — On lui proposera. On proposera aussi à Anselme. Et on verra ce qu'ils décident. Rien ne presse.
 
@@ -2233,7 +2233,7 @@ Lucien hocha la tête. Il sortit de sa besace un petit morceau de pain et le pos
 
 — Pour ceux qui vivaient ici, dit-il simplement.
 
-Alba l'imita, y ajoutant une petite poignée de baies sauvages cueillies en chemin.
+Agathe l'imita, y ajoutant une petite poignée de baies sauvages cueillies en chemin.
 
 Le Rouquin, lui, déposa délicatement un vieil os de mulot — son offrande à lui, silencieuse et fidèle.
 
@@ -2243,9 +2243,9 @@ Puis ils reprirent le chemin du village, emportant les figurines et le secret de
 
 ### Chapitre 77 : Une seconde visite, plus lente
 
-Deux semaines passèrent après leur première incursion. Lucien et Alba avaient parlé de leur découverte à la Gardienne, avec prudence. Elle avait écouté, le visage fermé, puis avait hoché la tête sans rien promettre. Anselme, lui, avait dit : « J'irai, si elle y va. Mais faut pas la brusquer. »
+Deux semaines passèrent après leur première incursion. Lucien et Agathe avaient parlé de leur découverte à la Gardienne, avec prudence. Elle avait écouté, le visage fermé, puis avait hoché la tête sans rien promettre. Anselme, lui, avait dit : « J'irai, si elle y va. Mais faut pas la brusquer. »
 
-En attendant, Lucien et Alba décidèrent de retourner seuls aux ruines, pour explorer plus méthodiquement. Cette fois, ils emportèrent des outils légers — une petite pelle de bois, un pinceau pour dégager la terre sans abîmer — et des vivres pour la journée.
+En attendant, Lucien et Agathe décidèrent de retourner seuls aux ruines, pour explorer plus méthodiquement. Cette fois, ils emportèrent des outils légers — une petite pelle de bois, un pinceau pour dégager la terre sans abîmer — et des vivres pour la journée.
 
 Le Rouquin, comme toujours, ouvrait la marche.
 
@@ -2253,7 +2253,7 @@ Le Rouquin, comme toujours, ouvrait la marche.
 
 ### Chapitre 78 : La pierre qui cache une porte
 
-Ils passèrent la matinée à dégager doucement la pierre d'autel qu'ils avaient trouvée. Elle était plus grande qu'ils ne le pensaient, enfoncée profondément dans le sol. En grattant la terre autour, Alba sentit un vide sous ses doigts.
+Ils passèrent la matinée à dégager doucement la pierre d'autel qu'ils avaient trouvée. Elle était plus grande qu'ils ne le pensaient, enfoncée profondément dans le sol. En grattant la terre autour, Agathe sentit un vide sous ses doigts.
 
 — Lucien, il y a un creux là-dessous.
 
@@ -2261,7 +2261,7 @@ Ils unirent leurs efforts pour soulever légèrement la dalle. Elle bascula avec
 
 Le Rouquin s'approcha, renifla, et descendit sans hésiter.
 
-— Il n'a pas peur, dit Alba. C'est bon signe.
+— Il n'a pas peur, dit Agathe. C'est bon signe.
 
 Ils allumèrent une petite lanterne et le suivirent.
 
@@ -2279,7 +2279,7 @@ Au centre de la pièce, un petit autel de pierre brute. Dessus, trois objets int
 -   Une petite statuette en os sculpté représentant un personnage androgyne aux bras levés.
 -   Un rouleau de parchemin enveloppé de toile cirée, étonnamment bien conservé.
 
-Alba prit le rouleau avec des gestes d'une infinie délicatesse. Elle le déroula lentement. L'écriture était ancienne, mais lisible — une graphie soignée, à l'encre brune.
+Agathe prit le rouleau avec des gestes d'une infinie délicatesse. Elle le déroula lentement. L'écriture était ancienne, mais lisible — une graphie soignée, à l'encre brune.
 
 — Je peux lire, murmura-t-elle. C'est du vieux parler, mais je comprends.
 
@@ -2289,7 +2289,7 @@ _« Ici repose la mémoire des Douze Feux. Que l'If-qui-écoute veille sur nos c
 
 Le silence retomba, épais et sacré.
 
-Lucien regarda Alba. Des larmes coulaient sur ses joues, mais elle souriait.
+Lucien regarda Agathe. Des larmes coulaient sur ses joues, mais elle souriait.
 
 — C'est un testament, dit-elle. Et une bénédiction. Ils ne voulaient pas de vengeance. Ils voulaient que ça continue.
 
@@ -2301,7 +2301,7 @@ Ils ne prirent que le rouleau et la statuette d'os, laissant la coupelle et l'au
 
 — Ce lieu doit rester secret, dit Lucien. Pas pour cacher, mais pour protéger. Si des curieux venaient, ils pilleraient sans comprendre.
 
-Alba approuva. Ils firent une nouvelle offrande sur l'autel extérieur — du pain, des baies, et une petite couronne d'avoine qu'Alba avait tressée la veille, en pensant à la Gardienne.
+Agathe approuva. Ils firent une nouvelle offrande sur l'autel extérieur — du pain, des baies, et une petite couronne d'avoine qu'Agathe avait tressée la veille, en pensant à la Gardienne.
 
 Puis ils reprirent le chemin du village, le cœur lourd et léger à la fois.
 
@@ -2311,7 +2311,7 @@ Puis ils reprirent le chemin du village, le cœur lourd et léger à la fois.
 
 Ils trouvèrent la Gardienne au sanctuaire, comme souvent. Elle tressait une couronne, assise sur sa pierre habituelle. Le Rouquin alla s'allonger à ses pieds, et elle lui gratta machinalement la tête.
 
-Lucien et Alba s'assirent en face d'elle. Sans un mot, Alba déroula le parchemin et le lui tendit.
+Lucien et Agathe s'assirent en face d'elle. Sans un mot, Agathe déroula le parchemin et le lui tendit.
 
 La Gardienne le prit. Ses yeux gris parcoururent les lignes. Elle ne pleura pas. Son visage resta calme, mais quelque chose, dans sa posture, se détendit profondément.
 
@@ -2321,11 +2321,11 @@ Elle leva les yeux vers l'if.
 
 — C'est pour ça que je suis restée. Pas par peur. Par fidélité à une graine que je ne savais même pas avoir reçue.
 
-Elle se tourna vers Lucien et Alba.
+Elle se tourna vers Lucien et Agathe.
 
 — Vous avez trouvé la graine. Et vous l'avez rapportée. Maintenant, il faut la planter. Pas ici. Ailleurs. Dans le village, peut-être. Ou dans la ville. Partout où des hommes et des femmes ont besoin de se souvenir que la forêt n'oublie pas.
 
-Alba prit la main de la Gardienne.
+Agathe prit la main de la Gardienne.
 
 — On vous aidera. On plantera ensemble.
 
@@ -2335,7 +2335,7 @@ La Gardienne hocha la tête, et pour la première fois, son sourire était jeune
 
 ## Chapitre 82 : La redescente
 
-L'hiver s'était installé sur les hauteurs, mais en contrebas, la vallée restait plus clémente. Lucien et Alba attendirent une éclaircie pour entreprendre la descente, emportant avec eux le rouleau enveloppé de toile cirée, la statuette d'os, et un petit pot de miel du village — un présent pour Elias.
+L'hiver s'était installé sur les hauteurs, mais en contrebas, la vallée restait plus clémente. Lucien et Agathe attendirent une éclaircie pour entreprendre la descente, emportant avec eux le rouleau enveloppé de toile cirée, la statuette d'os, et un petit pot de miel du village — un présent pour Elias.
 
 Le Rouquin, cette fois, choisit de ne pas les accompagner. Il vieillissait, et la grande ville l'épuisait. Il resta au village, couché près de l'âtre de la maison, sous la garde bienveillante de la mère Brémond qui avait promis de veiller sur lui.
 
@@ -2349,7 +2349,7 @@ Ils trouvèrent Elias dans le temple ancien, comme la première fois, penché su
 
 — Vous êtes revenus. Je l'espérais.
 
-Alba posa délicatement le rouleau sur la table.
+Agathe posa délicatement le rouleau sur la table.
 
 — Nous avons trouvé cela. Dans les ruines du Hameau des Cendres. Une chambre souterraine, sous l'autel.
 
@@ -2379,7 +2379,7 @@ Arrivés au square, Elias sortit de sa besace une petite coupelle d'argile — u
 
 — Pour les Douze Feux, dit-il simplement. Pour que la graine continue de pousser, même ici, dans la pierre.
 
-Alba et Lucien s'agenouillèrent à leur tour. Alba déposa une petite couronne d'avoine qu'elle avait tressée en chemin. Lucien posa une pierre polie du ruisseau de la forêt.
+Agathe et Lucien s'agenouillèrent à leur tour. Agathe déposa une petite couronne d'avoine qu'elle avait tressée en chemin. Lucien posa une pierre polie du ruisseau de la forêt.
 
 Un vieil homme qui passait par là s'arrêta, regarda la scène, et hocha doucement la tête avant de repartir. Peut-être savait-il, au fond de sa mémoire, ce que ces gestes signifiaient.
 
@@ -2395,11 +2395,11 @@ Il sourit avec douceur.
 
 — Mon père n'a jamais pu planter la sienne. Il est mort avec sa graine dans la main. Mais moi, grâce à vous, je peux planter la mienne. Ici, dans cette ville, en gardant ces archives et en racontant l'histoire du Hameau à ceux qui viennent.
 
-Il se tourna vers Alba.
+Il se tourna vers Agathe.
 
-— Et vous, Alba, vous qui avez fui cette ville, vous y êtes revenue. Vous y avez planté quelque chose aussi. Une graine de réconciliation. Votre mur gris n'est plus une prison. Il est devenu... un témoin.
+— Et vous, Agathe, vous qui avez fui cette ville, vous y êtes revenue. Vous y avez planté quelque chose aussi. Une graine de réconciliation. Votre mur gris n'est plus une prison. Il est devenu... un témoin.
 
-Alba baissa les yeux, émue. Elle pensa à la petite ruelle, à la fenêtre vide, au mur toujours debout. Il ne lui faisait plus peur. Il faisait partie de son histoire, simplement.
+Agathe baissa les yeux, émue. Elle pensa à la petite ruelle, à la fenêtre vide, au mur toujours debout. Il ne lui faisait plus peur. Il faisait partie de son histoire, simplement.
 
 ---
 
@@ -2407,7 +2407,7 @@ Alba baissa les yeux, émue. Elle pensa à la petite ruelle, à la fenêtre vide
 
 Elias insista pour qu'ils restent dormir au temple. Il y avait une petite chambre attenante, avec deux lits étroits et une fenêtre donnant sur la cour intérieure. Ils acceptèrent.
 
-Cette nuit-là, Alba ne trouva pas le sommeil. Elle se leva, s'approcha de la fenêtre, et regarda la ville endormie. Les toits luisaient sous la lune, et le bruit s'était apaisé en un bourdonnement lointain, presque apaisant.
+Cette nuit-là, Agathe ne trouva pas le sommeil. Elle se leva, s'approcha de la fenêtre, et regarda la ville endormie. Les toits luisaient sous la lune, et le bruit s'était apaisé en un bourdonnement lointain, presque apaisant.
 
 Lucien la rejoignit, silencieux.
 
@@ -2433,7 +2433,7 @@ Le lendemain, ils prirent congé d'Elias. Il leur offrit un petit livre relié d
 
 — Pour que vous y écriviez votre propre histoire. Ou celle du sanctuaire. Ou les deux. Comme vous voudrez.
 
-Alba le remercia, les yeux brillants. Elle savait déjà qu'elle y dessinerait les plantes de la forêt, et qu'Lucien y noterait peut-être quelques mots, de son écriture appliquée.
+Agathe le remercia, les yeux brillants. Elle savait déjà qu'elle y dessinerait les plantes de la forêt, et qu'Lucien y noterait peut-être quelques mots, de son écriture appliquée.
 
 Ils remontèrent vers le village, chargés de ces nouveaux trésors immatériels : la paix d'Elias, la bénédiction des Douze Feux, et la promesse d'une vie pleinement vécue.
 
@@ -2515,7 +2515,7 @@ Mais il sut que le jour viendrait.
 
 ### Interlude : Ce que le Rouquin sait
 
-_(Point de vue du renard, au moment où Lucien et Alba se préparent à redescendre vers la ville sans lui.)_
+_(Point de vue du renard, au moment où Lucien et Agathe se préparent à redescendre vers la ville sans lui.)_
 
 Il sait qu'il ne les accompagnera pas. Il le sait avant eux, avant même qu'ils ne nouent leurs besaces et ne vérifient le contenu de leurs outres. Il le sait à la façon dont la lumière du matin pèse sur ses pattes, plus lourde qu'autrefois.
 
@@ -2577,7 +2577,7 @@ Elle, elle resterait là-haut. À tresser des couronnes d'avoine. À écouter le
 
 **Jusqu'à toucher l'écorce**
 
-Lucien a passé sa vie à l'écart, dans un village perché entre forêt et ciel. Alba a passé la sienne à se cacher sous les arbres, loin des hommes et de leurs bruits. Ils n'étaient pas faits pour se rencontrer.
+Lucien a passé sa vie à l'écart, dans un village perché entre forêt et ciel. Agathe a passé la sienne à se cacher sous les arbres, loin des hommes et de leurs bruits. Ils n'étaient pas faits pour se rencontrer.
 
 Et pourtant.
 
