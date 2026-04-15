@@ -185,7 +185,7 @@ Lucien sourit, rangea les bolets dans sa besace, et reprit le chemin du village.
 
 ### Chapitre 8 : Dans lequel un troisième personnage apparaît, mais ne dit rien
 
-Cela faisait maintenant trois semaines qu'Lucien fréquentait la forêt. Pas tous les jours, non. Il n'était pas devenu un sauvage du jour au lendemain. Mais il avait pris l'habitude d'y aller un matin sur deux, parfois un soir quand la lumière rasante dorait les troncs. Il connaissait désormais le chemin du gros châtaignier comme celui de sa propre cuisine.
+Cela faisait maintenant trois semaines que Lucien fréquentait la forêt. Pas tous les jours, non. Il n'était pas devenu un sauvage du jour au lendemain. Mais il avait pris l'habitude d'y aller un matin sur deux, parfois un soir quand la lumière rasante dorait les troncs. Il connaissait désormais le chemin du gros châtaignier comme celui de sa propre cuisine.
 
 Agathe, il l'avait revue quatre fois. Toujours brièvement. Toujours sans heurt. Une fois, elle lui avait montré comment reconnaître le chant du pouillot véloce — un nom bien trop emprunt de rapidité pour un oiseau si petit. Une autre fois, elle avait simplement marché à côté de lui pendant un quart d'heure, sans but apparent, avant de bifurquer soudain vers une zone de framboisiers sauvages et de disparaître derrière les ronces. Lucien avait compris que c'était sa façon de dire _"tu peux venir par ici, il y a de quoi manger"_ sans avoir à prononcer une invitation qui l'aurait engagée socialement. Il respectait cela.
 
@@ -261,7 +261,7 @@ Elle tourna enfin la tête vers Lucien. Dans son regard, il y eut cette lueur d'
 
 Un matin, il trouva devant la porte de sa maisonnette du village une petite plume de geai, bleu vif, posée bien à plat sur le seuil. Il sut tout de suite d'où elle venait. Il la ramassa, la glissa dans sa poche intérieure, celle où il gardait le premier plan des myrtilles, et sourit jusqu'au soir.
 
-Le Rouquin avait décidé qu'Lucien était du genre à rester.
+Le Rouquin avait décidé que Lucien était du genre à rester.
 
 ### Chapitre 11 : Dans lequel Lucien apprend à écouter sans entendre
 
@@ -273,7 +273,7 @@ Un midi, il arriva à la clairière avec du pain (pour le Rouquin), des noix (po
 
 Lucien s'assit à distance habituelle — ni trop près, ni trop loin, la distance d'un ami d'ermite. Il sortit les cerises et les posa sur une feuille de bardane entre eux trois. Personne ne bougea. Puis, lentement, Agathe tendit la main et en prit une. Le Rouquin ouvrit un œil, renifla, et referma l'œil. Les cerises ne l'intéressaient pas.
 
-C'est à ce moment précis qu'Lucien comprit une chose essentielle : ils étaient en train de devenir un petit groupe. Pas une meute, non. Plutôt un assemblage hétéroclite de solitudes qui avaient trouvé un espace où se chevaucher sans se heurter. Il en ressentit une chaleur discrète, comme une braise sous la cendre.
+C'est à ce moment précis que Lucien comprit une chose essentielle : ils étaient en train de devenir un petit groupe. Pas une meute, non. Plutôt un assemblage hétéroclite de solitudes qui avaient trouvé un espace où se chevaucher sans se heurter. Il en ressentit une chaleur discrète, comme une braise sous la cendre.
 
 ---
 
@@ -435,7 +435,7 @@ Les humains ne parlaient pas. Ils marchaient dans son sillage, confiants. Le Rou
 
 ### Chapitre 18 : Dans lequel la forêt révèle un secret ancien
 
-Ils débouchèrent soudain dans un lieu qu'Lucien n'avait jamais vu. La forêt s'ouvrait sur une petite clairière en pente, mais au lieu d'herbe et de mousse, le sol était pavé de larges dalles de pierre, disjointes et soulevées par les racines. De la mousse et des lichens les recouvraient presque entièrement, mais on devinait encore un agencement. Des marches usées. Un seuil.
+Ils débouchèrent soudain dans un lieu que Lucien n'avait jamais vu. La forêt s'ouvrait sur une petite clairière en pente, mais au lieu d'herbe et de mousse, le sol était pavé de larges dalles de pierre, disjointes et soulevées par les racines. De la mousse et des lichens les recouvraient presque entièrement, mais on devinait encore un agencement. Des marches usées. Un seuil.
 
 Au centre, un arbre immense, un if plusieurs fois centenaire, poussait droit à travers ce qui avait dû être une construction humaine. Ses racines enlaçaient des blocs de granit taillé, comme s'il avait lentement digéré un bâtiment oublié.
 
@@ -1285,7 +1285,7 @@ Elle était exactement comme Lucien l'avait entraperçue : vêtue de brun et de 
 
 Elle s'arrêta devant la pierre aux gravures. Son regard parcourut les anciennes spirales, puis s'arrêta sur le dessin au charbon. L'enclume. Le banc. Le chapeau rond.
 
-Elle ne bougea pas. Longtemps. Si longtemps qu'Lucien crut qu'elle n'avait pas compris, ou qu'elle refusait de comprendre.
+Elle ne bougea pas. Longtemps. Si longtemps que Lucien crut qu'elle n'avait pas compris, ou qu'elle refusait de comprendre.
 
 Puis, lentement, elle posa son panier. Sa main se tendit vers le dessin, sans le toucher, comme on caresse un souvenir à distance.
 
@@ -2433,7 +2433,7 @@ Le lendemain, ils prirent congé d'Elias. Il leur offrit un petit livre relié d
 
 — Pour que vous y écriviez votre propre histoire. Ou celle du sanctuaire. Ou les deux. Comme vous voudrez.
 
-Agathe le remercia, les yeux brillants. Elle savait déjà qu'elle y dessinerait les plantes de la forêt, et qu'Lucien y noterait peut-être quelques mots, de son écriture appliquée.
+Agathe le remercia, les yeux brillants. Elle savait déjà qu'elle y dessinerait les plantes de la forêt, et que Lucien y noterait peut-être quelques mots, de son écriture appliquée.
 
 Ils remontèrent vers le village, chargés de ces nouveaux trésors immatériels : la paix d'Elias, la bénédiction des Douze Feux, et la promesse d'une vie pleinement vécue.
 
