@@ -219,7 +219,7 @@ Lucien sourit, malgré lui. Il avait l'impression d'avoir passé une épreuve do
 
 ---
 
-### Chapitre 9 : Dans lequel Lucien raconte maladroitement
+### Chapitre 9 : Dans lequel Lucien essaie d’expliquer quelque chose qui se comprend très bien sans lui
 
 Deux jours plus tard, il croisa Agathe près du ruisseau. Elle lavait des racines dans l'eau claire, agenouillée sur une pierre moussue. Sans relever la tête, elle dit :
 
