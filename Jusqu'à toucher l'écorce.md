@@ -2375,6 +2375,26 @@ La descente fut plus rapide que la première fois. Ils connaissaient le chemin, 
 
 ---
 
+### Interlude : La porte entrouverte
+
+Quelques mois plus tard, Gaspard vit revenir le couple. Le même homme, la même femme, mais leurs regards avaient changé. Ils semblaient moins perdus, plus pleins. Le renard n'était pas avec eux cette fois. Gaspard se surprit à le regretter.
+
+Ils passèrent la porte sans hâte. La femme portait une besace d'où dépassait un rouleau de toile cirée. L'homme avait au doigt une alliance simple en argent. Gaspard les salua d'un signe de tête.
+
+— La forêt va bien ? demanda-t-il soudain, sans avoir prémédité la question.
+
+La femme tourna la tête vers lui. Ses yeux étaient gris-vert, comme la mousse sur les pierres.
+
+— Elle va bien, dit-elle. Elle attend.
+
+Puis ils reprirent leur chemin vers la ville, et Gaspard les regarda s'éloigner avec un sourire qu'il ne s'expliqua pas.
+
+Ce soir-là, pour la première fois, il ne se contenta pas de poser la main sur le vantail. Il tira doucement le verrou, entrouvrit la porte d'un souffle, et regarda la route qui montait vers les arbres. Il ne sortit pas. Pas encore.
+
+Mais il sut que le jour viendrait.
+
+---
+
 ## Chapitre 83 : Retrouvailles avec Elias
 
 Ils trouvèrent Elias dans le temple ancien, comme la première fois, penché sur ses manuscrits. La lumière d'hiver, pâle et rasante, éclairait la poussière en suspension. Il leva la tête et son visage s'éclaira.
@@ -2497,26 +2517,6 @@ Fin
 
 ---
 
-### Écho lors de la seconde visite (à insérer dans le chapitre 83, quand ils reviennent voir Elias)
-
-Quelques mois plus tard, Gaspard vit revenir le couple. Le même homme, la même femme, mais leurs regards avaient changé. Ils semblaient moins perdus, plus pleins. Le renard n'était pas avec eux cette fois. Gaspard se surprit à le regretter.
-
-Ils passèrent la porte sans hâte. La femme portait une besace d'où dépassait un rouleau de toile cirée. L'homme avait au doigt une alliance simple en argent. Gaspard les salua d'un signe de tête.
-
-— La forêt va bien ? demanda-t-il soudain, sans avoir prémédité la question.
-
-La femme tourna la tête vers lui. Ses yeux étaient gris-vert, comme la mousse sur les pierres.
-
-— Elle va bien, dit-elle. Elle attend.
-
-Puis ils reprirent leur chemin vers la ville, et Gaspard les regarda s'éloigner avec un sourire qu'il ne s'expliqua pas.
-
-Ce soir-là, pour la première fois, il ne se contenta pas de poser la main sur le vantail. Il tira doucement le verrou, entrouvrit la porte d'un souffle, et regarda la route qui montait vers les arbres. Il ne sortit pas. Pas encore.
-
-Mais il sut que le jour viendrait.
-
----
-
 ### Interlude : Ce que le Rouquin sait
 
 _(Point de vue du renard, au moment où Lucien et Agathe se préparent à redescendre vers la ville sans lui.)_
@@ -2534,14 +2534,6 @@ Alors aujourd'hui, il restera. Il dormira près de l'âtre de la maison aux murs
 Quand ils reviendront — et ils reviendront —, il sera là, assis à la lisière, la queue enroulée autour des pattes. Il n'aura pas compté les jours. Il saura juste, à l'odeur du vent, que les siens rentrent.
 
 Et il trottinera à leur rencontre, comme il l'a toujours fait.
-
----
-
-à remplacer :
-
-**Placement :** Juste après le **chapitre 52**
-
-
 
 ---
 
