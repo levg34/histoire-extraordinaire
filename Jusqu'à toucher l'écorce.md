@@ -1673,7 +1673,7 @@ Ils trouvèrent le temple ancien sans difficulté. C'était une bâtisse trapue,
 
 Il leva la tête à leur entrée. Ses yeux étaient d'un bleu délavé, et il portait à la tempe une fine cicatrice.
 
-Lucien sentit un frisson le parcourir. Il pensa à la Gardienne, à l'homme aux yeux clairs et à la cicatrice. Était-ce lui ? Le brigand repenti ? Le survivant ?
+Lucien sentit un frisson lui parcourir l’échine. Il ne savait pas pourquoi. Peut-être la façon dont l’homme les regardait, comme s’il attendait leur venue depuis longtemps. Peut-être cette cicatrice, qui semblait raconter une histoire que Lucien ne connaissait pas. Il jeta un coup d’œil à Agathe, mais elle ne semblait rien remarquer d’anormal.
 
 — Vous cherchez quelque chose ? demanda l'homme d'une voix douce, un peu lasse.
 
