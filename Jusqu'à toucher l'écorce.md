@@ -305,7 +305,7 @@ Pas au centre, pas en évidence. Juste posée là, parmi les autres trésors, co
 
 ---
 
-### Chapitre 14 : Dans lequel la réponse prend la forme d'une attente
+### Chapitre 14 : Dans lequel la réponse ne passe pas par des mots
 
 Trois jours passèrent. Lucien retourna à la clairière. La fibule n'était plus dans l'anfractuosité. Elle avait été déplacée. Il la chercha du regard et la trouva... épinglée sur une branche basse, juste à l'entrée du refuge. Bien en vue. Comme exposée.
 
