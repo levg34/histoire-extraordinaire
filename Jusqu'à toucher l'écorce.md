@@ -1557,23 +1557,22 @@ Elle revoit les flammes. L'étang qui les reflète, rouge et or. Le cri de sa m�
 
 Au matin, il ne restait que des cendres et des pierres noircies. Elle erra trois jours dans la forêt, sans manger, sans boire, jusqu'à ce que ses jambes la portent au sanctuaire. L'if était toujours là, indifférent et sage, ses branches tendues comme des bras ouverts. Elle s'effondra à son pied et pleura toutes les larmes qu'elle n'avait pas versées pendant la fuite.
 
+Elle ne le remarqua pas tout de suite, mais le lendemain, en se regardant dans l’eau noire de l’étang, elle vit que ses cheveux avaient perdu leur couleur. Ils étaient gris comme la cendre, puis blancs comme l’écorce de l’if. Ce n’était pas l’âge, ni la peur — c’était le deuil, qui l’avait marquée au fer. Ses yeux, autrefois vifs comme l’eau sous le soleil, étaient devenus profonds et sombres, comme si la forêt y avait déposé ses ombres.
+
 Elle ne redescendit jamais vers la plaine. Elle avait vu, dans les yeux des brigands, quelque chose qui ressemblait à la grande ville : une faim sans fond, une dureté de pierre, une indifférence à ce qui vit et respire. Elle sut, sans se le formuler, que la grande ville était une forêt brûlée, un lieu où les hommes oubliaient les arbres et s'entre-dévoraient.
 
----
+Alors, elle resta. Elle apprit à vivre des baies et des racines, à parler aux corbeaux, à écouter le vent qui murmurait encore les noms des siens. Parfois, elle posait la main sur le tronc de l’if, et elle croyait sentir, sous ses doigts, le pouls lent et tenace de la terre. Elle n’avait plus de nom, mais la forêt, elle, se souvenait.
 
-### Pourquoi elle ne peut pas descendre
+Pourtant, une ombre la retenait encore, plus tenace que la peur ou la colère.
 
-Un détail, pourtant, la retint plus fermement que tout le reste.
-
-Parmi les brigands, il y avait un homme jeune, presque un garçon, qui n'avait pas l'air tout à fait comme les autres. Il hésitait, regardait autour de lui avec une sorte de désespoir. Dans la lueur des flammes, elle avait croisé son regard. Il ne l'avait pas dénoncée quand elle s'était enfuie. Peut-être même l'avait-il laissée partir.
-
+Parmi les brigands, il y avait un homme jeune, presque un garçon, qui n'avait pas l'air tout à fait comme les autres. Elle se souvient de son souffle court, de ses mains qui tremblaient autour de sa lance, de l’odeur de sueur et de peur qui émanait de lui. Il hésitait, regardait autour de lui avec une sorte de désespoir. Dans la lueur des flammes, elle avait croisé son regard — un éclair, une faille dans la nuit. Il ne l'avait pas dénoncée quand elle s'était enfuie. Peut-être même l'avait-il laissée partir.
 Des années plus tard, en écoutant les colporteurs qui passaient parfois à la lisière, elle apprit que certains survivants du Hameau des Cendres — ou du moins, des gens qui prétendaient l'être — vivaient dans la grande ville. L'un d'eux, disait-on, avait fait fortune dans le commerce des étoffes et cherchait à retrouver la trace de sa famille perdue. La rumeur décrivait un homme aux yeux clairs, une cicatrice à la tempe, et un air de tristesse perpétuelle.
 
-Était-ce le jeune brigand repenti ? Un cousin éloigné ? Un imposteur ? Elle ne le saurait jamais. Mais elle comprit que descendre dans la ville, c'était risquer de croiser ce passé calciné, ces yeux qui l'avaient vue fuir, ces questions auxquelles elle n'avait pas de réponse. Le sanctuaire était son seul refuge, la forêt sa seule mémoire. Elle ne voulait pas que la ville souille cela.
+Et si c’était lui ? Et s’il se souvenait d’elle, de cette nuit, de ce regard échangé dans les flammes ? Elle ne voulait pas savoir. Elle ne voulait pas que la ville, avec ses rues bruyantes et ses visages fermés, lui renvoie l’écho de ce qu’elle avait fui. Descendre, c’était risquer de se perdre à nouveau — ou pire, de devoir choisir entre le silence et la vérité.
 
 Alors elle resta. Elle devint la Gardienne sans le vouloir, par fidélité aux cendres et à l'if. Et quand elle vit Lucien et Agathe, deux solitaires aux pieds légers, elle reconnut en eux ce qu'elle avait été : des êtres de lisière, capables d'aller et venir. Peut-être, se dit-elle, étaient-ils ceux qui pourraient descendre sans se perdre.
 
-Elle leur donna la pierre gravée. Elle leur sourit, en silence. Et elle retourna tresser ses couronnes d'avoine, pour Anselme, pour l'if, pour les douze feux éteints qui brûlaient encore dans sa mémoire.
+Elle leur donna la pierre gravée — un fragment de dalle du sanctuaire, où étaient tracées les spirales sacrées des douze feux. Elle leur sourit, en silence. Ils comprendraient, eux qui savaient marcher entre les mondes sans s’y noyer. Et elle retourna tresser ses couronnes d'avoine, pour Anselme, pour l'If, pour les douze feux éteints qui brûlaient encore dans sa mémoire.
 
 ---
 
@@ -2537,39 +2536,7 @@ Et il trottinera à leur rencontre, comme il l'a toujours fait.
 
 **Placement :** Juste après le **chapitre 52**
 
-### Interlude : Celle qui se souvient du feu
 
-Elle n'avait pas toujours eu les cheveux gris.
-
-Il y avait eu un temps, très loin derrière elle, où ils étaient bruns, tressés serrés pour ne pas s'accrocher aux branches. Un temps où elle courait pieds nus sur des dalles de pierre, dans un creux de la colline, là où l'eau s'élargissait en un étang tranquille.
-
-Le hameau comptait douze feux. Douze maisons basses, des chèvres, un petit sanctuaire sous un if immense. On y honorait la forêt, les saisons, les esprits sans nom. On y tressait l'avoine et on y déposait des offrandes dans l'écorce. Sa mère lui avait appris. Sa mère avait des mains patientes et une voix qui chantait doucement, le soir, pour éloigner les mauvais rêves.
-
-Puis la guerre était venue. Une bande d'hommes armés, chassés des plaines, remontant la vallée comme une coulée de boue. Ils cherchaient un refuge, des vivres, l'oubli. Le hameau n'eut pas le temps de se défendre.
-
-Elle se souvenait des flammes. L'étang qui les reflétait, rouge et or. Le cri de sa mère, coupé net. Son propre corps poussé dans les fougères par une main inconnue — son père, peut-être, ou un voisin, elle ne savait plus. La fuite à quatre pattes, les ronces, la fumée.
-
-Et ce regard.
-
-Parmi les brigands, il y avait un homme jeune, presque un garçon. Il n'avait pas l'air tout à fait comme les autres. Il hésitait, une hache à la main, les yeux perdus. Dans la lueur des flammes, il l'avait vue. Accroupie dans les fougères, tremblante. Il aurait pu crier, la désigner, la livrer. Il ne l'avait pas fait. Il avait détourné les yeux, lentement, comme quelqu'un qui choisit de ne pas voir.
-
-Elle s'était enfuie. Elle avait couru jusqu'au sanctuaire, jusqu'à l'if, et elle s'était effondrée à son pied.
-
-Elle n'était jamais redescendue.
-
-Pas seulement à cause des flammes. À cause de ce regard. Ces yeux clairs qui l'avaient épargnée sans un mot. Descendre dans la grande ville, c'était risquer de les croiser. Risquer de savoir ce qu'était devenu ce garçon. Était-il mort ? Avait-il survécu ? Regrettait-il ? Avait-il seulement retenu son visage ?
-
-Elle ne voulait pas de réponse. La réponse était une braise trop chaude. Elle préférait le silence de la forêt, où les questions se dissolvent dans la mousse.
-
-Alors elle était restée. Elle avait appris à vivre seule, à lire les traces, à tresser l'avoine pour honorer les morts. Elle avait vieilli. Ses cheveux étaient devenus gris, puis presque blancs, comme la mousse des chênes. Et le sanctuaire était devenu sa seule demeure.
-
-Quand elle avait vu les deux jeunes solitaires — la fille aux yeux de ville et le garçon au cœur de bois lent — elle avait su. Ils étaient comme elle, autrefois. Des êtres de lisière. Mais eux, ils avaient ce qu'elle n'avait jamais eu : ils étaient deux. Ils pouvaient descendre ensemble, affronter la ville, et remonter.
-
-Alors elle leur avait donné la pierre gravée. Celle qu'elle avait serrée dans sa main pendant la fuite, et qui ne l'avait jamais quittée. La spirale. La marque du sanctuaire.
-
-Peut-être qu'eux trouveraient ce qu'elle n'avait jamais cherché. Peut-être qu'ils croiseraient le regard qui l'avait épargnée, ou sa descendance. Peut-être qu'ils comprendraient.
-
-Elle, elle resterait là-haut. À tresser des couronnes d'avoine. À écouter le vent dans l'if. Et à se souvenir, sans trembler, des flammes qui s'étaient éteintes depuis longtemps.
 
 ---
 
