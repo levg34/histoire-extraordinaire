@@ -86,7 +86,7 @@ Il y pensa. Oh oui. Plusieurs fois. Notamment au moment où il vit la boulangèr
 
 Mais il n'y alla pas.
 
-Il passa l'après-midi à tailler ses rosiers, avec une application suspecte, comme si les rosiers le jugeaient. À chaque coup de sécateur, il se demandait ce que signifiait "les girolles sortent après-demain". Était-ce une invitation ? Une information brute ? Une façon polie de dire "reviens après-demain si tu veux, mais ne viens pas avant" ?
+Il passa l'après-midi à tailler ses rosiers, avec une application suspecte, comme si les rosiers le jugeaient. À chaque branche sectionnée, il se demandait ce que signifiait "les girolles sortent après-demain". Était-ce une invitation ? Une information brute ? Une façon polie de dire "reviens après-demain si tu veux, mais ne viens pas avant" ?
 
 Le surlendemain arriva. Le jour des girolles supposées.
 
