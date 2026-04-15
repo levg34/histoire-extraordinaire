@@ -1561,7 +1561,7 @@ Parmi les brigands, il y avait un homme jeune, presque un garçon. Il n'avait pa
 
 Elle s'était enfuie. Elle avait couru jusqu'au sanctuaire, jusqu'à l'if, et elle s'était effondrée à son pied.
 
-**Le lendemain, en se regardant dans l’eau noire de l’étang, elle avait vu que ses cheveux avaient perdu leur couleur. Ils étaient gris comme la cendre, puis blancs comme la mousse des chênes. Ce n’était pas l’âge, ni la peur — c’était le deuil, qui l’avait marquée au fer. Ses yeux, autrefois vifs comme l’eau sous le soleil, étaient devenus profonds et sombres, comme si la forêt y avait déposé ses ombres.**
+Le lendemain, en se regardant dans l’eau noire de l’étang, elle avait vu que ses cheveux avaient perdu leur couleur. Ils étaient gris comme la cendre, puis blancs comme la mousse des chênes. Ce n’était pas l’âge, ni la peur — c’était le deuil, qui l’avait marquée au fer. Ses yeux, autrefois vifs comme l’eau sous le soleil, étaient devenus profonds et sombres, comme si la forêt y avait déposé ses ombres.
 
 Elle n'était jamais redescendue.
 
@@ -1569,7 +1569,7 @@ Pas seulement à cause des flammes. À cause de ce regard. Ces yeux clairs qui l
 
 Elle ne voulait pas de réponse. La réponse était une braise trop chaude. Elle préférait le silence de la forêt, où les questions se dissolvent dans la mousse.
 
-Alors elle était restée. Elle avait appris à vivre seule, à lire les traces, à tresser l'avoine pour honorer les morts. Elle avait vieilli. **Ses cheveux, blancs comme la mousse des chênes, lui rappelaient chaque matin qu’elle appartenait désormais à la forêt.** Et le sanctuaire était devenu sa seule demeure.
+Alors elle était restée. Elle avait appris à vivre seule, à lire les traces, à tresser l'avoine pour honorer les morts. Elle avait vieilli. Ses cheveux, blancs comme la mousse des chênes, lui rappelaient chaque matin qu’elle appartenait désormais à la forêt. Et le sanctuaire était devenu sa seule demeure.
 
 Quand elle avait vu les deux jeunes solitaires — la fille aux yeux de ville et le garçon au cœur de bois lent — elle avait su. Ils étaient comme elle, autrefois. Des êtres de lisière. Mais eux, ils avaient ce qu'elle n'avait jamais eu : ils étaient deux. Ils pouvaient descendre ensemble, affronter la ville, et remonter.
 
