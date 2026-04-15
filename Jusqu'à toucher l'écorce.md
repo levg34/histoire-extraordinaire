@@ -1689,7 +1689,7 @@ L'homme regarda la pierre, puis Agathe, puis Lucien. Un long moment. Puis il hoc
 
 Elias les fit asseoir sur des tabourets bancals, dans un coin de la pièce où la lumière tombait d'une étroite fenêtre à meneaux. Il posa la pierre gravée devant lui, sur la table encombrée de parchemins, et la contempla longuement avant de parler.
 
-— Cette spirale, dit-il enfin, je l'ai vue ailleurs. Sur des pierres, dans les collines, quand j'étais jeune. Et sur un document très ancien que nous avons retrouvé ici, dans les caves du temple.
+— Cette spirale, dit-il enfin, mon père m’en a parlé. Il l’avait vue, gravée sur des pierres dans les collines, avant… avant tout. Et je l’ai retrouvée ici, sur un document très ancien, dans les caves du temple.
 
 Il se leva, fouilla dans une pile de rouleaux, et en sortit un parchemin jauni, craquelé aux bords. Il le déroula avec précaution. Lucien et Agathe virent des signes tracés à l'encre brune — des spirales, des cercles, des silhouettes animales — identiques à ceux du sanctuaire.
 
