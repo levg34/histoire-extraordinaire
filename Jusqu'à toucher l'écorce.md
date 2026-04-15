@@ -1615,6 +1615,34 @@ Et la ville les avala.
 
 ---
 
+### Interlude : Le Garde des ombres vertes
+
+Il s'appelait Gaspard, mais plus personne ne l'appelait par son nom. Pour les officiers, il était « le factionnaire de la porte nord ». Pour les rares voyageurs qui l'empruntaient, « le garde ». Pour lui-même, il était surtout celui qui regardait la forêt.
+
+La porte nord était la moins fréquentée de la ville. Elle donnait sur la route qui montait vers les collines, une route défoncée par les pluies et envahie d'herbes folles. Peu de marchands s'y risquaient ; ils préféraient les portes de l'est et du sud, plus larges, mieux pavées, menant à d'autres cités. La porte nord ne menait nulle part, sinon à la forêt. Et la forêt, aux yeux des gens de la ville, n'était qu'un réservoir de bois et de mystères dont ils se méfiaient.
+
+Gaspard, lui, la regardait chaque jour.
+
+Il était posté là depuis six ans. Six années à voir les arbres changer de couleur, à écouter le vent qui descendait des pentes, à humer l'odeur de la résine et de la terre mouillée quand il pleuvait. Six années à ne jamais franchir le seuil.
+
+Pourquoi serait-il entré ? Il était soldat, pas bûcheron. Son père, autrefois, avait combattu dans les collines, contre des brigands dont on ne parlait plus. Il en était revenu avec des silences lourds et une phrase qu'il répétait parfois, le soir, devant l'âtre : « Y a des endroits où les hommes oublient qu'ils sont des hommes. » Gaspard n'avait jamais su s'il parlait des brigands, ou des arbres.
+
+Parfois, des voyageurs descendaient de la colline. Rarement. Une fois tous les deux ou trois mois. Des silhouettes poussiéreuses, des regards qui semblaient venir de très loin. Gaspard les laissait passer sans poser de questions. Il n'était pas payé pour être curieux. Mais il les regardait longtemps après qu'ils étaient entrés dans la ville, se demandant ce qu'ils avaient vu, là-haut, sous les branches.
+
+Ce matin-là, il faisait chaud. Gaspard somnolait à peine, adossé au mur de pierre. Il vit arriver un couple étrange : un homme au regard inquiet, une femme aux vêtements de laine brute, et dans leurs pas, un renard efflanqué qui trottinait sans crainte. Gaspard cligna des yeux. Un renard. Dans la ville. Cela ne s'était jamais vu.
+
+Il les regarda passer sans rien dire. La femme tenait l'homme par la main. Le renard se coula dans l'ombre d'un étal. Gaspard eut envie de leur demander d'où ils venaient, ce qu'ils cherchaient, pourquoi un renard les suivait. Mais les mots ne sortirent pas. Il les regarda s'éloigner dans la ruelle, et la ville les avala.
+
+Ce soir-là, en rentrant chez lui après sa relève, il s'arrêta plus longtemps que d'habitude devant la porte nord. Il posa la main sur le bois rugueux du vantail. De l'autre côté, il le savait, la route s'enfonçait dans l'ombre des premiers arbres. Il écouta. Le vent chantait doucement dans les branches lointaines.
+
+Il n'ouvrit pas la porte.
+
+Mais quelque chose, ce jour-là, avait bougé en lui. Une petite graine. Peut-être qu'un jour, quand il serait trop vieux pour être soldat, il irait voir. Juste pour savoir. Juste pour toucher l'écorce.
+
+En attendant, il gardait la porte nord. Et chaque soir, il regardait la forêt.
+
+---
+
 ## Chapitre 55 : Premiers pas sur le pavé
 
 Le bruit, d'abord, fut une vague qui les submergea. Partout, des gens — plus de gens qu'ils n'en avaient jamais vus de leur vie. Des visages pressés, des épaules qui se frôlaient, des voix qui se croisaient sans s'écouter. Les maisons, hautes de trois ou quatre étages, penchaient sur les ruelles étroites, créant une pénombre perpétuelle trouée de rais de lumière.
@@ -2466,34 +2494,6 @@ Puis il s'endort, et le lendemain, il marche encore.
 ---
 
 Fin
-
----
-
-### Interlude (à insérer après « Et la ville les avala. » — Chapitre 54)
-
-Il s'appelait Gaspard, mais plus personne ne l'appelait par son nom. Pour les officiers, il était « le factionnaire de la porte nord ». Pour les rares voyageurs qui l'empruntaient, « le garde ». Pour lui-même, il était surtout celui qui regardait la forêt.
-
-La porte nord était la moins fréquentée de la ville. Elle donnait sur la route qui montait vers les collines, une route défoncée par les pluies et envahie d'herbes folles. Peu de marchands s'y risquaient ; ils préféraient les portes de l'est et du sud, plus larges, mieux pavées, menant à d'autres cités. La porte nord ne menait nulle part, sinon à la forêt. Et la forêt, aux yeux des gens de la ville, n'était qu'un réservoir de bois et de mystères dont ils se méfiaient.
-
-Gaspard, lui, la regardait chaque jour.
-
-Il était posté là depuis six ans. Six années à voir les arbres changer de couleur, à écouter le vent qui descendait des pentes, à humer l'odeur de la résine et de la terre mouillée quand il pleuvait. Six années à ne jamais franchir le seuil.
-
-Pourquoi serait-il entré ? Il était soldat, pas bûcheron. Son père, autrefois, avait combattu dans les collines, contre des brigands dont on ne parlait plus. Il en était revenu avec des silences lourds et une phrase qu'il répétait parfois, le soir, devant l'âtre : « Y a des endroits où les hommes oublient qu'ils sont des hommes. » Gaspard n'avait jamais su s'il parlait des brigands, ou des arbres.
-
-Parfois, des voyageurs descendaient de la colline. Rarement. Une fois tous les deux ou trois mois. Des silhouettes poussiéreuses, des regards qui semblaient venir de très loin. Gaspard les laissait passer sans poser de questions. Il n'était pas payé pour être curieux. Mais il les regardait longtemps après qu'ils étaient entrés dans la ville, se demandant ce qu'ils avaient vu, là-haut, sous les branches.
-
-Ce matin-là, il faisait chaud. Gaspard somnolait à peine, adossé au mur de pierre. Il vit arriver un couple étrange : un homme au regard inquiet, une femme aux vêtements de laine brute, et dans leurs pas, un renard efflanqué qui trottinait sans crainte. Gaspard cligna des yeux. Un renard. Dans la ville. Cela ne s'était jamais vu.
-
-Il les regarda passer sans rien dire. La femme tenait l'homme par la main. Le renard se coula dans l'ombre d'un étal. Gaspard eut envie de leur demander d'où ils venaient, ce qu'ils cherchaient, pourquoi un renard les suivait. Mais les mots ne sortirent pas. Il les regarda s'éloigner dans la ruelle, et la ville les avala.
-
-Ce soir-là, en rentrant chez lui après sa relève, il s'arrêta plus longtemps que d'habitude devant la porte nord. Il posa la main sur le bois rugueux du vantail. De l'autre côté, il le savait, la route s'enfonçait dans l'ombre des premiers arbres. Il écouta. Le vent chantait doucement dans les branches lointaines.
-
-Il n'ouvrit pas la porte.
-
-Mais quelque chose, ce jour-là, avait bougé en lui. Une petite graine. Peut-être qu'un jour, quand il serait trop vieux pour être soldat, il irait voir. Juste pour savoir. Juste pour toucher l'écorce.
-
-En attendant, il gardait la porte nord. Et chaque soir, il regardait la forêt.
 
 ---
 
