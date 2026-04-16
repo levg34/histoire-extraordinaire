@@ -1,3 +1,6 @@
 import histoire from "./histoire/Jusqu'à toucher l'écorce.md?raw"
+import { extractChapters } from './utils/extract-data'
 
-console.log(histoire)
+const chapters = extractChapters(histoire)
+
+await Bun.write('output/chapters.md', chapters.join('\n'))
