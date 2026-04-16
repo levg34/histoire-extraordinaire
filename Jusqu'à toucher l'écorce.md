@@ -113,7 +113,7 @@ Il y eut un nouveau silence. Mais un silence différent. Un silence où l'on app
 Agathe désigna le sol.
 — Les girolles sont là. Comme prévu.
 
-Lucien regarda. Une petite colonie de champignons d'un orange pâle poussait effectivement au pied d'un arbre. Il n'en avait jamais vu en vrai. Il se pencha, sortit son couteau de poche — un vieux couteau qui n'avait jamais rien coupé d'autre que de la ficelle — et en préleva deux ou trois, avec une délicatesse exagérée.
+Lucien regarda. Une petite colonie de champignons d'un orange pâle poussait effectivement au pied d'un arbre. Il n'en avait jamais vu en vrai. Il se pencha, sortit son vieux couteau — un couteau qui n'avait jamais rien coupé d'autre que de la ficelle — et en préleva deux ou trois, avec une délicatesse exagérée.
 
 — Merci, dit-il en les mettant dans son panier.
 — Pourquoi tu me remercies ? C'est la forêt qui les fait.
