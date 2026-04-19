@@ -1425,7 +1425,7 @@ Quant à Lucien et Agathe, leur histoire continuait, lente et sûre, comme la cr
 
 ---
 
-## Arc II : Le chemin qui descend
+## Partie II : Le chemin qui descend
 
 ### Chapitre 48 : Dans lequel une rumeur monte de la vallée
 
