@@ -42,15 +42,22 @@ export function getStorySliceWithContent(content: string, sliceNb: number, slice
 type StorySliceType = 'chapter' | 'interlude' | 'epilogue' | 'intro' | 'other'
 
 /**
- *
- * @param content
- * @returns
+ * Slice the story by chapters, interludes, epilogues and introduction.
+ * The title of the chapter is extracted from the content, and the content of the slice is returned without the title.
+ * The chapter number is also extracted if it exists.
+ * The part of the story is also extracted if it exists (example: Arc 1, Arc 2, etc.). Anything before the first arc will be considered as part 1.
+ * @param content 
+ * @returns default export of the file, the content of the story sliced by chapters, interludes, epilogues and introduction. Each slice has a type, a content, a title (if it exists), a chapter number (if it exists) and a story part.
  */
 export function sliceStoryByChapters(content: string): {
     type: StorySliceType
-    content: string
-    title?: string
-    nb?: number /* extract the chapter number, if any */
+    content: string /* the content of the slice, without the title */
+    title?: string /* extract the chapter title, if any: example: Chapitre 1 : Titre du chapitre => Titre du chapitre, Introduction => undefined */
+    nb?: number /* extract the chapter number, if any: example: Chapitre 1 => 1, Interlude => undefined */
+    storyPart: {
+        name?: string
+        nb: number
+    } /* extract the part of the story. Anything before ## Arc 2 will be {nb: 1}, no title */
 }[] {
     const lines = content.split(/\r?\n/)
     const sections: {
