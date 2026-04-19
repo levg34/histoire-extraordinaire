@@ -19,59 +19,119 @@ export function extractChaptersTitle(content: string) {
  * example: getStorySliceWithContent(histoire, 1, 2) will return the content of the story from chapter 1 to chapter 3 (excluded)
  */
 export function getStorySliceWithContent(content: string, sliceNb: number, sliceSize: number): string {
-    throw new Error('Not implemented yet')
+    const sections = sliceStoryByChapters(content)
+    const chapterSectionIndices = sections
+        .map((section, index) => (section.type === 'chapter' ? index : -1))
+        .filter((index) => index >= 0)
+
+    const startChapterIndex = sliceNb * sliceSize
+    if (startChapterIndex >= chapterSectionIndices.length) {
+        return ''
+    }
+
+    const endChapterIndex = startChapterIndex + sliceSize
+    const startSectionIndex = sliceNb === 0 ? 0 : chapterSectionIndices[startChapterIndex]
+    const endSectionIndex = chapterSectionIndices[endChapterIndex] ?? sections.length
+
+    return sections
+        .slice(startSectionIndex, endSectionIndex)
+        .map((section) => section.content)
+        .join('')
 }
 
+type StorySliceType = 'chapter' | 'interlude' | 'epilogue' | 'intro' | 'other'
+
 /**
- * 
- * @param content 
- * @returns 
+ *
+ * @param content
+ * @returns
  */
-export function sliceStoryByChapters(
+export function sliceStoryByChapters(content: string): {
+    type: StorySliceType
     content: string
-): { type: 'chapter' | 'interlude' | 'epilogue' | 'intro' | 'other'; content: string; title?: string; nb?: number }[] {
-    const chapterRegex = /^(#+) (.+)$/gm
-    const slices: {
-        type: 'chapter' | 'interlude' | 'epilogue' | 'intro' | 'other'
+    title?: string
+    nb?: number /* extract the chapter number, if any */
+}[] {
+    const lines = content.split(/\r?\n/)
+    const sections: {
+        type: StorySliceType
         content: string
         title?: string
         nb?: number
     }[] = []
-    let match: RegExpExecArray | null
-    let lastIndex = 0
-    let currentSlice: {
-        type: 'chapter' | 'interlude' | 'epilogue' | 'intro' | 'other'
-        content: string
-        title?: string
-        nb?: number
-    } | null = null
 
-    while ((match = chapterRegex.exec(content)) !== null) {
-        const [fullMatch, hashes, title] = match
-        const index = match.index
-
-        if (currentSlice) {
-            currentSlice.content = content.slice(lastIndex, index).trim()
-            slices.push(currentSlice)
-        }
-
-        const level = hashes?.length
-        let type: 'chapter' | 'interlude' | 'epilogue' | 'intro' | 'other' = 'other'
-
-        if (level === 1) {
-            type = title?.toLowerCase().includes('interlude') ? 'interlude' : 'chapter'
-        } else if (level === 2) {
-            type = title?.toLowerCase().includes('epilogue') ? 'epilogue' : 'intro'
-        }
-
-        currentSlice = { type, content: '', title, nb: slices.filter((s) => s.type === type).length + 1 }
-        lastIndex = index + fullMatch.length
+    let currentSection = {
+        type: 'other' as StorySliceType,
+        content: '',
+        title: undefined as string | undefined,
+        nb: undefined as number | undefined
     }
 
-    if (currentSlice) {
-        currentSlice.content = content.slice(lastIndex).trim()
-        slices.push(currentSlice)
+    const pushCurrentSection = () => {
+        if (currentSection.content !== '' || currentSection.title !== undefined || currentSection.type !== 'other') {
+            sections.push(currentSection)
+        }
+        currentSection = {
+            type: 'other',
+            content: '',
+            title: undefined,
+            nb: undefined
+        }
     }
 
-    return slices
+    const chapterRegex = /^### Chapitre (.+)$/
+    const interludeRegex = /^### Interlude (.+)$/
+    const epilogueRegex = /^### (E|É)pilogue(?: (.+))?$/
+    const introRegex = /^### Introduction$/
+
+    for (const line of lines) {
+        const chapterMatch = chapterRegex.exec(line)
+        const interludeMatch = interludeRegex.exec(line)
+        const epilogueMatch = epilogueRegex.exec(line)
+        const introMatch = introRegex.exec(line)
+
+        if (chapterMatch) {
+            pushCurrentSection()
+            const title = chapterMatch[1]?.trim()
+            const nb = Number.isFinite(Number(title)) ? Number(title) : undefined
+            currentSection = {
+                type: 'chapter',
+                content: `${line}\n`,
+                title,
+                nb
+            }
+        } else if (interludeMatch) {
+            pushCurrentSection()
+            const title = interludeMatch[1]?.trim()
+            const nb = Number.isFinite(Number(title)) ? Number(title) : undefined
+            currentSection = {
+                type: 'interlude',
+                content: `${line}\n`,
+                title,
+                nb
+            }
+        } else if (epilogueMatch) {
+            pushCurrentSection()
+            const title = (epilogueMatch[2] ?? '').trim() || 'Épilogue'
+            currentSection = {
+                type: 'epilogue',
+                content: `${line}\n`,
+                title,
+                nb: undefined
+            }
+        } else if (introMatch) {
+            pushCurrentSection()
+            currentSection = {
+                type: 'intro',
+                content: `${line}\n`,
+                title: 'Introduction',
+                nb: undefined
+            }
+        } else {
+            currentSection.content += `${line}\n`
+        }
+    }
+
+    pushCurrentSection()
+    return sections
 }

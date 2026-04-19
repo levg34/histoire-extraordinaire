@@ -6,4 +6,4 @@ import { extractChaptersTitle, getStorySliceWithContent, sliceStoryByChapters } 
 // await Bun.write('output/chapters.md', chapters.join('\n'))
 
 const slicedStory = sliceStoryByChapters(histoire)
-console.log(slicedStory)
+console.log(slicedStory.filter((s) => s.type === 'epilogue')) //.map((s) => s.title))
