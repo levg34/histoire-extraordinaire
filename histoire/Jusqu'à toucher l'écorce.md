@@ -26,6 +26,8 @@ Puis un autre.
 
 Et la forêt se referma sur lui, silencieuse et patiente, comme si elle l'avait toujours attendu.
 
+---
+
 ### Chapitre 1 : Dans lequel Lucien ne fait pas demi-tour
 
 Il marchait depuis une bonne heure, s'enfonçant là où les troncs sont plus larges et les sentiers moins tracés. L'appréhension de la ville s'était évaporée, remplacée par une espèce de vigilance paisible. C'est là, au détour d'un énorme châtaignier, qu'il la vit.
@@ -63,6 +65,8 @@ Elle hocha la tête, comme si elle venait de noter quelque chose d'important.
 — À bientôt, Lucien.
 
 Il savait déjà qu'il reviendrait sûrement. Pas pour elle, non. Ou peut-être un peu. Surtout pour savoir s'il serait capable, comme elle, de poser ses fesses sur la mousse sans que la terre s'écroule sous lui.
+
+---
 
 ### Chapitre 2 : Dans lequel Lucien rentre chez lui et ne fait absolument rien
 
@@ -129,6 +133,8 @@ Sur ces mots énigmatiques, elle s'enfonça entre les arbres sans se retourner, 
 _"Quand tu seras prêt."_
 Prêt à quoi ?
 
+---
+
 ### Chapitre 5 : Dans lequel Lucien apprend qu'une semaine peut être longue
 
 Une semaine passa. Ou peut-être dix jours. Lucien ne comptait pas très bien, et le village ne l'aidait pas : le forgeron frappait le fer aux mêmes heures, les poules caquetaient avec la même régularité indifférente. Rien ne pressait.
@@ -182,6 +188,8 @@ Il resta là jusqu'à ce que l'ombre des arbres s'allonge et que l'air fraîchis
 Quand il se leva pour repartir, il vit que quelqu'un — ou quelque chose — avait déplacé le morceau de pain. Il n'était plus sur la pierre plate. Il était posé sur une racine, à l'entrée de l'abri de branchages.
 
 Lucien sourit, rangea les bolets dans sa besace, et reprit le chemin du village.
+
+---
 
 ### Chapitre 8 : Dans lequel un troisième personnage apparaît, mais ne dit rien
 
@@ -263,6 +271,8 @@ Un matin, il trouva devant la porte de sa maisonnette du village une petite plum
 
 Le Rouquin avait décidé que Lucien était du genre à rester.
 
+---
+
 ### Chapitre 11 : Dans lequel Lucien apprend à écouter sans entendre
 
 Les semaines glissèrent comme l'eau du ruisseau. Le printemps s'était installé sans fracas, dépliant une à une les feuilles des hêtres, réveillant des tapis de jacinthes dans les sous-bois. Lucien n'avait jamais prêté attention au printemps, auparavant. Il remarquait juste que les jours rallongeaient et qu'il fallait tailler un peu moins de bois pour la cheminée.
@@ -339,6 +349,8 @@ Le Rouquin, qui trottinait devant eux, s'arrêta net, les oreilles dressées. Il
 
 Lucien et Agathe échangèrent un regard. Ni l'un ni l'autre ne parla de la ville. Pas encore. Mais quelque chose avait frémi. Un tout petit frémissement, comme une feuille qui se souvient du vent avant même qu'il ne se lève.
 
+---
+
 ### Chapitre 16 : Dans lequel la lumière déclinante délie un peu la langue
 
 L'été avait installé sa chaleur lourde. Même la forêt, d'ordinaire fraîche, retenait une moiteur tranquille. Lucien et Agathe s'étaient donné rendez-vous sans se le dire au bord du ruisseau, là où l'eau courait encore un peu. Le Rouquin, plus sage que jamais, dormait en boule sur une pierre plate chauffée par le soleil de l'après-midi.
@@ -412,6 +424,8 @@ Agathe haussa une épaule, ce geste qui signifiait _"y a pas de quoi"_ ou _"c'es
 Lucien resta un moment au bord du ruisseau. Il regarda l'eau couler. Il pensa au mur gris. Il pensa à la miche de pain, à la couverture, à la route qui monte. Et pour la première fois, il eut une pensée étrange : _"Moi aussi, un jour, je pourrais avoir envie de voir ce qu'il y a derrière le mur."_
 
 Pas aujourd'hui. Pas demain. Mais un jour. Peut-être.
+
+---
 
 ### Chapitre 17 : Dans lequel le Rouquin se souvient de quelque chose
 
@@ -492,6 +506,8 @@ Puis elle disparut entre les arbres, le Rouquin sur ses talons.
 Lucien resta seul dans la pénombre, les mots d'Agathe tournant doucement dans sa tête. Il pensa à l'if, aux offrandes, à cette sensation de seuil franchi. Il pensa aussi à la main tendue qui n'avait pas été tendue, mais qui aurait pu l'être.
 
 Et il rentra au village avec, dans la poitrine, une petite braise qui ne demandait qu'à durer.
+
+---
 
 ### Chapitre 20 : Dans lequel le sanctuaire livre un premier secret
 
@@ -675,6 +691,8 @@ Lucien soutint son regard.
 
 Dehors, la neige tombait doucement, étouffant tous les bruits. Le Rouquin dormait, roulé en boule près du feu. Et dans le sanctuaire oublié, sous la neige et les étoiles, la pierre aux gravures attendait, gardant en elle les histoires de ceux qui étaient venus, et la place de ceux qui viendraient.
 
+---
+
 ### Interlude : Celle qui tresse l'avoine
 
 Son nom n'avait pas d'importance. Les bêtes de la forêt ne l'appelaient pas. Elles savaient simplement qu'elle était là, qu'elle faisait partie du paysage, au même titre que le vieil if ou la source cachée sous les fougères.
@@ -706,6 +724,8 @@ Elle préférait le présent. Le bruit du vent dans l'if. Le poids d'une couronn
 Elle n'y allait jamais. Mais elle savait qu'il était là.
 
 Cela suffisait.
+
+---
 
 ### Chapitre 26 : Dans lequel l'hiver ramène Lucien à son foyer
 
@@ -879,6 +899,8 @@ C'était sa façon de dire merci. Lucien comprit et n'en fit pas tout un plat. I
 
 Le Rouquin, lui, avait pris l'habitude de dormir près de l'âtre quand ils étaient là. Il s'étalait de tout son long, la fourrure tiédie par les braises, et ronflait avec un contentement évident. Il avait compris que cet endroit était une extension acceptable de son territoire — une tanière supplémentaire, avec du feu et des restes de fromage.
 
+---
+
 ### Chapitre 32 : Dans lequel la forêt se souvient du vert
 
 Le printemps arriva par petites touches, comme un peintre timide qui testerait ses couleurs dans un coin de la toile avant d'oser le grand geste.
@@ -1042,6 +1064,8 @@ Lucien hocha la tête.
 — Le village est plein de gens comme ça. Faut juste leur laisser le temps de se montrer.
 
 Agathe ne répondit pas. Mais elle regarda les maisons du village avec des yeux un peu moins méfiants, un peu plus curieux.
+
+---
 
 ### Chapitre 38 : Dans lequel le marché devient un lieu possible
 
@@ -1231,6 +1255,8 @@ Agathe ne répondit pas. Mais sa main, en marchant, effleura celle de Lucien. Ju
 
 Ils continuèrent à marcher, côte à côte, dans le soir qui descendait sur la forêt.
 
+---
+
 ### Chapitre 43 : Dans lequel Lucien a une idée
 
 Lucien ne dormit pas bien cette nuit-là. L'image du père Anselme, seul sur son banc, le poursuivait. _« Tu lui diras qu'Anselme pense à elle. Tous les jours. »_ Les mots tournaient dans sa tête comme une ritournelle.
@@ -1397,6 +1423,8 @@ La grande ville, en bas, attendait toujours. Mais elle pouvait attendre encore. 
 
 Quant à Lucien et Agathe, leur histoire continuait, lente et sûre, comme la croissance d'un arbre. Un jour, ils descendraient. Mais ce jour n'était pas encore venu.
 
+---
+
 ## Arc II : Le chemin qui descend
 
 ### Chapitre 48 : Dans lequel une rumeur monte de la vallée
@@ -1543,6 +1571,8 @@ La nuit tomba sur le premier soir de leur descente. Ils firent un petit feu, man
 
 Ils ne parlèrent pas beaucoup. Mais dans le silence, une chose était claire : ils étaient prêts. Peur et tout. Prêts à voir ce qu'il y avait derrière le mur gris.
 
+---
+
 ## Interlude : Celle qui se souvient des cendres
 
 Elle n'avait pas toujours eu les cheveux gris.
@@ -1685,6 +1715,8 @@ L'homme regarda la pierre, puis Agathe, puis Lucien. Un long moment. Puis il hoc
 
 — Je m'appelle Elias, dit-il. Et je crois que vous avez beaucoup de choses à me raconter.
 
+---
+
 ### Chapitre 57 : Dans lequel Elias raconte une histoire que nous connaissons déjà
 
 Elias les fit asseoir sur des tabourets bancals, dans un coin de la pièce où la lumière tombait d'une étroite fenêtre à meneaux. Il posa la pierre gravée devant lui, sur la table encombrée de parchemins, et la contempla longuement avant de parler.
@@ -1812,6 +1844,8 @@ Elle sourit doucement, et ce sourire effaça les dernières traces de larmes sur
 Le Rouquin, sentant que la conversation touchait à sa fin, s'étira longuement et vint poser sa tête sur les genoux d'Agathe. Elle gratta doucement l'arrière de ses oreilles, et le renard ferma les yeux de contentement.
 
 Dehors, la grande ville grondait toujours. Mais dans la petite auberge, près du feu, il y avait un îlot de silence. Un morceau de forêt au cœur de la pierre.
+
+---
 
 ## Chapitre 61 : Dans lequel Elias dévoile une carte et une énigme
 
@@ -2011,6 +2045,8 @@ Lucien et Agathe s'assirent à leur tour, sous l'arbre. Le Rouquin s'allongea su
 
 Ils étaient rentrés. Mais ils n'étaient plus tout à fait les mêmes. Et leur histoire, désormais, pouvait continuer — non plus comme deux lignes parallèles, mais comme deux racines qui, sous la terre, s'étaient enfin rejointes.
 
+---
+
 ## Chapitre 67 : La remontée vers le village
 
 Ils quittèrent le sanctuaire au matin, alors que la rosée perlait encore sur les fougères. La Gardienne les regarda partir sans un mot, mais son sourire était une bénédiction. Le Rouquin, fidèle à son rôle de guide, ouvrait la marche sur le sentier qui serpentait vers le village.
@@ -2179,9 +2215,9 @@ Le Rouquin, fidèle parmi les fidèles, va et vient entre les mondes, messager s
 
 Et l'histoire, bien sûr, ne s'arrête pas là. Elle continue, chaque jour, dans les gestes simples : un pain partagé, une branche de romarin offerte, une main tenue dans l'obscurité. Mais pour nous, lecteur, c'est ici que nous posons la plume, sur cette image d'un soir de neige, d'une maison chaude, et de deux âmes qui se sont trouvées.
 
-## Partie III : Vers le Hameau des Cendres
-
 ---
+
+## Partie III : Vers le Hameau des Cendres
 
 ### Chapitre 73 : L'idée des ruines
 
@@ -2510,6 +2546,8 @@ Ils remontèrent vers le village, chargés de ces nouveaux trésors immatériels
 Le Rouquin les accueillit à la lisière, la queue frétillante. Il avait senti leur retour. La mère Brémond, depuis le seuil de sa maisonnette, leur adressa un signe de la main.
 
 Le village les attendait. La forêt aussi. Et désormais, ils savaient qu'ils pouvaient aller de l'un à l'autre, sans jamais se perdre.
+
+---
 
 ### Épilogue : Ce que le Sage ne dit pas
 
