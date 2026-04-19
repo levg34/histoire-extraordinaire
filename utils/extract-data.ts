@@ -138,7 +138,7 @@ export function sliceStoryByChapters(content: string): {
             const nb = Number.isFinite(Number(title)) ? Number(title) : undefined
             currentSection = {
                 type: 'chapter',
-                content: `${line}\n`,
+                content: '',
                 title,
                 nb,
                 storyPart: currentStoryPart
@@ -149,7 +149,7 @@ export function sliceStoryByChapters(content: string): {
             const nb = Number.isFinite(Number(title)) ? Number(title) : undefined
             currentSection = {
                 type: 'interlude',
-                content: `${line}\n`,
+                content: '',
                 title,
                 nb,
                 storyPart: currentStoryPart
@@ -159,7 +159,7 @@ export function sliceStoryByChapters(content: string): {
             const title = (epilogueMatch[2] ?? '').trim() || 'Épilogue'
             currentSection = {
                 type: 'epilogue',
-                content: `${line}\n`,
+                content: '',
                 title,
                 nb: undefined,
                 storyPart: currentStoryPart
@@ -168,7 +168,7 @@ export function sliceStoryByChapters(content: string): {
             pushCurrentSection()
             currentSection = {
                 type: 'intro',
-                content: `${line}\n`,
+                content: '',
                 title: 'Introduction',
                 nb: undefined,
                 storyPart: currentStoryPart
