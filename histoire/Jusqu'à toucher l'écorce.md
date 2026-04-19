@@ -1573,7 +1573,7 @@ Ils ne parlèrent pas beaucoup. Mais dans le silence, une chose était claire : 
 
 ---
 
-## Interlude : Celle qui se souvient des cendres
+### Interlude : Celle qui se souvient des cendres
 
 Elle n'avait pas toujours eu les cheveux gris.
 
@@ -1611,7 +1611,7 @@ Elle, elle resterait là-haut. À tresser des couronnes d'avoine. À écouter le
 
 ---
 
-## Chapitre 53 : Le matin de la descente
+### Chapitre 53 : Le matin de la descente
 
 Le campement s'éveilla dans une lumière laiteuse, voilée par les brumes qui montaient de la vallée. Le Rouquin était déjà debout, assis face à la ville, les oreilles dressées. Il écoutait la rumeur lointaine comme on écoute une langue étrangère, avec attention et prudence.
 
@@ -1623,7 +1623,7 @@ Puis ils s'engagèrent sur le chemin qui descendait, et la forêt se referma der
 
 ---
 
-## Chapitre 54 : Les portes de la grande ville
+### Chapitre 54 : Les portes de la grande ville
 
 La descente fut plus longue qu'ils ne l'imaginaient. Le sentier se muait peu à peu en une route pavée, large et usée par les chariots. Des murets de pierre sèche bordaient le chemin, vestiges d'anciennes cultures en terrasses aujourd'hui abandonnées. L'air s'épaississait de poussière et d'odeurs nouvelles : fumée de bois, sueur animale, fer chauffé, et par-dessous tout, un fond douceâtre et entêtant — la grande ville qui respirait.
 
@@ -1673,7 +1673,7 @@ En attendant, il gardait la porte nord. Et chaque soir, il regardait la forêt.
 
 ---
 
-## Chapitre 55 : Premiers pas sur le pavé
+### Chapitre 55 : Premiers pas sur le pavé
 
 Le bruit, d'abord, fut une vague qui les submergea. Partout, des gens — plus de gens qu'ils n'en avaient jamais vus de leur vie. Des visages pressés, des épaules qui se frôlaient, des voix qui se croisaient sans s'écouter. Les maisons, hautes de trois ou quatre étages, penchaient sur les ruelles étroites, créant une pénombre perpétuelle trouée de rais de lumière.
 
@@ -1695,7 +1695,7 @@ Ils restèrent ainsi un moment, à regarder l'eau couler et les passants s'affai
 
 ---
 
-## Chapitre 56 : Le temple ancien et le savant aux yeux tristes
+### Chapitre 56 : Le temple ancien et le savant aux yeux tristes
 
 Ils trouvèrent le temple ancien sans difficulté. C'était une bâtisse trapue, en pierre sombre, coincée entre deux immeubles plus récents. Une petite porte ogivale s'ouvrait sur une cour intérieure où poussaient des herbes folles.
 
@@ -1847,7 +1847,7 @@ Dehors, la grande ville grondait toujours. Mais dans la petite auberge, près du
 
 ---
 
-## Chapitre 61 : Dans lequel Elias dévoile une carte et une énigme
+### Chapitre 61 : Dans lequel Elias dévoile une carte et une énigme
 
 Le lendemain, ils retournèrent au temple ancien. Elias les attendait, assis à sa table, entouré de parchemins déroulés. Il avait disposé plusieurs fragments côte à côte, et l'ensemble formait une sorte de carte — grossière, pleine de lacunes, mais reconnaissable.
 
@@ -1879,7 +1879,7 @@ Agathe prit la statuette. Elle était légère, tiède, comme si elle avait abso
 
 ---
 
-## Chapitre 62 : Dans lequel la ville se fait moins étrangère
+### Chapitre 62 : Dans lequel la ville se fait moins étrangère
 
 Les jours qui suivirent, Lucien et Agathe prirent l'habitude de parcourir la ville. Non plus comme des étrangers égarés, mais comme des explorateurs patients. Ils apprirent à reconnaître les quartiers : celui des tanneurs, âcre et bruyant ; celui des drapiers, plus calme, où les étoffes colorées séchaient aux fenêtres ; celui du port fluvial, où les bateaux déchargeaient des marchandises venues d'on ne sait où.
 
@@ -1909,7 +1909,7 @@ Et dans ce simple échange, il y avait plus de promesses que dans tous les serme
 
 ---
 
-## Chapitre 63 : Dans lequel le passé d'Elias éclaire le présent
+### Chapitre 63 : Dans lequel le passé d'Elias éclaire le présent
 
 Un après-midi, alors qu'ils étudiaient les manuscrits avec Elias, celui-ci se mit à parler de son père. Non pas du brigand, mais de l'homme qu'il était devenu après l'incendie.
 
@@ -1927,7 +1927,7 @@ Lucien hocha la tête. Il pensait à la Gardienne, à ses couronnes d'avoine, à
 
 ---
 
-## Chapitre 64 : Dans lequel la ville offre un dernier secret
+### Chapitre 64 : Dans lequel la ville offre un dernier secret
 
 La veille de leur départ prévu, alors qu'ils marchaient le long du fleuve, ils tombèrent sur un petit square oublié, coincé entre deux hauts murs. Au centre, un arbre unique — un tilleul — étendait ses branches au-dessus d'un banc de pierre moussu.
 
@@ -1953,7 +1953,7 @@ Le Rouquin, couché à leurs pieds, dormait paisiblement.
 
 ---
 
-## Chapitre 65 : Dans lequel ils se reconnaissent
+### Chapitre 65 : Dans lequel ils se reconnaissent
 
 Le soir tombait quand ils quittèrent le square. Ils marchaient lentement, sans hâte, dans les ruelles qui s'assombrissaient. Leurs mains s'étaient rejointes naturellement, et ni l'un ni l'autre ne songeait à les séparer.
 
@@ -1983,7 +1983,7 @@ Ils le suivirent, main dans la main, vers l'auberge, vers la nuit, vers tout ce 
 
 ---
 
-## Chapitre 66 : Le choix du retour
+### Chapitre 66 : Le choix du retour
 
 Le lendemain matin, ils firent leurs adieux à Elias. Il leur offrit une copie de la carte ancienne et la statuette de son père, enveloppée de linge.
 
@@ -2015,7 +2015,7 @@ Ils restèrent ainsi un long moment, à écouter le bruit de l'eau et le vent da
 
 ---
 
-## Épilogue de l'arc urbain : Ce qu'ils rapportent
+### Épilogue de l'arc urbain : Ce qu'ils rapportent
 
 Quand ils atteignirent enfin le sanctuaire, l'if centenaire les accueillit de son ombre fraîche. La Gardienne était là, assise sur une pierre, une couronne d'avoine inachevée entre les mains.
 
@@ -2047,7 +2047,7 @@ Ils étaient rentrés. Mais ils n'étaient plus tout à fait les mêmes. Et leur
 
 ---
 
-## Chapitre 67 : La remontée vers le village
+### Chapitre 67 : La remontée vers le village
 
 Ils quittèrent le sanctuaire au matin, alors que la rosée perlait encore sur les fougères. La Gardienne les regarda partir sans un mot, mais son sourire était une bénédiction. Le Rouquin, fidèle à son rôle de guide, ouvrait la marche sur le sentier qui serpentait vers le village.
 
@@ -2069,7 +2069,7 @@ Le Rouquin, comme s'il sentait l'approche du village, accéléra le pas et dispa
 
 ---
 
-## Chapitre 68 : Le banc du père Anselme
+### Chapitre 68 : Le banc du père Anselme
 
 Ils débouchèrent sur la place du village par le petit chemin de derrière, celui qu'Agathe empruntait toujours. Le soleil de midi chauffait les pierres, et une odeur de pain frais flottait depuis la boulangerie.
 
@@ -2097,7 +2097,7 @@ Anselme posa doucement sa main parcheminée sur la sienne. Il ne dit rien, mais 
 
 ---
 
-## Chapitre 69 : Les retrouvailles avec le village
+### Chapitre 69 : Les retrouvailles avec le village
 
 La nouvelle de leur retour se répandit vite, portée par le vent léger de la curiosité villageoise. La mère Brémond sortit de sa maisonnette en s'essuyant les mains sur son tablier, un sourire édenté aux lèvres.
 
@@ -2115,7 +2115,7 @@ Agathe, elle, regardait tout cela avec des yeux écarquillés. Elle n'avait jama
 
 ---
 
-## Chapitre 70 : La question du toit
+### Chapitre 70 : La question du toit
 
 Le soir venu, ils se retrouvèrent dans la petite maison de Lucien. Le feu crépitait dans l'âtre, et le Rouquin, couché devant les flammes, ronflait doucement, épuisé par l'excitation du retour.
 
@@ -2151,7 +2151,7 @@ Dehors, le village s'endormait sous les étoiles, et la forêt, tout autour, vei
 
 ---
 
-## Chapitre 71 : L'installation
+### Chapitre 71 : L'installation
 
 Les jours qui suivirent furent doux et pleins de petits gestes. Agathe apporta de la forêt des branches de noisetier pour tresser des paniers, des herbes séchées à suspendre aux poutres, une pierre polie pour le rebord de la fenêtre. Lucien dégagea un coin de la table pour qu'elle puisse y poser son carnet de croquis — elle s'était mise à dessiner les plantes et les champignons, avec une précision patiente.
 
@@ -2173,7 +2173,7 @@ Anselme hocha la tête, satisfait.
 
 ---
 
-## Chapitre 72 : Une vie nouvelle
+### Chapitre 72 : Une vie nouvelle
 
 Le temps passa, comme il passe dans les villages perchés : lentement, au rythme des saisons et des travaux quotidiens. Lucien continuait de tailler ses rosiers, mais maintenant, Agathe était là, assise sur le muret, à dessiner ou à trier des graines. Ils allaient ensemble au marché, où Agathe avait pris l'habitude de s'arrêter à chaque étal, échangeant quelques mots avec les marchands.
 
@@ -2203,7 +2203,7 @@ Elle ne dit rien. Elle se leva, entoura Lucien de ses bras, et posa sa tête con
 
 ---
 
-## Épilogue : Ce que deviennent les asymptotes
+### Épilogue : Ce que deviennent les asymptotes
 
 Ainsi, cher lecteur, Lucien et Agathe ne sont plus deux lignes qui se frôlent sans jamais se toucher. Ils sont devenus un arbre aux racines entremêlées, un hêtre et une fougère qui poussent côte à côte, se protégeant du vent et partageant la lumière.
 
@@ -2401,7 +2401,7 @@ La Gardienne hocha la tête, et pour la première fois, son sourire était jeune
 
 ---
 
-## Chapitre 82 : La redescente
+### Chapitre 82 : La redescente
 
 L'hiver s'était installé sur les hauteurs, mais en contrebas, la vallée restait plus clémente. Lucien et Agathe attendirent une éclaircie pour entreprendre la descente, emportant avec eux le rouleau enveloppé de toile cirée, la statuette d'os, et un petit pot de miel du village — un présent pour Elias.
 
@@ -2449,7 +2449,7 @@ Mais il sut que le jour viendrait.
 
 ---
 
-## Chapitre 83 : Retrouvailles avec Elias
+### Chapitre 83 : Retrouvailles avec Elias
 
 Ils trouvèrent Elias dans le temple ancien, comme la première fois, penché sur ses manuscrits. La lumière d'hiver, pâle et rasante, éclairait la poussière en suspension. Il leva la tête et son visage s'éclaira.
 
@@ -2477,7 +2477,7 @@ Elias sourit, un sourire rare qui adoucit son visage marqué.
 
 ---
 
-## Chapitre 84 : Une offrande dans la ville
+### Chapitre 84 : Une offrande dans la ville
 
 Elias leur proposa de l'accompagner jusqu'au square au tilleul, celui qui avait été planté en mémoire du Hameau des Cendres. Ils traversèrent la ville tous les trois, dans la lumière froide de l'après-midi. Les passants ne les remarquaient pas ; ils étaient devenus, d'une certaine manière, des ombres familières de ces rues.
 
@@ -2491,7 +2491,7 @@ Un vieil homme qui passait par là s'arrêta, regarda la scène, et hocha doucem
 
 ---
 
-## Chapitre 85 : Une dernière confidence d'Elias
+### Chapitre 85 : Une dernière confidence d'Elias
 
 De retour au temple, Elias leur offrit une infusion d'herbes et un peu de pain. Il semblait vouloir dire quelque chose, mais hésitait.
 
@@ -2509,7 +2509,7 @@ Agathe baissa les yeux, émue. Elle pensa à la petite ruelle, à la fenêtre vi
 
 ---
 
-## Chapitre 86 : Une nuit dans la ville
+### Chapitre 86 : Une nuit dans la ville
 
 Elias insista pour qu'ils restent dormir au temple. Il y avait une petite chambre attenante, avec deux lits étroits et une fenêtre donnant sur la cour intérieure. Ils acceptèrent.
 
@@ -2533,7 +2533,7 @@ Ils s'embrassèrent doucement, là, devant la fenêtre ouverte sur la ville endo
 
 ---
 
-## Chapitre 87 : Le retour et la transmission
+### Chapitre 87 : Le retour et la transmission
 
 Le lendemain, ils prirent congé d'Elias. Il leur offrit un petit livre relié de cuir, vierge.
 
