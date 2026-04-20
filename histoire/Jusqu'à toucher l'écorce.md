@@ -2015,7 +2015,7 @@ Ils restèrent ainsi un long moment, à écouter le bruit de l'eau et le vent da
 
 ---
 
-### Épilogue de l'arc urbain : Ce qu'ils rapportent
+### Épilogue : Ce qu'ils rapportent
 
 Quand ils atteignirent enfin le sanctuaire, l'if centenaire les accueillit de son ombre fraîche. La Gardienne était là, assise sur une pierre, une couronne d'avoine inachevée entre les mains.
 
@@ -2153,7 +2153,7 @@ Dehors, le village s'endormait sous les étoiles, et la forêt, tout autour, vei
 
 ### Chapitre 71 : L'installation
 
-Les jours qui suivirent furent doux et pleins de petits gestes. Agathe apporta de la forêt des branches de noisetier pour tresser des paniers, des herbes séchées à suspendre aux poutres, une pierre polie pour le rebord de la fenêtre. Lucien dégagea un coin de la table pour qu'elle puisse y poser son carnet de croquis — elle s'était mise à dessiner les plantes et les champignons, avec une précision patiente.
+Les jours qui suivirent furent doux et pleins de petits gestes. Agathe apporta de la forêt des branches de noisetier pour tresser des paniers, des herbes séchées à suspendre aux poutres, une pierre polie pour le rebord de la fenêtre. Lucien dégagea un coin de la table pour qu'elle puisse y étaler ses trouvailles — elle s'était mise à tracer parfois leurs formes du bout du doigt sur le bois, comme pour en garder l'empreinte, avec une précision patiente.
 
 La mère Brémond leur offrit un pot de confiture de mûres et un édredon de laine pour les nuits fraîches. La Berthe leur donna un petit fromage de chèvre, avec un sourire presque visible sous sa moustache. La boulangère, en leur tendant le pain quotidien, glissa un jour :
 
@@ -2181,7 +2181,7 @@ Ils retournaient régulièrement au sanctuaire, pour voir la Gardienne et dépos
 
 Le Rouquin partageait sa vie entre la maison du village et les bois. Il avait trouvé un équilibre, lui aussi, entre la chaleur de l'âtre et les odeurs sauvages. Il vieillissait doucement, le museau un peu plus gris, mais les yeux toujours vifs.
 
-Un soir d'hiver, alors que la neige tombait dehors, Agathe posa son carnet et regarda Lucien.
+Un soir d'hiver, alors que la neige tombait dehors, Agathe posa les graines qu'elle triait et regarda Lucien.
 
 — Je crois que je suis heureuse, dit-elle. Vraiment heureuse. Je ne savais pas que c'était possible.
 
@@ -2213,7 +2213,9 @@ Le père Anselme et la Gardienne continuent de se voir, à leur rythme, sur leur
 
 Le Rouquin, fidèle parmi les fidèles, va et vient entre les mondes, messager silencieux d'un équilibre retrouvé.
 
-Et l'histoire, bien sûr, ne s'arrête pas là. Elle continue, chaque jour, dans les gestes simples : un pain partagé, une branche de romarin offerte, une main tenue dans l'obscurité. Mais pour nous, lecteur, c'est ici que nous posons la plume, sur cette image d'un soir de neige, d'une maison chaude, et de deux âmes qui se sont trouvées.
+Et l'histoire, bien sûr, ne s'arrête pas là. Elle continue, chaque jour, dans les gestes simples : un pain partagé, une branche de romarin offerte, une main tenue dans l'obscurité.
+
+Les jours passent, paisibles en apparence. Mais certains lieux, certains souvenirs, continuent de veiller — et d’appeler.
 
 ---
 
@@ -2429,7 +2431,7 @@ Et il trottinera à leur rencontre, comme il l'a toujours fait.
 
 ---
 
-### Interlude 2 : La porte entrouverte
+### Interlude : La porte entrouverte
 
 Quelques années plus tard, Gaspard vit revenir le couple. Le même homme, la même femme, mais leurs regards avaient changé. Ils semblaient moins perdus, plus pleins. Le renard n'était pas avec eux cette fois. Gaspard se surprit à le regretter.
 
@@ -2551,21 +2553,25 @@ Le village les attendait. La forêt aussi. Et désormais, ils savaient qu'ils po
 
 ### Épilogue : Ce que le Sage ne dit pas
 
-_(Point de vue du vieil homme itinérant, sur un sentier anonyme.)_
+Il marche.
 
-Il marche. Il a toujours marché. Ses pieds nus connaissent la caresse de la mousse, la morsure des cailloux, la fraîcheur des sources cachées. Il ne sait plus très bien depuis combien de temps il marche. Les saisons passent, et lui avec elles, comme une feuille sur le courant.
+Il a toujours marché.
 
-Parfois, il croise quelqu'un. Un jeune forgeron qui cherche du bois et qui s'est perdu. Un homme mûr, assis seul devant sa maison, qui regarde la forêt sans oser y entrer. Une enfant aux yeux gris qui fuit la ville et qui n'a jamais vu d'arbres.
+Parfois, il traverse des villages posés au bord des forêts. Celui-ci ne lui est pas inconnu.
 
-Il leur dit quelques mots. Jamais les mêmes. Il ne prépare rien ; les mots viennent, comme l'eau à la source. Il ne sait pas s'ils servent à quelque chose. Il les pose, simplement, et reprend sa marche.
+À la lisière, il s’arrête.
 
-Il ne revient jamais en arrière. Il ne vérifie pas si la graine a germé. Ce n'est pas son rôle. Son rôle, c'est de marcher, et de parler quand on lui parle, et de se taire le reste du temps.
+Un renard est assis là, immobile, comme s’il attendait quelque chose qu’il ne nommera pas. Plus loin, une maison de pierre, une fenêtre ouverte, des voix qui passent doucement.
 
-Parfois, la nuit, sous un hêtre ou un chêne, il se souvient de visages. Le jeune forgeron, devenu vieux, a-t-il trouvé ce qu'il ne savait pas chercher ? L'homme inquiet, a-t-il a fini par franchir la lisière ? L'enfant aux yeux gris, devenue femme, a-t-elle trouvé sa forêt ?
+Il ne s’approche pas.
 
-Il sourit, dans le noir. Il se dit que les arbres poussent sans qu'on leur dise comment, et que les humains, peut-être, ne sont pas si différents.
+Il observe un instant, sans chercher à comprendre.
 
-Puis il s'endort, et le lendemain, il marche encore.
+Puis il reprend sa route.
+
+Le vent bouge dans les arbres.
+
+Et dans son silence, il se dit simplement que les choses continuent de pousser, même quand on cesse de les regarder.
 
 ---
 
