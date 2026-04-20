@@ -2561,7 +2561,7 @@ Parfois, il traverse des villages posés au bord des forêts. Celui-ci ne lui es
 
 À la lisière, il s’arrête.
 
-Un renard est assis là, immobile, comme s’il attendait quelque chose qu’il ne nommera pas. Plus loin, une maison de pierre, une fenêtre ouverte, des voix qui passent doucement.
+Un vieux renard est assis là, immobile, comme s’il attendait quelque chose qu’il ne nommera pas. Plus loin, une maison de pierre, une fenêtre ouverte, des voix qui passent doucement.
 
 Il ne s’approche pas.
 
