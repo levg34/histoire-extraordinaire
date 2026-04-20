@@ -1,9 +1,9 @@
 import histoire from "./histoire/Jusqu'à toucher l'écorce.md?raw"
 import { extractChaptersTitle, getStorySliceWithContent, sliceStoryByChapters } from './utils/extract-data'
 
-// const chapters = extractChaptersTitle(histoire)
+const chapters = extractChaptersTitle(histoire)
 
-// await Bun.write('output/chapters.md', chapters.join('\n'))
+await Bun.write('output/chapters.md', chapters.join('\n'))
 
-const slicedStory = sliceStoryByChapters(histoire)
-console.log(slicedStory.filter((s) => s.type === 'intro')) //.map((s) => s.title))
+// const slicedStory = sliceStoryByChapters(histoire)
+// console.log(slicedStory.filter((s) => s.type === 'intro')) //.map((s) => s.title))
