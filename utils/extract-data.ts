@@ -1,10 +1,16 @@
-export function extractChaptersTitle(content: string) {
-    const chapterRegex = /# (.+)/g
+export function extractChaptersTitle(content: string, keepLevel?: boolean) {
+    const chapterRegex = /^(#+) (.+)/gm
     const chapters: string[] = []
     let match: RegExpExecArray | null
 
     while ((match = chapterRegex.exec(content)) !== null) {
-        chapters.push(match[1]!)
+        const level = match[1]!.length
+        const title = match[2]!
+        if (keepLevel) {
+            chapters.push(`${title} (indentation level ${level})`)
+        } else {
+            chapters.push(title)
+        }
     }
 
     return chapters

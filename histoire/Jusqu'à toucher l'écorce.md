@@ -2223,7 +2223,7 @@ Les jours passent, paisibles en apparence. Mais certains lieux, certains souveni
 
 ---
 
-## Partie IV : Vers le Hameau des Cendres
+## Partie IV : La graine sous les cendres
 
 ### Chapitre 73 : L'idée des ruines
 

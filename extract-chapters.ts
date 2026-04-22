@@ -1,7 +1,7 @@
 import histoire from "./histoire/Jusqu'à toucher l'écorce.md?raw"
 import { extractChaptersTitle, getStorySliceWithContent, sliceStoryByChapters } from './utils/extract-data'
 
-const chapters = extractChaptersTitle(histoire)
+const chapters = extractChaptersTitle(histoire, true)
 
 await Bun.write('output/chapters.md', chapters.join('\n'))
 
