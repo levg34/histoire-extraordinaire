@@ -2019,7 +2019,7 @@ Ils restèrent ainsi un long moment, à écouter le bruit de l'eau et le vent da
 
 ---
 
-### Épilogue : Ce qu'ils rapportent
+### Pause : Ce qu'ils rapportent
 
 Quand ils atteignirent enfin le sanctuaire, l'if centenaire les accueillit de son ombre fraîche. La Gardienne était là, assise sur une pierre, une couronne d'avoine inachevée entre les mains.
 
