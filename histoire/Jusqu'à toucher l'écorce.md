@@ -28,6 +28,8 @@ Et la forêt se referma sur lui, silencieuse et patiente, comme si elle l'avait 
 
 ---
 
+## Partie I : La lisière
+
 ### Chapitre 1 : Dans lequel Lucien ne fait pas demi-tour
 
 Il marchait depuis une bonne heure, s'enfonçant là où les troncs sont plus larges et les sentiers moins tracés. L'appréhension de la ville s'était évaporée, remplacée par une espèce de vigilance paisible. C'est là, au détour d'un énorme châtaignier, qu'il la vit.
