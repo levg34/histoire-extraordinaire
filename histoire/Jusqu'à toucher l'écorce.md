@@ -28,7 +28,7 @@ Et la forêt se referma sur lui, silencieuse et patiente, comme si elle l'avait 
 
 ---
 
-## Partie I : La lisière
+## Partie I : Le gros châtaignier
 
 ### Chapitre 1 : Dans lequel Lucien ne fait pas demi-tour
 
@@ -729,6 +729,8 @@ Cela suffisait.
 
 ---
 
+## Partie II : Le seuil de pierre
+
 ### Chapitre 26 : Dans lequel l'hiver ramène Lucien à son foyer
 
 L'hiver s'épaissit. Les jours étaient courts, la lumière pauvre, et la forêt tout entière semblait retenir son souffle sous la neige. Lucien continuait de s'y rendre, mais ses visites étaient plus brèves. Il rentrait au village avant la nuit, les doigts gourds, pour ranimer le feu dans l'âtre de sa petite maison.
@@ -1427,7 +1429,7 @@ Quant à Lucien et Agathe, leur histoire continuait, lente et sûre, comme la cr
 
 ---
 
-## Partie II : Le chemin qui descend
+## Partie III : Le chemin qui descend
 
 ### Chapitre 48 : Dans lequel une rumeur monte de la vallée
 
@@ -2221,7 +2223,7 @@ Les jours passent, paisibles en apparence. Mais certains lieux, certains souveni
 
 ---
 
-## Partie III : Vers le Hameau des Cendres
+## Partie IV : Vers le Hameau des Cendres
 
 ### Chapitre 73 : L'idée des ruines
 
