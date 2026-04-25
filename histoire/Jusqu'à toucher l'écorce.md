@@ -10,7 +10,7 @@ Notre héros, Lucien, habitait un petit village sur le flanc de la colline. Il y
 
 La grande ville, en contrebas, il ne l'avait jamais visitée non plus. Le village lui demandait déjà un effort discret pour y tenir sa place ; la ville lui semblait simplement hors de portée, bruyante, trop pleine de regards inconnus. Et pour y aller, il aurait fallu traverser la forêt. L'idée seule de s'en approcher le faisait frémir d'une appréhension qu'il ne cherchait pas à nommer.
 
-Lucien préférait sa propre compagnie à celle des autres villageois. Non par mépris ni par crainte — les gens du village n'étaient pas méchants, seulement affairés, bruissants de paroles qui lui semblaient toujours un peu trop rapides, un peu trop nombreuses. Il les saluait d'un signe de tête, échangeait quelques mots au marché, mais ne s'attardait jamais. Il avait appris, au fil des saisons, à se faire oublier. À devenir une présence discrète, presque invisible.
+Lucien préférait sa propre compagnie à celle des autres villageois. Non par mépris ni par crainte — les gens du village n'étaient pas méchants, seulement affairés, bruissants de paroles qui lui semblaient toujours un peu trop rapides, un peu trop nombreuses. Il les saluait d’un signe de tête, échangeait quelques mots lorsque c’était nécessaire, mais ne s’attardait jamais. Il avait appris, au fil des saisons, à se faire oublier. À devenir une présence discrète, presque invisible.
 
 On le disait un peu sauvage. Certains le croyaient muet, ou simple d'esprit. D'autres, plus indulgents, pensaient simplement qu'il était né ainsi, avec un goût prononcé pour le silence. Lucien n'en souffrait pas. Le silence était son royaume, et il y régnait sans partage.
 
