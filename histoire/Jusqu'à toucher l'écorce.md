@@ -80,7 +80,7 @@ Il déposa soigneusement le morceau d'écorce dans la poche intérieure de sa ca
 
 Puis il se fit une tisane et regarda par la fenêtre en direction de la forêt, noire et massive sous la lune.
 
-Il ne pensa à rien de spécial.
+Il ne pensa à rien de spécial, si ce n’est que l’odeur de résine semblait plus forte ce soir-là, comme si la forêt avait avancé jusqu’à son seuil.
 
 ---
 
