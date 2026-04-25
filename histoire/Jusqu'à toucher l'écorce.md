@@ -16,7 +16,7 @@ On le disait un peu sauvage. Certains le croyaient muet, ou simple d'esprit. D'a
 
 Un matin pourtant, alors qu'il sortait se promener sans but — comme il le faisait parfois, quand les murs de sa maison lui semblaient trop proches —, il se souvint des paroles d'un vieux sage qui avait traversé le village bien des saisons auparavant. Un homme aux pieds nus et au regard clair, qui parlait peu mais dont les mots se posaient dans l'esprit comme des graines.
 
-_« La forêt fait du bien à ceux qui osent y entrer, avait-il dit. Surtout à ceux qui préfèrent leur propre compagnie. »_
+_« La forêt n’est pas faite pour être regardée de loin. Entre. Sous les arbres, loin du bruit des hommes, l’esprit s’apaise. »_
 
 Lucien s'arrêta à la lisière. Il regarda les troncs serrés, la lumière qui se fragmentait sous les branches, le chemin de terre qui s'enfonçait dans l'ombre verte. Il écouta. Le vent chantait doucement dans les feuillages.
 
