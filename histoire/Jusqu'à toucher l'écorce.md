@@ -6,7 +6,7 @@ Que dirais-tu si je te racontais une histoire extraordinaire ?
 
 Elle se passe il y a fort longtemps, dans une contrée lointaine et paisible, aux confins de la forêt.
 
-Notre héros, Lucien, habitait un petit village sur le flanc de la colline. Il y occupait une maison de pierre aux poutres sombres, avec une fenêtre qui regardait la forêt sans jamais tout à fait la voir. Car Lucien, en vérité, n'y était jamais entré. Il longeait parfois la lisière, humait l'odeur de la résine et de la terre humide, mais ses pas le ramenaient toujours au village, aux chemins connus, aux silences familiers.
+Notre héros, Lucien, habitait un petit village sur le flanc de la colline. Il y occupait une maison de pierre aux poutres sombres, avec une fenêtre donnant sur la forêt — une forêt qu’il observait régulièrement, sans jamais juger utile d’y entrer. Il longeait parfois la lisière, humait l’odeur de la résine et de la terre humide, mais ses pas le ramenaient toujours au village, aux chemins connus, aux silences familiers.
 
 La grande ville, en contrebas, il ne l'avait jamais visitée non plus. Elle lui paraissait lointaine, bruyante, peuplée d'inconnus et de regards trop pressés. L'idée seule de s'en approcher le faisait frémir d'une appréhension qu'il ne cherchait pas à nommer.
 
