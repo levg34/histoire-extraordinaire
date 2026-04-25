@@ -8,13 +8,13 @@ Elle se passe il y a fort longtemps, dans une contrée lointaine et paisible, au
 
 Notre héros, Lucien, habitait un petit village sur le flanc de la colline. Il y occupait une maison de pierre aux poutres sombres, avec une fenêtre donnant sur la forêt — une forêt qu’il observait régulièrement, sans jamais juger utile d’y entrer. Il longeait parfois la lisière, humait l’odeur de la résine et de la terre humide, mais ses pas le ramenaient toujours au village, aux chemins connus, aux silences familiers.
 
-La grande ville, en contrebas, il ne l'avait jamais visitée non plus. Le village lui demandait déjà un effort discret pour y tenir sa place ; la ville lui semblait simplement hors de portée, bruyante, trop pleine de regards inconnus. Et de toute façon, il aurait fallu traverser la forêt. L'idée seule de s'en approcher le faisait frémir d'une appréhension qu'il ne cherchait pas à nommer.
+La grande ville, en contrebas, il ne l'avait jamais visitée non plus. Le village lui demandait déjà un effort discret pour y tenir sa place ; la ville lui semblait simplement hors de portée, bruyante, trop pleine de regards inconnus. Et pour y aller, il aurait fallu traverser la forêt. L'idée seule de s'en approcher le faisait frémir d'une appréhension qu'il ne cherchait pas à nommer.
 
 Lucien préférait sa propre compagnie à celle des autres villageois. Non par mépris ni par crainte — les gens du village n'étaient pas méchants, seulement affairés, bruissants de paroles qui lui semblaient toujours un peu trop rapides, un peu trop nombreuses. Il les saluait d'un signe de tête, échangeait quelques mots au marché, mais ne s'attardait jamais. Il avait appris, au fil des saisons, à se faire oublier. À devenir une présence discrète, presque invisible.
 
 On le disait un peu sauvage. Certains le croyaient muet, ou simple d'esprit. D'autres, plus indulgents, pensaient simplement qu'il était né ainsi, avec un goût prononcé pour le silence. Lucien n'en souffrait pas. Le silence était son royaume, et il y régnait sans partage.
 
-Un matin pourtant, alors qu'il sortait se promener sans but — comme il le faisait parfois, quand les murs de sa maison lui semblaient trop proches —, il se souvint des paroles d'un vieux sage qui avait traversé le village bien des saisons auparavant. Un homme aux pieds nus et au regard clair, qui parlait peu mais dont les mots se posaient dans l'esprit comme des graines.
+Un matin pourtant, alors qu'il sortait se promener sans but — comme il le faisait parfois, quand les murs de sa maison lui semblaient trop proches —, quelque chose dans l’air frais du dehors fit remonter en lui les paroles d'un vieux sage qui avait traversé le village bien des saisons auparavant. Un homme aux pieds nus et au regard clair, qui parlait peu mais dont les mots se posaient dans l'esprit comme des graines.
 
 _« La forêt n’est pas faite pour être regardée de loin. Entre. Sous les arbres, loin du bruit des hommes, l’esprit s’apaise. »_
 
