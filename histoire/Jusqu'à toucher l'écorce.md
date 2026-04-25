@@ -8,9 +8,9 @@ Elle se passe il y a fort longtemps, dans une contrée lointaine et paisible, au
 
 Notre héros, Lucien, habitait un petit village sur le flanc de la colline. Il y occupait une maison de pierre aux poutres sombres, avec une fenêtre donnant sur la forêt — une forêt qu’il observait régulièrement, sans jamais juger utile d’y entrer. Il longeait parfois la lisière, humait l’odeur de la résine et de la terre humide, mais ses pas le ramenaient toujours au village, aux chemins connus, aux silences familiers.
 
-La grande ville, en contrebas, il ne l'avait jamais visitée non plus. Elle lui paraissait lointaine, bruyante, peuplée d'inconnus et de regards trop pressés. L'idée seule de s'en approcher le faisait frémir d'une appréhension qu'il ne cherchait pas à nommer.
+La grande ville, en contrebas, il ne l'avait jamais visitée non plus. Le village lui demandait déjà un effort discret pour y tenir sa place ; la ville lui semblait simplement hors de portée, bruyante, trop pleine de regards inconnus. Et de toute façon, il aurait fallu traverser la forêt. L'idée seule de s'en approcher le faisait frémir d'une appréhension qu'il ne cherchait pas à nommer.
 
-Lucien préférait sa compagnie à celle des autres villageois. Non par mépris ni par crainte — les gens du village n'étaient pas méchants, seulement affairés, bruissants de paroles qui lui semblaient toujours un peu trop rapides, un peu trop nombreuses. Il les saluait d'un signe de tête, échangeait quelques mots au marché, mais ne s'attardait jamais. Il avait appris, au fil des saisons, à se faire oublier. À devenir une présence discrète, presque invisible.
+Lucien préférait sa propre compagnie à celle des autres villageois. Non par mépris ni par crainte — les gens du village n'étaient pas méchants, seulement affairés, bruissants de paroles qui lui semblaient toujours un peu trop rapides, un peu trop nombreuses. Il les saluait d'un signe de tête, échangeait quelques mots au marché, mais ne s'attardait jamais. Il avait appris, au fil des saisons, à se faire oublier. À devenir une présence discrète, presque invisible.
 
 On le disait un peu sauvage. Certains le croyaient muet, ou simple d'esprit. D'autres, plus indulgents, pensaient simplement qu'il était né ainsi, avec un goût prononcé pour le silence. Lucien n'en souffrait pas. Le silence était son royaume, et il y régnait sans partage.
 
