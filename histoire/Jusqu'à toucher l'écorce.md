@@ -41,7 +41,7 @@ Sa voix n'était ni douce ni dure. Juste neutre, comme une pierre plate.
 Lucien acquiesça, hésitant entre s'excuser et faire demi-tour.
 — Moi, je viens d'en bas, dit-elle en désignant vaguement la direction de la ville avec un bout de charbon, duquel elle se servait pour dessiner. Je suis montée un jour et je ne suis jamais redescendue.
 
-Lucien eut un frisson. La grande ville, il ne la connaissait que par ouï-dire : trop de bruit, trop de regards, trop de rues où l'on se perd. Il n'y avait jamais mis les pieds, et l'idée de devoir traverser la forêt pour l'atteindre lui avait toujours paru absurde.
+Lucien frissonna. L'endroit qu'elle montrait, invisible derrière la forêt, était pour lui un lieu inconnu et glaçant.
 
 Elle reporta son attention sur l’écorce sans lui demander son nom. C'était cela le plus étonnant : elle n'attendait rien de lui. Pas de politesse, pas de présentation. Juste qu'il existe à côté du châtaignier.
 Lucien, contre toute logique, s'assit à son tour, à distance respectable, sur un tapis de mousse.
