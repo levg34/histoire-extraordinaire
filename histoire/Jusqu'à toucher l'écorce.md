@@ -2239,22 +2239,6 @@ Elle ne dit rien. Elle se leva, entoura Lucien de ses bras, et posa sa tête con
 
 ---
 
-### Épilogue de la Partie III : Ce que deviennent les asymptotes
-
-Ainsi, cher lecteur, Lucien et Agathe ne sont plus deux lignes qui se frôlent sans jamais se toucher. Ils sont devenus un arbre aux racines entremêlées, un hêtre et une fougère qui poussent côte à côte, se protégeant du vent et partageant la lumière.
-
-Le village les a adoptés, et ils ont adopté le village. La forêt reste leur refuge, leur sanctuaire, leur source. La grande ville, en bas, n'est plus une menace — c'est un souvenir, une leçon, un lieu où ils pourront redescendre un jour, s'ils le souhaitent.
-
-Le père Anselme et la Gardienne continuent de se voir, à leur rythme, sur leur banc ou sous l'if. Ils ne rattrapent pas le temps perdu ; ils l'habitent autrement, avec la sagesse de ceux qui savent que chaque instant est précieux.
-
-Le Rouquin, fidèle parmi les fidèles, va et vient entre les mondes, messager silencieux d'un équilibre retrouvé.
-
-Et l'histoire, bien sûr, ne s'arrête pas là. Elle continue, chaque jour, dans les gestes simples : un pain partagé, une branche de romarin offerte, une main tenue dans l'obscurité.
-
-Les jours passent, paisibles en apparence. Mais certains lieux, certains souvenirs, continuent de veiller — et d’appeler.
-
----
-
 ## Partie IV : La graine sous les cendres
 
 ### Chapitre 73 : L'idée des ruines
