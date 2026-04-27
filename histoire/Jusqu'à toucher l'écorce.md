@@ -98,7 +98,7 @@ Le surlendemain arriva. Le jour des girolles supposées.
 
 Lucien mit sa cape. Prit son panier. Le reposa. Prit un simple sac en toile. Puis son panier finalement, au cas où il y aurait vraiment des girolles, ce qui lui donnerait une contenance.
 
-Il mit une heure pour atteindre le gros châtaignier. Il avait fait deux pauses. Une pour une épine imaginaire dans sa chaussure, l'autre pour observer un scarabée qui, soyons honnêtes, n'était pas passionnant.
+Il mit presque deux heures pour atteindre le gros châtaignier. Il avait fait deux pauses. Une pour une épine imaginaire dans sa chaussure, l'autre pour observer un scarabée qui, soyons honnêtes, n'était pas passionnant.
 
 ---
 
