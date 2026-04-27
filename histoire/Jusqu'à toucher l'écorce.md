@@ -2239,7 +2239,7 @@ Elle ne dit rien. Elle se leva, entoura Lucien de ses bras, et posa sa tête con
 
 ---
 
-### Épilogue : Ce que deviennent les asymptotes
+### Épilogue de la Partie III : Ce que deviennent les asymptotes
 
 Ainsi, cher lecteur, Lucien et Agathe ne sont plus deux lignes qui se frôlent sans jamais se toucher. Ils sont devenus un arbre aux racines entremêlées, un hêtre et une fougère qui poussent côte à côte, se protégeant du vent et partageant la lumière.
 
