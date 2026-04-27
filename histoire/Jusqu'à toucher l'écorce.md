@@ -137,6 +137,38 @@ Prêt à quoi ?
 
 ---
 
+### Interlude : Ce que les vieux disent quand ils ne parlent de rien
+
+Le banc de pierre, au soleil, était occupé comme à l'accoutumée. Le père Anselme fumait sa pipe en terre, le regard perdu dans la fumée. À côté de lui, Gustave tailladait un bout de bois avec un vieux couteau, sans but précis.
+
+— J'ai vu le Lucien, ce matin, dit Gustave. Il a dit bonjour à la boulangère.
+
+— Bonjour ? répéta Anselme, la pipe en suspens.
+
+— Enfin, je crois. Il a bougé les lèvres. Et après il a fait un signe de tête, comme s'il regrettait déjà.
+
+Il y eut un silence, que le père Anselme meubla d'un filet de fumée.
+
+— C'est un drôle de type, reprit Gustave. Il parle jamais, il regarde toujours vers la forêt. Des fois, on dirait qu'il est pas tout à fait là.
+
+— Peut-être qu'il est simple, dit-il encore, sans méchanceté. Ou muet. Ça existe, les muets.
+
+— Peut-être, dit Anselme. Ou peut-être qu'il économe ses mots. Y a des gens comme ça. Ils parlent peu, mais quand ils parlent, faut écouter.
+
+Gustave haussa les épaules.
+
+— En attendant, il fait pas grand-chose. Il taille ses rosiers, il marche au bord des arbres, il rentre. C'est pas une vie.
+
+— C'est la sienne, dit Anselme doucement. Chacun a la sienne.
+
+Ils restèrent là un moment, à regarder le bout du chemin, là où la forêt commençait.
+
+— N'empêche, dit Gustave, il est bizarre.
+
+Anselme ne répondit pas. Il tira sur sa pipe, et ses yeux prirent ce regard de toujours, vague et tourné vers le lointain, comme s'il attendait quelque chose depuis très longtemps sans plus savoir très bien quoi.
+
+---
+
 ### Chapitre 5 : Dans lequel Lucien apprend qu'une semaine peut être longue
 
 Une semaine passa. Ou peut-être dix jours. Lucien ne comptait pas très bien, et le village ne l'aidait pas : le forgeron frappait le fer aux mêmes heures, les poules caquetaient avec la même régularité indifférente. Rien ne pressait.
