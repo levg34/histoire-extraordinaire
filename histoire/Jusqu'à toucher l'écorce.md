@@ -2469,7 +2469,7 @@ Et il trottinera à leur rencontre, comme il l'a toujours fait.
 
 ### Interlude : La porte entrouverte
 
-Quelques années plus tard, Gaspard vit revenir le couple. Le même homme, la même femme, mais leurs regards avaient changé. Ils semblaient moins perdus, plus pleins. Le renard n'était pas avec eux cette fois. Gaspard se surprit à le regretter.
+Quelques mois plus tard, Gaspard vit revenir le couple. Le même homme, la même femme, mais leurs regards avaient changé. Ils semblaient moins perdus, plus pleins. Le renard n'était pas avec eux cette fois. Gaspard se surprit à le regretter.
 
 Ils passèrent la porte sans hâte. La femme portait une besace d'où dépassait un rouleau de toile cirée. L'homme avait au doigt une alliance simple en argent. Gaspard les salua d'un signe de tête.
 
