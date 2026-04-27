@@ -30,7 +30,7 @@ Et la forêt se referma sur lui, silencieuse et patiente, comme si elle l’avai
 
 ### Chapitre 1 : Dans lequel Lucien ne fait pas demi-tour
 
-Il marchait depuis une bonne heure, s'enfonçant là où les troncs sont plus larges et les sentiers moins tracés. L'appréhension de la ville s'était évaporée, remplacée par une espèce de vigilance paisible. C'est là, au détour d'un énorme châtaignier, qu'il la vit.
+Il marchait depuis une bonne heure, s'enfonçant là où les troncs sont plus larges et les sentiers moins tracés. L'appréhension des premiers pas s'était évaporée, remplacée par une espèce de vigilance paisible. C'est là, au détour d'un énorme châtaignier, qu'il la vit.
 
 Elle était assise sur une souche, un morceau d'écorce posé sur les genoux. Ce n'était pas une créature de légende : ses souliers de cuir étaient usés jusqu'à la semelle, et un fil s'était échappé de la manche de sa tunique rudimentaire. Mais il y avait dans sa manière de ne pas bouger, de se fondre dans l'ombre tachetée, quelque chose qui ressemblait à un animal des bois.
 
