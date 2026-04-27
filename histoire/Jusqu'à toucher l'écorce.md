@@ -149,7 +149,7 @@ Le banc de pierre, au soleil, était occupé comme à l'accoutumée. Le père An
 
 Il y eut un silence, que le père Anselme meubla d'un filet de fumée.
 
-— C'est un drôle de type, reprit Gustave. Il parle jamais, il regarde toujours vers la forêt. Des fois, on dirait qu'il est pas tout à fait là.
+— C'est un drôle de type, reprit Gustave. Il parle jamais, il regarde toujours dans le vague. Des fois, on dirait qu'il est pas tout à fait là.
 
 — Peut-être qu'il est simple, dit-il encore, sans méchanceté. Ou muet. Ça existe, les muets.
 
