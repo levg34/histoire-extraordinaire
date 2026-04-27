@@ -2,29 +2,27 @@
 
 ### Introduction
 
-Que dirais-tu si je te racontais une histoire extraordinaire ?
+_La forêt n’est pas faite pour être regardée de loin. Entre. Sous les arbres, loin du bruit des hommes, l’esprit s’apaise._
 
-Elle se passe il y a fort longtemps, dans une contrée lointaine et paisible, aux confins de la forêt.
+Ces mots, Lucien les portait en lui depuis des années sans y penser. Un vieux sage les avait prononcés, un matin d’autrefois, en traversant le village. Il n’avait fait que passer. Ils étaient restés là, comme une graine sous la terre.
 
-Notre héros, Lucien, habitait un petit village sur le flanc de la colline. Il y occupait une maison de pierre aux poutres sombres, avec une fenêtre donnant sur la forêt — une forêt qu’il observait régulièrement, sans jamais juger utile d’y entrer. Il longeait parfois la lisière, humait l’odeur de la résine et de la terre humide, mais ses pas le ramenaient toujours au village, aux chemins connus, aux silences familiers.
+Ce matin-là, pourtant, ils remontèrent.
 
-La grande ville, en contrebas, il ne l'avait jamais visitée non plus. Le village lui demandait déjà un effort discret pour y tenir sa place ; la ville lui semblait simplement hors de portée, bruyante, trop pleine de regards inconnus. Et pour y aller, il aurait fallu traverser la forêt. L'idée seule de s'en approcher le faisait frémir d'une appréhension qu'il ne cherchait pas à nommer.
+Il était à sa fenêtre. De l’autre côté de la vitre, la forêt dressait ses premiers troncs, sombres et serrés, à l’endroit précis où le village renonçait à avancer. Il faisait encore frais. Le vent n’était qu’un murmure dans les feuillages. Lucien enfila ses chaussures, sans intention particulière, et sortit comme il le faisait presque chaque jour — longer la lisière, humer l’air des arbres, puis rentrer chez lui.
 
-Lucien préférait sa propre compagnie à celle des autres villageois. Non par mépris ni par crainte — les gens du village n'étaient pas méchants, seulement affairés, bruissants de paroles qui lui semblaient toujours un peu trop rapides, un peu trop nombreuses. Il les saluait d’un signe de tête, échangeait quelques mots lorsque c’était nécessaire, mais ne s’attardait jamais. Il avait appris, au fil des saisons, à se faire oublier. À devenir une présence discrète, presque invisible.
+Mais ce jour-là, à mesure qu’il approchait des premiers arbres, la phrase se mit à tourner dans sa tête. Pas entière. Un seul mot, surtout.
 
-On le disait un peu sauvage. Certains le croyaient muet, ou simple d'esprit. D'autres, plus indulgents, pensaient simplement qu'il était né ainsi, avec un goût prononcé pour le silence. Lucien n'en souffrait pas. Le silence était son royaume, et il y régnait sans partage.
+_Entre._
 
-Un matin pourtant, alors qu'il sortait se promener sans but — comme il le faisait parfois, quand les murs de sa maison lui semblaient trop proches —, quelque chose dans l’air frais du dehors fit remonter en lui les paroles d'un vieux sage qui avait traversé le village bien des saisons auparavant. Un homme aux pieds nus et au regard clair, qui parlait peu mais dont les mots se posaient dans l'esprit comme des graines.
+Il s’arrêta. La lisière était là, juste devant ses pieds. Un chemin de terre s’enfonçait entre les troncs, tacheté de lumière. L’odeur de la résine flottait, plus vive que d’habitude, presque insistante.
 
-_« La forêt n’est pas faite pour être regardée de loin. Entre. Sous les arbres, loin du bruit des hommes, l’esprit s’apaise. »_
+Lucien sentit son cœur peser, une hésitation qui venait de loin. Il resta un long moment immobile, à écouter le vent, à regarder la pénombre verte.
 
-Lucien s'arrêta à la lisière. Il regarda les troncs serrés, la lumière qui se fragmentait sous les branches, le chemin de terre qui s'enfonçait dans l'ombre verte. Il écouta. Le vent chantait doucement dans les feuillages.
-
-Et sans trop savoir pourquoi, il fit un pas.
+Puis, sans trop savoir pourquoi, il fit un pas.
 
 Puis un autre.
 
-Et la forêt se referma sur lui, silencieuse et patiente, comme si elle l'avait toujours attendu.
+Et la forêt se referma sur lui, silencieuse et patiente, comme si elle l’avait toujours attendu.
 
 ---
 
