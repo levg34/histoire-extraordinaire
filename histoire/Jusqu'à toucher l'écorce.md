@@ -153,7 +153,7 @@ Il y eut un silence, que le père Anselme meubla d'un filet de fumée.
 
 — Peut-être qu'il est simple, dit-il encore, sans méchanceté. Ou muet. Ça existe, les muets.
 
-— Peut-être, dit Anselme. Ou peut-être qu'il économe ses mots. Y a des gens comme ça. Ils parlent peu, mais quand ils parlent, faut écouter.
+— Peut-être, dit Anselme. Ou peut-être qu'il ménage ses mots. Y a des gens comme ça. Ils parlent peu, mais quand ils parlent, faut écouter.
 
 Gustave haussa les épaules.
 
