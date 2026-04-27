@@ -72,7 +72,7 @@ Il savait déjà qu'il reviendrait sûrement. Pas pour elle, non. Ou peut-être 
 
 ### Chapitre 2 : Dans lequel Lucien rentre chez lui et ne fait absolument rien
 
-Ce soir-là, Lucien retrouva sa maisonnette du village avec le cœur étrangement encombré. Ce n'était pas désagréable. Juste... encombré.
+Ce soir-là, Lucien retrouva sa maisonnette de pierre au village avec le cœur étrangement encombré. Ce n'était pas désagréable. Juste... nouveau.
 
 Il posa le plan des myrtilles sur la table de la cuisine. Il le regarda longuement. Le trait ocre du ruisseau était tracé d'une main sûre, sans hésitation. Cette fille, Agathe — ce nom tourbillonnait dans sa tête sans cesse — savait où elle allait. Lui, il avait passé l'après-midi à se demander s'il devait saluer la boulangère le matin ou se contenter d'un signe de tête.
 
