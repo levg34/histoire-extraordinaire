@@ -241,7 +241,7 @@ Il regarda autour de lui. La forêt était silencieuse, mais d'un silence attent
 
 C'est alors qu'il le vit.
 
-À la lisière de la clairière, entre deux fougères, une silhouette rousse, basse sur pattes, immobile. Un renard. Un jeune renard, à en juger par sa taille encore modeste et son museau curieux. Il fixait Lucien de ses yeux dorés, sans crainte apparente, mais avec une intensité troublante. Il ne bougeait pas. Il attendait.
+À la lisière de la clairière, entre deux fougères, une silhouette rousse, basse sur pattes, immobile. Un renard. La taille encore modeste, le museau curieux d’un jeune. Mais quand il planta ses yeux dorés dans ceux de Lucien, l’illusion tomba : c’étaient des yeux qui avaient déjà traversé bien des saisons. Il attendait, sans crainte, avec une patience ancienne.
 
 Lucien ne savait pas quoi faire. Il n'avait jamais parlé à un renard. Les poules du village, oui, il savait leur parler : _"Allez, poussez-vous, laissez-moi prendre l'œuf."_ Mais un renard sauvage, dans une clairière, qui avait visiblement déposé une offrande sur la pierre...
 
@@ -391,7 +391,7 @@ L'été avait installé sa chaleur lourde. Même la forêt, d'ordinaire fraîche
 
 Lucien trempait ses pieds nus dans l'eau. Agathe, adossée à un saule, tressait machinalement des joncs. Elle ne fabriquait rien de précis, juste un entrelacs souple que ses doigts formaient et déformaient, encore et encore.
 
-Il faisait ce genre de silence épais où l'on entend une mouche bourdonner à dix pas. Puis, sans vraiment l'avoir prémédité, Lucien parla.
+Il faisait ce genre de silence épais où l'on entend une mouche bourdonner à  pas. Puis, sans vraiment l'avoir prémédité, Lucien parla.
 
 — La première fois que je t'ai vue, je me suis demandé comment on pouvait vivre comme ça. Sans village, sans maison... sans personne.
 
@@ -1773,7 +1773,7 @@ Lucien et Agathe écoutaient, immobiles. Le Rouquin, couché à leurs pieds, ava
 
 Elias tourna la pierre entre ses doigts.
 
-— Cet homme, c'était mon père. Il est mort il y a dix ans, dans cette ville, en me demandant de chercher la fille aux cheveux bruns. Pour lui dire... qu'il était désolé. Qu'il n'avait pas pu empêcher le feu. Qu'il avait essayé, à sa manière, de réparer en la laissant vivre.
+— Cet homme, c'était mon père. Il est mort il y a  ans, dans cette ville, en me demandant de chercher la fille aux cheveux bruns. Pour lui dire... qu'il était désolé. Qu'il n'avait pas pu empêcher le feu. Qu'il avait essayé, à sa manière, de réparer en la laissant vivre.
 
 Le silence s'étira dans la petite pièce. Agathe regarda Lucien, et dans ses yeux il lut la même pensée que la sienne : la Gardienne. La femme aux cheveux gris du sanctuaire. La survivante.
 
