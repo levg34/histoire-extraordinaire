@@ -2085,7 +2085,7 @@ Ils étaient rentrés. Mais ils n'étaient plus tout à fait les mêmes. Et leur
 
 ### Chapitre 67 : La remontée vers le village
 
-Ils quittèrent le sanctuaire au matin, alors que la rosée perlait encore sur les fougères. La Gardienne les regarda partir sans un mot, mais son sourire était une bénédiction. Le Rouquin, fidèle à son rôle de guide, ouvrait la marche sur le sentier qui serpentait vers le village.
+Ils quittèrent le sanctuaire au matin, alors que la rosée perlait encore sur les fougères. La Gardienne n'était déjà plus là. Le Rouquin, fidèle à son rôle de guide, ouvrait la marche sur le sentier qui serpentait vers le village.
 
 La forêt était calme, baignée d'une lumière dorée d'automne naissant. Les premières feuilles jaunies voletaient paresseusement, et l'air avait cette odeur de terre humide et de champignons qui annonce la fin de l'été. Lucien et Agathe marchaient côte à côte, leurs mains se frôlant parfois, leurs silences pleins de tout ce qu'ils s'étaient dit dans la ville.
 
@@ -2109,13 +2109,13 @@ Le Rouquin, comme s'il sentait l'approche du village, accéléra le pas et dispa
 
 Ils débouchèrent sur la place du village par le petit chemin de derrière, celui qu'Agathe empruntait toujours. Le soleil de midi chauffait les pierres, et une odeur de pain frais flottait depuis la boulangerie.
 
-Sur le banc, face à la rue principale, le père Anselme fumait sa pipe. À côté de lui, une silhouette grise — la Gardienne, qui avait dû arriver par un autre sentier, plus direct. Ils ne parlaient pas. Ils regardaient passer les nuages, et leurs épaules se touchaient presque.
+Sur le banc, face à la rue principale, le père Anselme fumait sa pipe. À côté de lui, une silhouette grise — la Gardienne. Ils ne parlaient pas. Ils regardaient passer les nuages, et leurs épaules se touchaient presque.
 
 Lucien et Agathe s'approchèrent. Anselme tourna la tête et son visage ridé s'illumina.
 
 — Ah, les voilà, les voyageurs ! J'ai cru que la ville vous avait avalés.
 
-— Elle a essayé, répondit Lucien en souriant. Mais on a recraché.
+— Elle a essayé, répondit Lucien en souriant. Mais on en est revenus.
 
 La Gardienne leva les yeux vers eux, et dans son regard gris, il y avait une douceur nouvelle, comme si le poids qu'elle portait depuis si longtemps s'était allégé.
 
