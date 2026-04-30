@@ -2085,7 +2085,7 @@ Ils étaient rentrés. Mais ils n'étaient plus tout à fait les mêmes. Et leur
 
 ### Chapitre 67 : La remontée vers le village
 
-Ils quittèrent le sanctuaire au matin, alors que la rosée perlait encore sur les fougères. La Gardienne n'était déjà plus là. Le Rouquin, fidèle à son rôle de guide, ouvrait la marche sur le sentier qui serpentait vers le village.
+La nuit fut douce, bercée par le silence de l’If. Ils quittèrent le sanctuaire au matin, alors que la rosée perlait encore sur les fougères. La Gardienne n'était déjà plus là. Le Rouquin, fidèle à son rôle de guide, ouvrait la marche sur le sentier qui serpentait vers le village.
 
 La forêt était calme, baignée d'une lumière dorée d'automne naissant. Les premières feuilles jaunies voletaient paresseusement, et l'air avait cette odeur de terre humide et de champignons qui annonce la fin de l'été. Lucien et Agathe marchaient côte à côte, leurs mains se frôlant parfois, leurs silences pleins de tout ce qu'ils s'étaient dit dans la ville.
 
